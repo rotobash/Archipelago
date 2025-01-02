@@ -1,0 +1,278 @@
+[
+  {
+    "name": "Realgam Tower - Colosseum Round 1 Battle 1 Win",
+    "category": ["Colosseums And Gyms"],
+    "region": "Snagem Hideout",
+    "requires": ["Realgam Colosseum Pass"]
+  },
+  {
+    "name": "Realgam Tower - Colosseum Round 1 Battle 2 Win",
+    "category": ["Colosseums And Gyms"],
+    "region": "Snagem Hideout",
+    "requires": ["Realgam Colosseum Pass"]
+  },
+  {
+    "name": "Realgam Tower - Colosseum Round 1 Battle 3 Win",
+    "category": ["Colosseums And Gyms"],
+    "region": "Snagem Hideout",
+    "requires": ["Realgam Colosseum Pass"]
+  },
+  {
+    "name": "Realgam Tower - Colosseum Round 1 Battle 4 Win",
+    "category": ["Colosseums And Gyms"],
+    "region": "Snagem Hideout",
+    "requires": ["Realgam Colosseum Pass"]
+  },
+  {
+    "name": "Realgam Tower - Colosseum Round 1 Prize",
+    "category": ["Colosseums And Gyms"],
+    "region": "Snagem Hideout",
+    "requires": ["Realgam Colosseum Pass"]
+  },
+  {
+    "name": "Realgam Tower - Colosseum Round 2 Battle 1 Win",
+    "category": ["Colosseums And Gyms"],
+    "region": "Snagem Hideout",
+    "requires": ["Realgam Colosseum Pass"]
+  },
+  {
+    "name": "Realgam Tower - Colosseum Round 2 Battle 2 Win",
+    "category": ["Colosseums And Gyms"],
+    "region": "Snagem Hideout",
+    "requires": ["Realgam Colosseum Pass"]
+  },
+  {
+    "name": "Realgam Tower - Colosseum Round 2 Battle 3 Win",
+    "category": ["Colosseums And Gyms"],
+    "region": "Snagem Hideout",
+    "requires": ["Realgam Colosseum Pass"]
+  },
+  {
+    "name": "Realgam Tower - Colosseum Round 2 Battle 4 Win",
+    "category": ["Colosseums And Gyms"],
+    "region": "Snagem Hideout",
+    "requires": ["Realgam Colosseum Pass"]
+  },
+  {
+    "name": "Realgam Tower - Colosseum Round 2 Prize",
+    "category": ["Colosseums And Gyms"],
+    "region": "Snagem Hideout",
+    "requires": ["Realgam Colosseum Pass"]
+  },
+  {
+    "name": "Realgam Tower - Colosseum Round 3 Battle 1 Win",
+    "category": ["Colosseums And Gyms"],
+    "region": "Snagem Hideout",
+    "requires": ["Realgam Colosseum Pass"]
+  },
+  {
+    "name": "Realgam Tower - Colosseum Round 3 Battle 2 Win",
+    "category": ["Colosseums And Gyms"],
+    "region": "Snagem Hideout",
+    "requires": ["Realgam Colosseum Pass"]
+  },
+  {
+    "name": "Realgam Tower - Colosseum Round 3 Battle 3 Win",
+    "category": ["Colosseums And Gyms"],
+    "region": "Snagem Hideout",
+    "requires": ["Realgam Colosseum Pass"]
+  },
+  {
+    "name": "Realgam Tower - Colosseum Round 3 Battle 4 Win",
+    "category": ["Colosseums And Gyms"],
+    "region": "Snagem Hideout",
+    "requires": ["Realgam Colosseum Pass"]
+  },
+  {
+    "name": "Realgam Tower - Colosseum Round 3 Prize",
+    "category": ["Colosseums And Gyms"],
+    "region": "Snagem Hideout",
+    "requires": ["Realgam Colosseum Pass"]
+  },
+  {
+    "name": "Realgam Tower - Colosseum Round 4 Battle 1 Win",
+    "category": ["Colosseums And Gyms"],
+    "region": "Snagem Hideout",
+    "requires": ["Realgam Colosseum Pass"]
+  },
+  {
+    "name": "Realgam Tower - Colosseum Round 4 Battle 2 Win",
+    "category": ["Colosseums And Gyms"],
+    "region": "Snagem Hideout",
+    "requires": ["Realgam Colosseum Pass"]
+  },
+  {
+    "name": "Realgam Tower - Colosseum Round 4 Battle 3 Win",
+    "category": ["Colosseums And Gyms"],
+    "region": "Snagem Hideout",
+    "requires": ["Realgam Colosseum Pass"]
+  },
+  {
+    "name": "Realgam Tower - Colosseum Round 4 Battle 4 Win",
+    "category": ["Colosseums And Gyms"],
+    "region": "Snagem Hideout",
+    "requires": ["Realgam Colosseum Pass"]
+  },
+  {
+    "name": "Realgam Tower - Colosseum Round 4 Prize",
+    "category": ["Colosseums And Gyms"],
+    "region": "Snagem Hideout",
+    "requires": ["Realgam Colosseum Pass"]
+  },
+  {
+    "name": "Pyrite Town - Colosseum Round 1 Battle 1 Win",
+    "category": ["Colosseums And Gyms"],
+    "region": "Pyrite Town",
+    "requires": ["Pyrite Colosseum Pass"]
+  },
+  {
+    "name": "Pyrite Town - Colosseum Round 1 Battle 2 Win",
+    "category": ["Colosseums And Gyms"],
+    "region": "Pyrite Town",
+    "requires": ["Pyrite Colosseum Pass"]
+  },
+  {
+    "name": "Pyrite Town - Colosseum Round 1 Battle 3 Win",
+    "category": ["Colosseums And Gyms"],
+    "region": "Pyrite Town",
+    "requires": ["Pyrite Colosseum Pass"]
+  },
+  {
+    "name": "Pyrite Town - Colosseum Round 1 Battle 4 Win",
+    "category": ["Colosseums And Gyms"],
+    "region": "Pyrite Town",
+    "requires": ["Pyrite Colosseum Pass"]
+  },
+  {
+    "name": "Pyrite Town - Colosseum Round 1 Prize",
+    "category": ["Colosseums And Gyms"],
+    "region": "Pyrite Town",
+    "requires": ["Pyrite Colosseum Pass"]
+  },
+  {
+    "name": "Pyrite Town - Colosseum Round 2 Battle 1 Win",
+    "category": ["Colosseums And Gyms"],
+    "region": "Pyrite Town",
+    "requires": ["Pyrite Colosseum Pass"]
+  },
+  {
+    "name": "Pyrite Town - Colosseum Round 2 Battle 2 Win",
+    "category": ["Colosseums And Gyms"],
+    "region": "Pyrite Town",
+    "requires": ["Pyrite Colosseum Pass"]
+  },
+  {
+    "name": "Pyrite Town - Colosseum Round 2 Battle 3 Win",
+    "category": ["Colosseums And Gyms"],
+    "region": "Pyrite Town",
+    "requires": ["Pyrite Colosseum Pass"]
+  },
+  {
+    "name": "Pyrite Town - Colosseum Round 2 Battle 4 Win",
+    "category": ["Colosseums And Gyms"],
+    "region": "Pyrite Town",
+    "requires": ["Pyrite Colosseum Pass"]
+  },
+  {
+    "name": "Pyrite Town - Colosseum Round 2 Prize",
+    "category": ["Colosseums And Gyms"],
+    "region": "Pyrite Town",
+    "requires": ["Pyrite Colosseum Pass"]
+  },
+  {
+    "name": "Pyrite Town - Colosseum Round 3 Battle 1 Win",
+    "category": ["Colosseums And Gyms"],
+    "region": "Pyrite Town",
+    "requires": ["Pyrite Colosseum Pass"]
+  },
+  {
+    "name": "Pyrite Town - Colosseum Round 3 Battle 2 Win",
+    "category": ["Colosseums And Gyms"],
+    "region": "Pyrite Town",
+    "requires": ["Pyrite Colosseum Pass"]
+  },
+  {
+    "name": "Pyrite Town - Colosseum Round 3 Battle 3 Win",
+    "category": ["Colosseums And Gyms"],
+    "region": "Pyrite Town",
+    "requires": ["Pyrite Colosseum Pass"]
+  },
+  {
+    "name": "Pyrite Town - Colosseum Round 3 Battle 4 Win",
+    "category": ["Colosseums And Gyms"],
+    "region": "Pyrite Town",
+    "requires": ["Pyrite Colosseum Pass"]
+  },
+  {
+    "name": "Pyrite Town - Colosseum Round 3 Prize",
+    "category": ["Colosseums And Gyms"],
+    "region": "Pyrite Town",
+    "requires": ["Pyrite Colosseum Pass"]
+  },
+  {
+    "name": "Pyrite Town - Colosseum Round 4 Battle 1 Win",
+    "category": ["Colosseums And Gyms"],
+    "region": "Pyrite Town",
+    "requires": ["Pyrite Colosseum Pass"]
+  },
+  {
+    "name": "Pyrite Town - Colosseum Round 4 Battle 2 Win",
+    "category": ["Colosseums And Gyms"],
+    "region": "Pyrite Town",
+    "requires": ["Pyrite Colosseum Pass"]
+  },
+  {
+    "name": "Pyrite Town - Colosseum Round 4 Battle 3 Win",
+    "category": ["Colosseums And Gyms"],
+    "region": "Pyrite Town",
+    "requires": ["Pyrite Colosseum Pass"]
+  },
+  {
+    "name": "Pyrite Town - Colosseum Round 4 Battle 4 Win",
+    "category": ["Colosseums And Gyms"],
+    "region": "Pyrite Town",
+    "requires": ["Pyrite Colosseum Pass"]
+  },
+  {
+    "name": "Pyrite Town - Colosseum Round 4 Prize",
+    "category": ["Colosseums And Gyms"],
+    "region": "Pyrite Town",
+    "requires": ["Pyrite Colosseum Pass"]
+  },
+  {
+    "name": "Phenac City - Pregym First Trainer Battle",
+    "category": ["Colosseums And Gyms"],
+    "region": "Early Cipher Key Lair",
+    "requires": ["Pregym Pass"]
+  },
+  {
+    "name": "Phenac City - Pregym Second Trainer Battle",
+    "category": ["Colosseums And Gyms"],
+    "region": "Early Cipher Key Lair",
+    "requires": ["Pregym Pass"]
+  },
+  {
+    "name": "Phenac City - Pregym Third Trainer Battle",
+    "category": ["Colosseums And Gyms"],
+    "region": "Early Cipher Key Lair",
+    "requires": ["Pregym Pass"]
+  },
+  {
+    "name": "Phenac City - Pregym Fourth Trainer Battle",
+    "category": ["Colosseums And Gyms"],
+    "region": "Early Cipher Key Lair",
+    "requires": ["Pregym Pass"]
+  },
+  {
+    "name": "Phenac City - Justy Item 1",
+    "category": ["Colosseums And Gyms"],
+    "region": "Early Cipher Key Lair",
+    "requires": ["Pregym Pass"]
+  },
+  {
+    "name": "Phenac City - Justy Item 2",
+    "category": ["Colosseums And Gyms"],
+    "region": "Early Cipher Key Lair",
+    "requires": ["Pregym Pass"]
+  }
+]

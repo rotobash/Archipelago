@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Oasis Poke Spot - Hoppip Capture",
+    "category": ["Wild Pokemon"],
+    "region": "Oasis Poke Spot",
+    "requires": ["Spot Monitor"]
+  },
+  {
+    "name": "Oasis Poke Spot - Phanpy Capture",
+    "category": ["Wild Pokemon"],
+    "region": "Oasis Poke Spot",
+    "requires": ["Spot Monitor"]
+  },
+  {
+    "name": "Oasis Poke Spot - Surskit Capture",
+    "category": ["Wild Pokemon"],
+    "region": "Oasis Poke Spot",
+    "requires": ["Spot Monitor"]
+  },
+  {
+    "name": "Cave Poke Spot - Aron Capture",
+    "category": ["Wild Pokemon"],
+    "region": "Cave Poke Spot",
+    "requires": ["Spot Monitor"]
+  },
+  {
+    "name": "Cave Poke Spot - Wooper Capture",
+    "category": ["Wild Pokemon"],
+    "region": "Cave Poke Spot",
+    "requires": ["Spot Monitor"]
+  },
+  {
+    "name": "Cave Poke Spot - Zubat Capture",
+    "category": ["Wild Pokemon"],
+    "region": "Cave Poke Spot",
+    "requires": ["Spot Monitor"]
+  },
+  {
+    "name": "Rock Poke Spot - Gligar Capture",
+    "category": ["Wild Pokemon"],
+    "region": "Rock Poke Spot",
+    "requires": ["Spot Monitor"]
+  },
+  {
+    "name": "Rock Poke Spot - Sandshrew Capture",
+    "category": ["Wild Pokemon"],
+    "region": "Rock Poke Spot",
+    "requires": ["Spot Monitor"]
+  },
+  {
+    "name": "Rock Poke Spot - Trapinch Capture",
+    "category": ["Wild Pokemon"],
+    "region": "Rock Poke Spot",
+    "requires": ["Spot Monitor"]
+  }
+]

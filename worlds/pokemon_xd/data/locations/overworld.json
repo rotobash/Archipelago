@@ -1,0 +1,680 @@
+[
+  {
+    "name": "Agate Village - Entrance Chest",
+    "category": ["Chests"],
+    "region": "Agate Village",
+    "requires": []
+  },
+  {
+    "name": "Agate Village - Side Cave South Chest",
+    "category": ["Chests"],
+    "region": "Agate Village",
+    "requires": []
+  },
+  {
+    "name": "Agate Village - Side Cave East Chest",
+    "category": ["Chests"],
+    "region": "Agate Village",
+    "requires": []
+  },
+  {
+    "name": "Agate Village - Behind Eagun's House Chest",
+    "category": ["Chests"],
+    "region": "Agate Village",
+    "requires": []
+  },
+  {
+    "name": "Agate Village - East Chest",
+    "category": ["Chests"],
+    "region": "Agate Village",
+    "requires": []
+  },
+  {
+    "name": "Agate Village - Relic Cave Chest",
+    "category": ["Chests"],
+    "region": "Agate Village",
+    "requires": []
+  },
+  {
+    "name": "Cave Poke Spot - Floor Item",
+    "category": ["Shining Items"],
+    "region": "Cave Poke Spot",
+    "requires": []
+  },
+  {
+    "name": "Cipher Key Lair - Entrance Room Chest",
+    "category": ["Chests"],
+    "region": "Cipher Key Lair",
+    "requires": []
+  },
+  {
+    "name": "Cipher Key Lair - Near Left Stairs Chest",
+    "category": ["Chests"],
+    "region": "Cipher Key Lair",
+    "requires": []
+  },
+  {
+    "name": "Cipher Key Lair - Left Basement Chest",
+    "category": ["Chests"],
+    "region": "Cipher Key Lair",
+    "requires": []
+  },
+  {
+    "name": "Cipher Key Lair - 2F Basement North Chest",
+    "category": ["Chests"],
+    "region": "Cipher Key Lair",
+    "requires": []
+  },
+  {
+    "name": "Cipher Key Lair - 2F Basement West Chest",
+    "category": ["Chests"],
+    "region": "Cipher Key Lair",
+    "requires": []
+  },
+  {
+    "name": "Cipher Key Lair - 2F Bottom Chest",
+    "category": ["Chests"],
+    "region": "Cipher Key Lair",
+    "requires": []
+  },
+  {
+    "name": "Cipher Key Lair - 2F Top Left Chest",
+    "category": ["Chests"],
+    "region": "Cipher Key Lair",
+    "requires": []
+  },
+  {
+    "name": "Cipher Key Lair - 2F Near Middle Stairs Chest",
+    "category": ["Chests"],
+    "region": "Cipher Key Lair",
+    "requires": []
+  },
+  {
+    "name": "Cipher Key Lair - 3F Behind Moon Door Left Chest",
+    "category": ["Chests"],
+    "region": "Cipher Key Lair",
+    "requires": []
+  },
+  {
+    "name": "Cipher Key Lair - 3F Behind Moon Door Right Chest",
+    "category": ["Chests"],
+    "region": "Cipher Key Lair",
+    "requires": []
+  },
+  {
+    "name": "Cipher Key Lair - 4F Right Chest",
+    "category": ["Chests"],
+    "region": "Cipher Key Lair",
+    "requires": []
+  },
+  {
+    "name": "Cipher Key Lair - 4F Left Chest",
+    "category": ["Chests"],
+    "region": "Cipher Key Lair",
+    "requires": []
+  },
+  {
+    "name": "Cipher Key Lair - Rooftop Chest",
+    "category": ["Chests"],
+    "region": "Cipher Key Lair",
+    "requires": []
+  },
+  {
+    "name": "Cipher Key Lair - On Gorigan's Desk Item",
+    "category": ["Shining Items"],
+    "region": "Cipher Key Lair",
+    "requires": []
+  },
+  {
+    "name": "Cipher Lab - Side Lab Left Chest",
+    "category": ["Chests"],
+    "region": "Cipher Lab",
+    "requires": []
+  },
+  {
+    "name": "Cipher Lab - Side Lab Right Chest",
+    "category": ["Chests"],
+    "region": "Cipher Lab",
+    "requires": []
+  },
+  {
+    "name": "Cipher Lab - Elongated Hexagons Room Chest",
+    "category": ["Chests"],
+    "region": "Cipher Lab",
+    "requires": []
+  },
+  {
+    "name": "Cipher Lab - Hexagon Tanks Room Chest",
+    "category": ["Chests"],
+    "region": "Cipher Lab",
+    "requires": []
+  },
+  {
+    "name": "Cipher Lab - Behind Peon Meda Chest",
+    "category": ["Chests"],
+    "region": "Cipher Lab",
+    "requires": []
+  },
+  {
+    "name": "Cipher Lab - Two Scientists Room Chest",
+    "category": ["Chests"],
+    "region": "Cipher Lab",
+    "requires": []
+  },
+  {
+    "name": "Cipher Lab - Behind Nopia Chest",
+    "category": ["Chests"],
+    "region": "Cipher Lab",
+    "requires": []
+  },
+  {
+    "name": "Cipher Lab - Behind Long Desk Chest",
+    "category": ["Chests"],
+    "region": "Cipher Lab",
+    "requires": []
+  },
+  {
+    "name": "Cipher Lab - Top Healing Machine Room Chest",
+    "category": ["Chests"],
+    "region": "Cipher Lab",
+    "requires": []
+  },
+  {
+    "name": "Cipher Lab - Krane Room Chest",
+    "category": ["Chests"],
+    "region": "Cipher Lab",
+    "requires": []
+  },
+  {
+    "name": "Cipher Lab - Krane Room Item",
+    "category": ["Shining Items"],
+    "region": "Cipher Lab",
+    "requires": []
+  },
+  {
+    "name": "Citadark Isle - 1F Chest",
+    "category": ["Chests"],
+    "region": "Citadark Isle",
+    "requires": []
+  },
+  {
+    "name": "Citadark Isle - 2F Left of Whirlpool Chest",
+    "category": ["Chests"],
+    "region": "Citadark Isle",
+    "requires": []
+  },
+  {
+    "name": "Citadark Isle - 2F Top Left Chest",
+    "category": ["Chests"],
+    "region": "Citadark Isle",
+    "requires": []
+  },
+  {
+    "name": "Citadark Isle - 2F Behind Grason Chest",
+    "category": ["Chests"],
+    "region": "Citadark Isle",
+    "requires": []
+  },
+  {
+    "name": "Citadark Isle - 3F Lava Island Chest",
+    "category": ["Chests"],
+    "region": "Citadark Isle",
+    "requires": []
+  },
+  {
+    "name": "Citadark Isle - 3F Near Exit Chest",
+    "category": ["Chests"],
+    "region": "Citadark Isle",
+    "requires": []
+  },
+  {
+    "name": "Citadark Isle - 4F Behind Nalix Chest",
+    "category": ["Chests"],
+    "region": "Citadark Isle",
+    "requires": []
+  },
+  {
+    "name": "Citadark Isle - 4F Behind Jargo Chest",
+    "category": ["Chests"],
+    "region": "Citadark Isle",
+    "requires": []
+  },
+  {
+    "name": "Citadark Isle - 4F Into Cave Chest",
+    "category": ["Chests"],
+    "region": "Citadark Isle",
+    "requires": []
+  },
+  {
+    "name": "Citadark Isle - 4F Next To Exit Chest",
+    "category": ["Chests"],
+    "region": "Citadark Isle",
+    "requires": []
+  },
+  {
+    "name": "Citadark Isle - 4F Elevator Chest",
+    "category": ["Chests"],
+    "region": "Citadark Isle",
+    "requires": []
+  },
+  {
+    "name": "Citadark Isle - 5F Spiral Chest",
+    "category": ["Chests"],
+    "region": "Citadark Isle",
+    "requires": []
+  },
+  {
+    "name": "Citadark Isle - 5F Cliff Chest",
+    "category": ["Chests"],
+    "region": "Citadark Isle",
+    "requires": []
+  },
+  {
+    "name": "Citadark Isle - 6F Orange Crane Chest",
+    "category": ["Chests"],
+    "region": "Citadark Isle",
+    "requires": []
+  },
+  {
+    "name": "Citadark Isle - 6F Pink and Red Crane Chest",
+    "category": ["Chests"],
+    "region": "Citadark Isle",
+    "requires": []
+  },
+  {
+    "name": "Citadark Isle - 6F Cyan Crane Chest",
+    "category": ["Chests"],
+    "region": "Citadark Isle",
+    "requires": []
+  },
+  {
+    "name": "Citadark Isle - 7F Left Chest",
+    "category": ["Chests"],
+    "region": "Citadark Isle",
+    "requires": []
+  },
+  {
+    "name": "Citadark Isle - 7F Right Chest",
+    "category": ["Chests"],
+    "region": "Citadark Isle",
+    "requires": []
+  },
+  {
+    "name": "Citadark Isle - Greevil's Room Chest",
+    "category": ["Chests"],
+    "region": "Citadark Isle",
+    "requires": []
+  },
+  {
+    "name": "Citadark Isle - Greevil's Chair Item",
+    "category": ["Shining Items"],
+    "region": "Citadark Isle",
+    "requires": []
+  },
+  {
+    "name": "Dr. Kaminko's House - Basement Top Left Chest",
+    "category": ["Chests"],
+    "region": "Citadark Isle",
+    "requires": []
+  },
+  {
+    "name": "Dr. Kaminko's House - Basement Floor Item",
+    "category": ["Shining Items"],
+    "region": "Phenac City",
+    "requires": []
+  },
+  {
+    "name": "Dr. Kaminko's House - Scaffolding Top Left Item",
+    "category": ["Shining Items"],
+    "region": "Citadark Isle",
+    "requires": []
+  },
+  {
+    "name": "Dr. Kaminko's House - Scaffolding Middle Item",
+    "category": ["Shining Items"],
+    "region": "Citadark Isle",
+    "requires": []
+  },
+  {
+    "name": "Dr. Kaminko's House - Left Bookcase Item",
+    "category": ["Shining Items"],
+    "region": "Citadark Isle",
+    "requires": []
+  },
+  {
+    "name": "Dr. Kaminko's House - Right Bookcase Item",
+    "category": ["Shining Items"],
+    "region": "Citadark Isle",
+    "requires": []
+  },
+  {
+    "name": "Gateon Port - Outside Lighthouse Chest",
+    "category": ["Chests"],
+    "region": "Gateon Port",
+    "requires": []
+  },
+  {
+    "name": "Gateon Port - First Floor Lighthouse Left Chest",
+    "category": ["Chests"],
+    "region": "Gateon Port",
+    "requires": []
+  },
+  {
+    "name": "Gateon Port - First Floor Lighthouse Right Chest",
+    "category": ["Chests"],
+    "region": "Gateon Port",
+    "requires": []
+  },
+  {
+    "name": "Gateon Port - Third Floor Lighthouse Chest",
+    "category": ["Chests"],
+    "region": "Gateon Port",
+    "requires": []
+  },
+  {
+    "name": "Gateon Port - Krabby Club Basement Chest",
+    "category": ["Chests"],
+    "region": "Gateon Port",
+    "requires": []
+  },
+  {
+    "name": "Gateon Port - Verich's Desk Item",
+    "category": ["Shining Items"],
+    "region": "Realgam Tower",
+    "requires": []
+  },
+  {
+    "name": "HQ Lab - Michael's Room Chest",
+    "category": ["Chests"],
+    "region": "HQ Lab",
+    "requires": []
+  },
+  {
+    "name": "HQ Lab - Outside Chest",
+    "category": ["Chests"],
+    "region": "HQ Lab",
+    "requires": []
+  },
+  {
+    "name": "HQ Lab - Basement Chest",
+    "category": ["Chests"],
+    "region": "Citadark Isle",
+    "requires": []
+  },
+  {
+    "name": "Mt Battle - Entrance Chest",
+    "category": ["Chests"],
+    "region": "Mt Battle",
+    "requires": []
+  },
+  {
+    "name": "Phenac City - Next To Poke Mart Chest",
+    "category": ["Chests"],
+    "region": "Phenac City",
+    "requires": []
+  },
+  {
+    "name": "Phenac City - Top Right House On Table Item",
+    "category": ["Shining Items"],
+    "region": "Early Cipher Key Lair",
+    "requires": []
+  },
+  {
+    "name": "Phenac City - Cipher Peon Resix Item",
+    "category": ["Shining Items"],
+    "region": "Phenac City",
+    "requires": []
+  },
+  {
+    "name": "Phenac City - Cipher Peon Blusix Item",
+    "category": ["Shining Items"],
+    "region": "Phenac City",
+    "requires": []
+  },
+  {
+    "name": "Phenac City - Cipher Peon Browsix Item",
+    "category": ["Shining Items"],
+    "region": "Phenac City",
+    "requires": []
+  },
+  {
+    "name": "Phenac City - Cipher Peon Yellosix Item",
+    "category": ["Shining Items"],
+    "region": "Phenac City",
+    "requires": []
+  },
+  {
+    "name": "Phenac City - Cipher Peon Purpsix Item",
+    "category": ["Shining Items"],
+    "region": "Phenac City",
+    "requires": []
+  },
+  {
+    "name": "Phenac City - Cipher Peon Greesix Item",
+    "category": ["Shining Items"],
+    "region": "Phenac City",
+    "requires": []
+  },
+  {
+    "name": "Phenac City - Colosseum Bottom Left Chest",
+    "category": ["Chests"],
+    "region": "Phenac City",
+    "requires": []
+  },
+  {
+    "name": "Phenac City - Colosseum Top Right Chest",
+    "category": ["Chests"],
+    "region": "Phenac City",
+    "requires": []
+  },
+  {
+    "name": "Phenac City - Colosseum Bottom Right Chest",
+    "category": ["Chests"],
+    "region": "Phenac City",
+    "requires": []
+  },
+  {
+    "name": "Phenac City - Colosseum Floor Item",
+    "category": ["Shining Items"],
+    "region": "Phenac City",
+    "requires": []
+  },
+  {
+    "name": "Phenac City - Pregym Basement Floor Item",
+    "category": ["Shining Items"],
+    "region": "Phenac City",
+    "requires": []
+  },
+  {
+    "name": "Pyrite Town - Police Station Chest",
+    "category": ["Chests"],
+    "region": "Pyrite Town",
+    "requires": []
+  },
+  {
+    "name": "Pyrite Town - Hotel West Chest",
+    "category": ["Chests"],
+    "region": "Pyrite Town",
+    "requires": []
+  },
+  {
+    "name": "Pyrite Town - Hotel North Chest",
+    "category": ["Chests"],
+    "region": "Pyrite Town",
+    "requires": []
+  },
+  {
+    "name": "Pyrite Town - Hotel East Chest",
+    "category": ["Chests"],
+    "region": "Pyrite Town",
+    "requires": []
+  },
+  {
+    "name": "Pyrite Town - Outside Colosseum Chest",
+    "category": ["Chests"],
+    "region": "Pyrite Town",
+    "requires": []
+  },
+  {
+    "name": "Pyrite Town - ONBS Locker Room Chest",
+    "category": ["Chests"],
+    "region": "Attacked ONBS",
+    "requires": []
+  },
+  {
+    "name": "Pyrite Town - ONBS Woman's Room Chest",
+    "category": ["Chests"],
+    "region": "Attacked ONBS",
+    "requires": []
+  },
+  {
+    "name": "Pyrite Town - ONBS Storage Room Chest",
+    "category": ["Chests"],
+    "region": "Attacked ONBS",
+    "requires": []
+  },
+  {
+    "name": "Realgam Tower - Outside Chest",
+    "category": ["Chests"],
+    "region": "Realgam Tower",
+    "requires": []
+  },
+  {
+    "name": "Realgam Tower - Poke Ball Gate Room Chest",
+    "category": ["Chests"],
+    "region": "Realgam Tower",
+    "requires": []
+  },
+  {
+    "name": "Realgam Tower - Main Hall Left Chest",
+    "category": ["Chests"],
+    "region": "Realgam Tower",
+    "requires": []
+  },
+  {
+    "name": "Realgam Tower - CD Corner Buy 1",
+    "category": ["Shop Items"],
+    "region": "Realgam Tower",
+    "requires": []
+  },
+  {
+    "name": "Realgam Tower - CD Corner Buy 2",
+    "category": ["Shop Items"],
+    "region": "Realgam Tower",
+    "requires": []
+  },
+  {
+    "name": "Realgam Tower - CD Corner Buy 3",
+    "category": ["Shop Items"],
+    "region": "Realgam Tower",
+    "requires": []
+  },
+  {
+    "name": "S.S. Libra - Entrance Chest",
+    "category": ["Chests"],
+    "region": "S.S. Libra",
+    "requires": []
+  },
+  {
+    "name": "S.S. Libra - Cabin Entrance Floor Item",
+    "category": ["Shining Items"],
+    "region": "S.S. Libra",
+    "requires": []
+  },
+  {
+    "name": "S.S. Libra - B1 Top Chest",
+    "category": ["Chests"],
+    "region": "S.S. Libra",
+    "requires": []
+  },
+  {
+    "name": "S.S. Libra - B1 Bottom Chest",
+    "category": ["Chests"],
+    "region": "S.S. Libra",
+    "requires": []
+  },
+  {
+    "name": "S.S. Libra - B2 Chest",
+    "category": ["Chests"],
+    "region": "S.S. Libra",
+    "requires": []
+  },
+  {
+    "name": "S.S. Libra - B2 Stair Room Left Chest",
+    "category": ["Chests"],
+    "region": "S.S. Libra",
+    "requires": []
+  },
+  {
+    "name": "S.S. Libra - B2 Stair Room Right Chest",
+    "category": ["Chests"],
+    "region": "S.S. Libra",
+    "requires": []
+  },
+  {
+    "name": "S.S. Libra - Bonsly Room Floor Item",
+    "category": ["Shining Items"],
+    "region": "S.S. Libra",
+    "requires": []
+  },
+  {
+    "name": "S.S. Libra - Bonsly Room Chest",
+    "category": ["Chests"],
+    "region": "S.S. Libra",
+    "requires": []
+  },
+  {
+    "name": "Team Snagem Hideout - 1F After Healing Machine Chest",
+    "category": ["Chests"],
+    "region": "Snagem Hideout",
+    "requires": []
+  },
+  {
+    "name": "Team Snagem Hideout - 1F Before Gonzap Chest",
+    "category": ["Chests"],
+    "region": "Snagem Hideout",
+    "requires": []
+  },
+  {
+    "name": "Team Snagem Hideout - 2F AFter Stairs Chest",
+    "category": ["Chests"],
+    "region": "Snagem Hideout",
+    "requires": []
+  },
+  {
+    "name": "Team Snagem Hideout - 3F Near Entrance Chest",
+    "category": ["Chests"],
+    "region": "Snagem Hideout",
+    "requires": []
+  },
+  {
+    "name": "Team Snagem Hideout - Into Elevator Chest",
+    "category": ["Chests"],
+    "region": "Snagem Hideout",
+    "requires": []
+  },
+  {
+    "name": "Team Snagem Hideout - Locked Chest",
+    "category": ["Chests"],
+    "region": "Snagem Hideout",
+    "requires": ["Gonzap's Key"]
+  },
+  {
+    "name": "Team Snagem Hideout - Behind Job Interview Chest",
+    "category": ["Chests"],
+    "region": "Snagem Hideout",
+    "requires": []
+  },
+  {
+    "name": "Team Snagem Hideout - Gonzap's Item",
+    "category": ["Shining Items"],
+    "region": "Snagem Hideout",
+    "requires": []
+  },
+  {
+    "name": "Team Snagem Hideout - Gonzap's Room Chest",
+    "category": ["Chests"],
+    "region": "Snagem Hideout",
+    "requires": []
+  }
+]

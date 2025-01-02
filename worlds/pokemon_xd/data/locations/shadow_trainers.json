@@ -1,0 +1,4394 @@
+[
+  {
+    "Index": 1,
+    "Name": "HORDEL",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "TOGEPI",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 25,
+        "ShadowLevel": 30,
+        "ShadowCatchRate": 190,
+        "Moves": ["ANCIENTPOWER", "HELPING HAND", "TRI ATTACK", "FOLLOW ME"]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      }
+    ]
+  },
+  {
+    "Index": 9,
+    "Name": "ZOOK",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "ZANGOOSE",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 31,
+        "ShadowLevel": 28,
+        "ShadowCatchRate": 90,
+        "Moves": ["BRICK BREAK", "REFRESH", "COUNTER", "CRUSH CLAW"]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      }
+    ]
+  },
+  {
+    "Index": 12,
+    "Name": "CYLE",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "TAILLOW",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 6,
+        "ShadowLevel": 20,
+        "ShadowCatchRate": 190,
+        "Moves": ["PECK", "GROWL", "", ""]
+      },
+      {
+        "Name": "LEDYBA",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 11,
+        "ShadowLevel": 10,
+        "ShadowCatchRate": 255,
+        "Moves": ["PSYBEAM", "REFRESH", "AERIAL ACE", "SUPERSONIC"]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      }
+    ]
+  },
+  {
+    "Index": 14,
+    "Name": "KILEN",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "ZUBAT",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 6,
+        "ShadowLevel": 15,
+        "ShadowCatchRate": 255,
+        "Moves": ["SUPERSONIC", "LEECH LIFE", "", ""]
+      },
+      {
+        "Name": "POOCHYENA",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 11,
+        "ShadowLevel": 10,
+        "ShadowCatchRate": 255,
+        "Moves": ["DIG", "HEAL BELL", "POISON FANG", "HOWL"]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      }
+    ]
+  },
+  {
+    "Index": 17,
+    "Name": "NAPS",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "TEDDIURSA",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 11,
+        "ShadowLevel": 11,
+        "ShadowCatchRate": 120,
+        "Moves": ["RETURN", "REFRESH", "LICK", "METAL CLAW"]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      }
+    ]
+  },
+  {
+    "Index": 33,
+    "Name": "RESIX",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "HOUNDOUR",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 17,
+        "ShadowLevel": 17,
+        "ShadowCatchRate": 225,
+        "Moves": ["FAINT ATTACK", "CHARM", "EMBER", "ROAR"]
+      },
+      {
+        "Name": "SLUGMA",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 14,
+        "ShadowLevel": 43,
+        "ShadowCatchRate": 70,
+        "Moves": ["EMBER", "SMOG", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      }
+    ]
+  },
+  {
+    "Index": 34,
+    "Name": "BLUSIX",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "HORSEA",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 11,
+        "ShadowLevel": 42,
+        "ShadowCatchRate": 90,
+        "Moves": ["SMOKESCREEN", "WATER GUN", "", ""]
+      },
+      {
+        "Name": "GOLDEEN",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 12,
+        "ShadowLevel": 42,
+        "ShadowCatchRate": 90,
+        "Moves": ["PECK", "WATER SPORT", "TAIL WHIP", ""]
+      },
+      {
+        "Name": "SPHEAL",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 17,
+        "ShadowLevel": 17,
+        "ShadowCatchRate": 255,
+        "Moves": ["AURORA BEAM", "CHARM", "WATER GUN", "MUD-SLAP"]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      }
+    ]
+  },
+  {
+    "Index": 35,
+    "Name": "BROWSIX",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "BALTOY",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 17,
+        "ShadowLevel": 17,
+        "ShadowCatchRate": 255,
+        "Moves": ["ROCK TOMB", "REFRESH", "MUD-SLAP", "PSYBEAM"]
+      },
+      {
+        "Name": "HOOTHOOT",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 14,
+        "ShadowLevel": 50,
+        "ShadowCatchRate": 80,
+        "Moves": ["PECK", "TACKLE", "GROWL", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      }
+    ]
+  },
+  {
+    "Index": 36,
+    "Name": "YELLOSIX",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "MAREEP",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 17,
+        "ShadowLevel": 17,
+        "ShadowCatchRate": 235,
+        "Moves": ["BODY SLAM", "HEAL BELL", "THUNDERSHOCK", "THUNDER WAVE"]
+      },
+      {
+        "Name": "ELECTRIKE",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 12,
+        "ShadowLevel": 44,
+        "ShadowCatchRate": 80,
+        "Moves": ["HOWL", "TACKLE", "LEER", ""]
+      },
+      {
+        "Name": "CHINCHOU",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 11,
+        "ShadowLevel": 50,
+        "ShadowCatchRate": 3,
+        "Moves": ["SUPERSONIC", "WATER GUN", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      }
+    ]
+  },
+  {
+    "Index": 37,
+    "Name": "PURPSIX",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "KOFFING",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 10,
+        "ShadowLevel": 50,
+        "ShadowCatchRate": 25,
+        "Moves": ["SMOG", "TACKLE", "POISON GAS", ""]
+      },
+      {
+        "Name": "GRIMER",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 11,
+        "ShadowLevel": 50,
+        "ShadowCatchRate": 25,
+        "Moves": ["DISABLE", "POISON GAS", "POUND", ""]
+      },
+      {
+        "Name": "GULPIN",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 17,
+        "ShadowLevel": 17,
+        "ShadowCatchRate": 225,
+        "Moves": ["SHOCK WAVE", "SING", "SLUDGE", "TOXIC"]
+      },
+      {
+        "Name": "TENTACOOL",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 10,
+        "ShadowLevel": 46,
+        "ShadowCatchRate": 80,
+        "Moves": ["SUPERSONIC", "POISON STING", "SAFEGUARD", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      }
+    ]
+  },
+  {
+    "Index": 38,
+    "Name": "GREESIX",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "ODDISH",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 9,
+        "ShadowLevel": 46,
+        "ShadowCatchRate": 100,
+        "Moves": ["SWEET SCENT", "ABSORB", "", ""]
+      },
+      {
+        "Name": "CACNEA",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 9,
+        "ShadowLevel": 46,
+        "ShadowCatchRate": 80,
+        "Moves": ["POISON STING", "ABSORB", "LEER", ""]
+      },
+      {
+        "Name": "SHROOMISH",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 9,
+        "ShadowLevel": 55,
+        "ShadowCatchRate": 45,
+        "Moves": ["ABSORB", "TACKLE", "", ""]
+      },
+      {
+        "Name": "LOTAD",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 8,
+        "ShadowLevel": 30,
+        "ShadowCatchRate": 190,
+        "Moves": ["ASTONISH", "GROWL", "", ""]
+      },
+      {
+        "Name": "PINECO",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 9,
+        "ShadowLevel": 10,
+        "ShadowCatchRate": 255,
+        "Moves": ["TACKLE", "", "", ""]
+      },
+      {
+        "Name": "SEEDOT",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 17,
+        "ShadowLevel": 17,
+        "ShadowCatchRate": 255,
+        "Moves": ["GIGA DRAIN", "REFRESH", "BULLET SEED", "SECRET POWER"]
+      }
+    ]
+  },
+  {
+    "Index": 49,
+    "Name": "NEXIR",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "SWINUB",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 14,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["TACKLE", "ODOR SLEUTH", "", ""]
+      },
+      {
+        "Name": "SHUPPET",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 13,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["NIGHT SHADE", "SCREECH", "KNOCK OFF", ""]
+      },
+      {
+        "Name": "SPINARAK",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 17,
+        "ShadowLevel": 14,
+        "ShadowCatchRate": 255,
+        "Moves": ["DIG", "REFRESH", "SIGNAL BEAM", "NIGHT SHADE"]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      }
+    ]
+  },
+  {
+    "Index": 50,
+    "Name": "SOLOX",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "RALTS",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 15,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["DOUBLE TEAM", "CONFUSION", "GROWL", "REFLECT"]
+      },
+      {
+        "Name": "VOLTORB",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 16,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["SONICBOOM", "SCREECH", "TACKLE", "CHARGE"]
+      },
+      {
+        "Name": "BAGON",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 16,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["LEER", "BITE", "RAGE", ""]
+      },
+      {
+        "Name": "NUMEL",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 17,
+        "ShadowLevel": 14,
+        "ShadowCatchRate": 255,
+        "Moves": ["TAKE DOWN", "CHARM", "DIG", "EMBER"]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      }
+    ]
+  },
+  {
+    "Index": 57,
+    "Name": "CABOL",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "CARVANHA",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 18,
+        "ShadowLevel": 15,
+        "ShadowCatchRate": 225,
+        "Moves": ["WATER PULSE", "REFRESH", "SCARY FACE", "BITE"]
+      },
+      {
+        "Name": "MAGNEMITE",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 15,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["TACKLE", "THUNDERSHOCK", "", ""]
+      },
+      {
+        "Name": "PSYDUCK",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 15,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["WATER SPORT", "TAIL WHIP", "SCRATCH", ""]
+      },
+      {
+        "Name": "REMORAID",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 16,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["LOCK-ON", "WATER GUN", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      }
+    ]
+  },
+  {
+    "Index": 59,
+    "Name": "KLOTS",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "SNUBBULL",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 16,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["BITE", "CHARM", "SCARY FACE", ""]
+      },
+      {
+        "Name": "KECLEON",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 16,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["SCRATCH", "BIND", "ASTONISH", ""]
+      },
+      {
+        "Name": "SHROOMISH",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 18,
+        "ShadowLevel": 15,
+        "ShadowCatchRate": 255,
+        "Moves": ["FALSE SWIPE", "REFRESH", "MEGA DRAIN", "STUN SPORE"]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      }
+    ]
+  },
+  {
+    "Index": 61,
+    "Name": "LOVRINA",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "LUVDISC",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 20,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["WATER GUN", "TACKLE", "CHARM", "ATTRACT"]
+      },
+      {
+        "Name": "BEAUTIFLY",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 19,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["THIEF", "GUST", "ABSORB", "ATTRACT"]
+      },
+      {
+        "Name": "ROSELIA",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 19,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["LEECH SEED", "MEGA DRAIN", "PIN MISSILE", "POISON STING"]
+      },
+      {
+        "Name": "DELCATTY",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 21,
+        "ShadowLevel": 18,
+        "ShadowCatchRate": 120,
+        "Moves": ["SECRET POWER", "SWEET KISS", "ATTRACT", "SHOCK WAVE"]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      }
+    ]
+  },
+  {
+    "Index": 72,
+    "Name": "MIROR B.",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "LOMBRE",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 17,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["RAIN DANCE", "MEGA DRAIN", "WATER GUN", "ASTONISH"]
+      },
+      {
+        "Name": "LOMBRE",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 17,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["THIEF", "MEGA DRAIN", "WATER GUN", "ASTONISH"]
+      },
+      {
+        "Name": "LOMBRE",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 17,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["RAIN DANCE", "MEGA DRAIN", "WATER GUN", "ASTONISH"]
+      },
+      {
+        "Name": "VOLTORB",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 22,
+        "ShadowLevel": 19,
+        "ShadowCatchRate": 190,
+        "Moves": ["MIRROR COAT", "REFRESH", "SPARK", "SWIFT"]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      }
+    ]
+  },
+  {
+    "Index": 75,
+    "Name": "MESIN",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "SPINARAK",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 20,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["NIGHT SHADE", "CONSTRICT", "SCARY FACE", "STRING SHOT"]
+      },
+      {
+        "Name": "BEAUTIFLY",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 19,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["ABSORB", "GUST", "", ""]
+      },
+      {
+        "Name": "DUSTOX",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 20,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["CONFUSION", "GUST", "", ""]
+      },
+      {
+        "Name": "VULPIX",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 21,
+        "ShadowLevel": 18,
+        "ShadowCatchRate": 190,
+        "Moves": ["HEAT WAVE", "CHARM", "EMBER", "DIG"]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      }
+    ]
+  },
+  {
+    "Index": 78,
+    "Name": "TORKIN",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "KECLEON",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 19,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["PSYBEAM", "FURY SWIPES", "BIND", ""]
+      },
+      {
+        "Name": "SURSKIT",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 21,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["WATER SPORT", "SWEET SCENT", "QUICK ATTACK", "BUBBLE"]
+      },
+      {
+        "Name": "MAKUHITA",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 21,
+        "ShadowLevel": 18,
+        "ShadowCatchRate": 180,
+        "Moves": ["BRICK BREAK", "REFRESH", "ARM THRUST", "ROCK TOMB"]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      }
+    ]
+  },
+  {
+    "Index": 84,
+    "Name": "LOBAR",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "SNEASEL",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 20,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["SCREECH", "QUICK ATTACK", "SCRATCH", "REFLECT"]
+      },
+      {
+        "Name": "YANMA",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 19,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["SONICBOOM", "FORESIGHT", "QUICK ATTACK", ""]
+      },
+      {
+        "Name": "MISDREAVUS",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 20,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["PSYWAVE", "ASTONISH", "", ""]
+      },
+      {
+        "Name": "DUSKULL",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 22,
+        "ShadowLevel": 19,
+        "ShadowCatchRate": 190,
+        "Moves": ["SHADOW BALL", "HELPING HAND", "ASTONISH", "CONFUSE RAY"]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      }
+    ]
+  },
+  {
+    "Index": 86,
+    "Name": "FELDAS",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "KADABRA",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 22,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["PSYBEAM", "DISABLE", "CONFUSION", ""]
+      },
+      {
+        "Name": "FLAAFFY",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 22,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["THUNDER WAVE", "THUNDERSHOCK", "GROWL", "TACKLE"]
+      },
+      {
+        "Name": "VIGOROTH",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 21,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["FURY SWIPES", "UPROAR", "FOCUS ENERGY", ""]
+      },
+      {
+        "Name": "RALTS",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 23,
+        "ShadowLevel": 20,
+        "ShadowCatchRate": 235,
+        "Moves": ["SHOCK WAVE", "SING", "REFLECT", "CONFUSION"]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      }
+    ]
+  },
+  {
+    "Index": 87,
+    "Name": "EXOL",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "LOUDRED",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 23,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["STOMP", "UPROAR", "WATER PULSE", "SEISMIC TOSS"]
+      },
+      {
+        "Name": "GIRAFARIG",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 23,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["STOMP", "ODOR SLEUTH", "CONFUSION", "SHOCK WAVE"]
+      },
+      {
+        "Name": "MAWILE",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 25,
+        "ShadowLevel": 22,
+        "ShadowCatchRate": 120,
+        "Moves": ["FALSE SWIPE", "SING", "VICEGRIP", "IRON DEFENSE"]
+      },
+      {
+        "Name": "RAICHU",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 23,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["SHOCK WAVE", "QUICK ATTACK", "DIG", "SEISMIC TOSS"]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      }
+    ]
+  },
+  {
+    "Index": 88,
+    "Name": "EXINN",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "SEVIPER",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 20,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["SCREECH", "POISON TAIL", "BITE", "LICK"]
+      },
+      {
+        "Name": "SNORUNT",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 23,
+        "ShadowLevel": 20,
+        "ShadowCatchRate": 190,
+        "Moves": ["WATER PULSE", "SING", "BITE", "ICY WIND"]
+      },
+      {
+        "Name": "GOLBAT",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 22,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["LEECH LIFE", "BITE", "ASTONISH", "SCREECH"]
+      },
+      {
+        "Name": "MIGHTYENA",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 21,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["HOWL", "BITE", "SAND-ATTACK", "TACKLE"]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      }
+    ]
+  },
+  {
+    "Index": 89,
+    "Name": "GONRAG",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "MURKROW",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 22,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["HAZE", "PURSUIT", "ASTONISH", "PECK"]
+      },
+      {
+        "Name": "PINECO",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 23,
+        "ShadowLevel": 20,
+        "ShadowCatchRate": 190,
+        "Moves": ["PIN MISSILE", "REFRESH", "SPIKES", "COUNTER"]
+      },
+      {
+        "Name": "ARIADOS",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 22,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["NIGHT SHADE", "POISON STING", "SCARY FACE", "LEECH LIFE"]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      }
+    ]
+  },
+  {
+    "Index": 97,
+    "Name": "GRECK",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "TORKOAL",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 22,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["BODY SLAM", "FIRE SPIN", "SMOKESCREEN", "EMBER"]
+      },
+      {
+        "Name": "NUZLEAF",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 23,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["FAKE OUT", "DIG", "GIGA DRAIN", "TORMENT"]
+      },
+      {
+        "Name": "SWINUB",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 25,
+        "ShadowLevel": 22,
+        "ShadowCatchRate": 225,
+        "Moves": ["ANCIENTPOWER", "CHARM", "MIST", "MUD SHOT"]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      }
+    ]
+  },
+  {
+    "Index": 98,
+    "Name": "ELOIN",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "KIRLIA",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 22,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["GROWL", "CONFUSION", "", ""]
+      },
+      {
+        "Name": "LINOONE",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 20,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["ODOR SLEUTH", "SAND-ATTACK", "HEADBUTT", "TAIL WHIP"]
+      },
+      {
+        "Name": "NATU",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 25,
+        "ShadowLevel": 22,
+        "ShadowCatchRate": 190,
+        "Moves": ["FUTURE SIGHT", "BATON PASS", "NIGHT SHADE", "AERIAL ACE"]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      }
+    ]
+  },
+  {
+    "Index": 99,
+    "Name": "FASIN",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "REMORAID",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 22,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["WATER GUN", "AURORA BEAM", "SCREECH", "LOCK-ON"]
+      },
+      {
+        "Name": "GOLBAT",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 22,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["LEECH LIFE", "BITE", "ASTONISH", "SCREECH"]
+      },
+      {
+        "Name": "ROSELIA",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 25,
+        "ShadowLevel": 22,
+        "ShadowCatchRate": 150,
+        "Moves": ["MAGICAL LEAF", "SWEET KISS", "GRASSWHISTLE", "LEECH SEED"]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      }
+    ]
+  },
+  {
+    "Index": 100,
+    "Name": "FOSTIN",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "KADABRA",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 22,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["PSYBEAM", "THUNDERPUNCH", "DOUBLE TEAM", "ICE PUNCH"]
+      },
+      {
+        "Name": "SNEASEL",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 22,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["FAINT ATTACK", "AERIAL ACE", "DOUBLE TEAM", "FAKE OUT"]
+      },
+      {
+        "Name": "MISDREAVUS",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 22,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["PSYBEAM", "SHOCK WAVE", "ASTONISH", "THIEF"]
+      },
+      {
+        "Name": "MEOWTH",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 25,
+        "ShadowLevel": 22,
+        "ShadowCatchRate": 255,
+        "Moves": ["SLASH", "SING", "PAY DAY", "BITE"]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      }
+    ]
+  },
+  {
+    "Index": 101,
+    "Name": "EZIN",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "PELIPPER",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 23,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["MIST", "WING ATTACK", "SUPERSONIC", "WATER GUN"]
+      },
+      {
+        "Name": "ELECTRIKE",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 23,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["SPARK", "QUICK ATTACK", "HOWL", "LEER"]
+      },
+      {
+        "Name": "SPEAROW",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 25,
+        "ShadowLevel": 22,
+        "ShadowCatchRate": 255,
+        "Moves": ["FALSE SWIPE", "BATON PASS", "LEER", "AERIAL ACE"]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      }
+    ]
+  },
+  {
+    "Index": 102,
+    "Name": "FALTLY",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "CHIMECHO",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 23,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["UPROAR", "TAKE DOWN", "CONFUSION", "ASTONISH"]
+      },
+      {
+        "Name": "STANTLER",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 23,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["TACKLE", "ASTONISH", "LEER", ""]
+      },
+      {
+        "Name": "GRIMER",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 26,
+        "ShadowLevel": 23,
+        "ShadowCatchRate": 190,
+        "Moves": ["SLUDGE BOMB", "HELPING HAND", "SHADOW PUNCH", "MINIMIZE"]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      }
+    ]
+  },
+  {
+    "Index": 103,
+    "Name": "EGROG",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "HOOTHOOT",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 25,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["FORESIGHT", "GROWL", "PECK", "FACADE"]
+      },
+      {
+        "Name": "GRAVELER",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 26,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["ROCK THROW", "BRICK BREAK", "DIG", "MUD SPORT"]
+      },
+      {
+        "Name": "GULPIN",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 26,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["POUND", "WATER PULSE", "SLUDGE", "SHOCK WAVE"]
+      },
+      {
+        "Name": "SEEL",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 27,
+        "ShadowLevel": 23,
+        "ShadowCatchRate": 190,
+        "Moves": ["SURF", "HELPING HAND", "SAFEGUARD", "ICE BEAM"]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      }
+    ]
+  },
+  {
+    "Index": 104,
+    "Name": "SNATTLE",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "LANTURN",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 26,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["SHOCK WAVE", "WATER GUN", "FLAIL", "FACADE"]
+      },
+      {
+        "Name": "QUAGSIRE",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 26,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["ICE PUNCH", "ROCK TOMB", "SLAM", "WATER GUN"]
+      },
+      {
+        "Name": "LUNATONE",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 28,
+        "ShadowLevel": 25,
+        "ShadowCatchRate": 100,
+        "Moves": ["PSYCHIC", "BATON PASS", "RAIN DANCE", "ROCK TOMB"]
+      },
+      {
+        "Name": "CASTFORM",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 27,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["WEATHER BALL", "WATER PULSE", "SHOCK WAVE", "ICY WIND"]
+      },
+      {
+        "Name": "METANG",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 28,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["SCARY FACE", "METAL CLAW", "CONFUSION", "THUNDERPUNCH"]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      }
+    ]
+  },
+  {
+    "Index": 112,
+    "Name": "RESIX",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "HOUNDOUR",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 17,
+        "ShadowLevel": 17,
+        "ShadowCatchRate": 225,
+        "Moves": ["FAINT ATTACK", "CHARM", "EMBER", "ROAR"]
+      },
+      {
+        "Name": "SLUGMA",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 20,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["EMBER", "SMOG", "ROCK THROW", "LIGHT SCREEN"]
+      },
+      {
+        "Name": "NUMEL",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 20,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["GROWL", "EMBER", "TACKLE", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      }
+    ]
+  },
+  {
+    "Index": 113,
+    "Name": "BLUSIX",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "HORSEA",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 20,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["LEER", "SMOKESCREEN", "WATER GUN", ""]
+      },
+      {
+        "Name": "GOLDEEN",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 20,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["PECK", "TAIL WHIP", "WATER SPORT", ""]
+      },
+      {
+        "Name": "BELDUM",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 19,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["TAKE DOWN", "", "", ""]
+      },
+      {
+        "Name": "SPHEAL",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 17,
+        "ShadowLevel": 17,
+        "ShadowCatchRate": 255,
+        "Moves": ["AURORA BEAM", "CHARM", "WATER GUN", "MUD-SLAP"]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      }
+    ]
+  },
+  {
+    "Index": 114,
+    "Name": "BROWSIX",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "BALTOY",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 17,
+        "ShadowLevel": 17,
+        "ShadowCatchRate": 255,
+        "Moves": ["ROCK TOMB", "REFRESH", "MUD-SLAP", "PSYBEAM"]
+      },
+      {
+        "Name": "NOCTOWL",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 20,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["PECK", "TACKLE", "GROWL", ""]
+      },
+      {
+        "Name": "VIGOROTH",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 20,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["FURY SWIPES", "SCRATCH", "YAWN", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      }
+    ]
+  },
+  {
+    "Index": 115,
+    "Name": "YELLOSIX",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "MAREEP",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 17,
+        "ShadowLevel": 17,
+        "ShadowCatchRate": 235,
+        "Moves": ["BODY SLAM", "HEAL BELL", "THUNDERSHOCK", "THUNDER WAVE"]
+      },
+      {
+        "Name": "ELECTRIKE",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 20,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["SPARK", "QUICK ATTACK", "HOWL", "LEER"]
+      },
+      {
+        "Name": "CHINCHOU",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 20,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["WATER GUN", "FLAIL", "SUPERSONIC", "THUNDER WAVE"]
+      },
+      {
+        "Name": "MAGNEMITE",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 20,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["SONICBOOM", "SUPERSONIC", "THUNDERSHOCK", "TACKLE"]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      }
+    ]
+  },
+  {
+    "Index": 116,
+    "Name": "PURPSIX",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "KOFFING",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 20,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["POISON GAS", "SMOG", "TACKLE", ""]
+      },
+      {
+        "Name": "GRIMER",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 20,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["MINIMIZE", "SLUDGE", "DISABLE", "HARDEN"]
+      },
+      {
+        "Name": "GULPIN",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 17,
+        "ShadowLevel": 17,
+        "ShadowCatchRate": 225,
+        "Moves": ["SHOCK WAVE", "SING", "SLUDGE", "TOXIC"]
+      },
+      {
+        "Name": "TENTACOOL",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 20,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["ACID", "SAFEGUARD", "SUPERSONIC", "POISON STING"]
+      },
+      {
+        "Name": "ZUBAT",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 20,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["BITE", "ASTONISH", "SUPERSONIC", "LEECH LIFE"]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      }
+    ]
+  },
+  {
+    "Index": 117,
+    "Name": "GREESIX",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "ODDISH",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 18,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["SWEET SCENT", "ABSORB", "", ""]
+      },
+      {
+        "Name": "CACNEA",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 18,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["SAND-ATTACK", "LEECH SEED", "POISON STING", "ABSORB"]
+      },
+      {
+        "Name": "SHROOMISH",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 19,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["MEGA DRAIN", "LEECH SEED", "ABSORB", "TACKLE"]
+      },
+      {
+        "Name": "LOTAD",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 19,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["NATURE POWER", "ASTONISH", "GROWL", ""]
+      },
+      {
+        "Name": "PINECO",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 20,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["TAKE DOWN", "TACKLE", "", ""]
+      },
+      {
+        "Name": "SEEDOT",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 17,
+        "ShadowLevel": 17,
+        "ShadowCatchRate": 255,
+        "Moves": ["GIGA DRAIN", "REFRESH", "BULLET SEED", "SECRET POWER"]
+      }
+    ]
+  },
+  {
+    "Index": 134,
+    "Name": "MIROR B.",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "LOMBRE",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 26,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["RAIN DANCE", "MEGA DRAIN", "WATER GUN", "ASTONISH"]
+      },
+      {
+        "Name": "LOMBRE",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 26,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["GROWL", "MEGA DRAIN", "WATER GUN", "ASTONISH"]
+      },
+      {
+        "Name": "LOMBRE",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 26,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["RAIN DANCE", "MEGA DRAIN", "WATER GUN", "FIRE PUNCH"]
+      },
+      {
+        "Name": "NOSEPASS",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 29,
+        "ShadowLevel": 26,
+        "ShadowCatchRate": 255,
+        "Moves": ["THUNDERBOLT", "HELPING HAND", "THUNDER WAVE", "ROCK SLIDE"]
+      },
+      {
+        "Name": "LUDICOLO",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 26,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["RAIN DANCE", "MEGA DRAIN", "WATER GUN", "ASTONISH"]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      }
+    ]
+  },
+  {
+    "Index": 147,
+    "Name": "ZOOK",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "ZANGOOSE",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 31,
+        "ShadowLevel": 28,
+        "ShadowCatchRate": 90,
+        "Moves": ["BRICK BREAK", "REFRESH", "COUNTER", "CRUSH CLAW"]
+      },
+      {
+        "Name": "DODUO",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 26,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["PECK", "TRI ATTACK", "PURSUIT", ""]
+      },
+      {
+        "Name": "CARVANHA",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 26,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["WATER PULSE", "BITE", "RAGE", ""]
+      },
+      {
+        "Name": "SEVIPER",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 26,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["LICK", "BITE", "POISON TAIL", ""]
+      },
+      {
+        "Name": "RELICANTH",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 26,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["TACKLE", "ROCK TOMB", "WATER GUN", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      }
+    ]
+  },
+  {
+    "Index": 150,
+    "Name": "HUMAH",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "SEVIPER",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 29,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["BITE", "POISON TAIL", "WRAP", "SNATCH"]
+      },
+      {
+        "Name": "MURKROW",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 29,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["NIGHT SHADE", "HAZE", "PURSUIT", "ASTONISH"]
+      },
+      {
+        "Name": "PARAS",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 31,
+        "ShadowLevel": 28,
+        "ShadowCatchRate": 190,
+        "Moves": ["SPORE", "REFRESH", "SLASH", "FALSE SWIPE"]
+      },
+      {
+        "Name": "GROWLITHE",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 31,
+        "ShadowLevel": 28,
+        "ShadowCatchRate": 190,
+        "Moves": ["FLAMETHROWER", "CHARM", "BITE", "TAKE DOWN"]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      }
+    ]
+  },
+  {
+    "Index": 153,
+    "Name": "GOROG",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "SHELLDER",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 32,
+        "ShadowLevel": 29,
+        "ShadowCatchRate": 190,
+        "Moves": ["TAKE DOWN", "REFRESH", "SURF", "AURORA BEAM"]
+      },
+      {
+        "Name": "RHYHORN",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 29,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["HORN ATTACK", "SCARY FACE", "DIG", "STOMP"]
+      },
+      {
+        "Name": "SWALOT",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 29,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["AMNESIA", "YAWN", "SHOCK WAVE", "SLUDGE"]
+      },
+      {
+        "Name": "GOLBAT",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 29,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["ASTONISH", "WING ATTACK", "STEEL WING", "BITE"]
+      },
+      {
+        "Name": "SHARPEDO",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 30,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["RAGE", "BITE", "THIEF", "FOCUS ENERGY"]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      }
+    ]
+  },
+  {
+    "Index": 155,
+    "Name": "LOK",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "BEEDRILL",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 33,
+        "ShadowLevel": 30,
+        "ShadowCatchRate": 90,
+        "Moves": ["SLUDGE BOMB", "BATON PASS", "TWINEEDLE", "SWORDS DANCE"]
+      },
+      {
+        "Name": "FURRET",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 30,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["SCRATCH", "FOLLOW ME", "", ""]
+      },
+      {
+        "Name": "TOGETIC",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 31,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["BODY SLAM", "FOLLOW ME", "", ""]
+      },
+      {
+        "Name": "PIDGEOTTO",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 33,
+        "ShadowLevel": 30,
+        "ShadowCatchRate": 120,
+        "Moves": ["WING ATTACK", "REFRESH", "STEEL WING", "FEATHERDANCE"]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      }
+    ]
+  },
+  {
+    "Index": 158,
+    "Name": "TARG",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "NINETALES",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 30,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["TAIL WHIP", "SAFEGUARD", "QUICK ATTACK", "EMBER"]
+      },
+      {
+        "Name": "JUMPLUFF",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 30,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["SUNNY DAY", "GIGA DRAIN", "LEECH SEED", "AERIAL ACE"]
+      },
+      {
+        "Name": "AZUMARILL",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 32,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["DEFENSE CURL", "ROLLOUT", "BUBBLEBEAM", "TAIL WHIP"]
+      },
+      {
+        "Name": "TANGELA",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 33,
+        "ShadowLevel": 30,
+        "ShadowCatchRate": 90,
+        "Moves": ["SOLARBEAM", "MORNING SUN", "SUNNY DAY", "INGRAIN"]
+      },
+      {
+        "Name": "BUTTERFREE",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 33,
+        "ShadowLevel": 30,
+        "ShadowCatchRate": 90,
+        "Moves": ["PSYCHIC", "MORNING SUN", "SLEEP POWDER", "AERIAL ACE"]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      }
+    ]
+  },
+  {
+    "Index": 160,
+    "Name": "SNIDLE",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "SHEDINJA",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 31,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["SCRATCH", "AERIAL ACE", "LEECH LIFE", "DIG"]
+      },
+      {
+        "Name": "WOBBUFFET",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 30,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["DESTINY BOND", "ENCORE", "MIRROR COAT", "COUNTER"]
+      },
+      {
+        "Name": "VIBRAVA",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 35,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["DRAGONBREATH", "CRUNCH", "SAND TOMB", "FAINT ATTACK"]
+      },
+      {
+        "Name": "MAGNETON",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 31,
+        "ShadowLevel": 30,
+        "ShadowCatchRate": 110,
+        "Moves": ["DOUBLE-EDGE", "REFRESH", "RAIN DANCE", "THUNDER"]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      }
+    ]
+  },
+  {
+    "Index": 162,
+    "Name": "ANGIC",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "GOLDUCK",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 33,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["SCRATCH", "AERIAL ACE", "CONFUSION", "PSYCH UP"]
+      },
+      {
+        "Name": "HITMONTOP",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 33,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["BULK UP", "RAPID SPIN", "TRIPLE KICK", "FOCUS ENERGY"]
+      },
+      {
+        "Name": "HARIYAMA",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 34,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["BULK UP", "ARM THRUST", "VITAL THROW", "ROCK SLIDE"]
+      },
+      {
+        "Name": "VENOMOTH",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 35,
+        "ShadowLevel": 32,
+        "ShadowCatchRate": 120,
+        "Moves": ["SILVER WIND", "REFRESH", "SUBSTITUTE", "PSYCHIC"]
+      },
+      {
+        "Name": "WEEPINBELL",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 35,
+        "ShadowLevel": 32,
+        "ShadowCatchRate": 120,
+        "Moves": ["MAGICAL LEAF", "MORNING SUN", "SLUDGE BOMB", "SWEET SCENT"]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      }
+    ]
+  },
+  {
+    "Index": 164,
+    "Name": "SMARTON",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "HUNTAIL",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 36,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["SCARY FACE", "WATER PULSE", "BITE", "WHIRLPOOL"]
+      },
+      {
+        "Name": "CACTURNE",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 35,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["PIN MISSILE", "LEER", "FAINT ATTACK", "INGRAIN"]
+      },
+      {
+        "Name": "WEEZING",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 35,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["HAZE", "SLUDGE", "SMOKESCREEN", "SMOG"]
+      },
+      {
+        "Name": "URSARING",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 35,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["FAINT ATTACK", "FAKE TEARS", "AERIAL ACE", "SCRATCH"]
+      },
+      {
+        "Name": "ARBOK",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 36,
+        "ShadowLevel": 33,
+        "ShadowCatchRate": 90,
+        "Moves": ["SLUDGE BOMB", "REFRESH", "GLARE", "BITE"]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      }
+    ]
+  },
+  {
+    "Index": 165,
+    "Name": "GORIGAN",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "LAIRON",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 36,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["EARTHQUAKE", "IRON TAIL", "TAKE DOWN", "PROTECT"]
+      },
+      {
+        "Name": "SEALEO",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 36,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["AURORA BEAM", "EARTHQUAKE", "WATER PULSE", "BODY SLAM"]
+      },
+      {
+        "Name": "SLOWKING",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 36,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["HEADBUTT", "EARTHQUAKE", "CONFUSION", "WATER PULSE"]
+      },
+      {
+        "Name": "URSARING",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 36,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["SLASH", "EARTHQUAKE", "BRICK BREAK", "PROTECT"]
+      },
+      {
+        "Name": "PRIMEAPE",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 37,
+        "ShadowLevel": 34,
+        "ShadowCatchRate": 80,
+        "Moves": ["CROSS CHOP", "HELPING HAND", "FOCUS ENERGY", "REVERSAL"]
+      },
+      {
+        "Name": "HYPNO",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 37,
+        "ShadowLevel": 34,
+        "ShadowCatchRate": 80,
+        "Moves": ["PSYCHIC", "BATON PASS", "MEDITATE", "SHADOW BALL"]
+      }
+    ]
+  },
+  {
+    "Index": 168,
+    "Name": "ABSON",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "CRAWDAUNT",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 33,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["BUBBLEBEAM", "LEER", "VICEGRIP", "TAUNT"]
+      },
+      {
+        "Name": "PELIPPER",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 33,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["WING ATTACK", "AERIAL ACE", "WATER GUN", "RAIN DANCE"]
+      },
+      {
+        "Name": "MANTINE",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 33,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["TAKE DOWN", "BUBBLEBEAM", "AERIAL ACE", "AGILITY"]
+      },
+      {
+        "Name": "GOLDUCK",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 36,
+        "ShadowLevel": 33,
+        "ShadowCatchRate": 120,
+        "Moves": ["WATERFALL", "CHARM", "PSYCH UP", "BRICK BREAK"]
+      },
+      {
+        "Name": "SABLEYE",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 36,
+        "ShadowLevel": 33,
+        "ShadowCatchRate": 90,
+        "Moves": ["SHADOW BALL", "HELPING HAND", "FAINT ATTACK", "RECOVER"]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      }
+    ]
+  },
+  {
+    "Index": 170,
+    "Name": "FURGY",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "XATU",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 34,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["AERIAL ACE", "LIGHT SCREEN", "WISH", "NIGHT SHADE"]
+      },
+      {
+        "Name": "DODRIO",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 37,
+        "ShadowLevel": 34,
+        "ShadowCatchRate": 90,
+        "Moves": ["DRILL PECK", "BATON PASS", "AGILITY", "TRI ATTACK"]
+      },
+      {
+        "Name": "WHISCASH",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 33,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["SURF", "SLEEP TALK", "SNORE", "REST"]
+      },
+      {
+        "Name": "RATICATE",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 37,
+        "ShadowLevel": 34,
+        "ShadowCatchRate": 127,
+        "Moves": ["SUPER FANG", "REFRESH", "SCARY FACE", "HYPER FANG"]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      }
+    ]
+  },
+  {
+    "Index": 173,
+    "Name": "LOVRINA",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "GARDEVOIR",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 36,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["THUNDERPUNCH", "PSYCHIC", "ICE PUNCH", "ATTRACT"]
+      },
+      {
+        "Name": "GOREBYSS",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 36,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["WATER PULSE", "ICE BEAM", "ATTRACT", "CONFUSION"]
+      },
+      {
+        "Name": "ROSELIA",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 37,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["LEECH SEED", "MAGICAL LEAF", "ATTRACT", "PIN MISSILE"]
+      },
+      {
+        "Name": "FARFETCH\u0027D",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 39,
+        "ShadowLevel": 36,
+        "ShadowCatchRate": 80,
+        "Moves": ["SLASH", "BATON PASS", "SWORDS DANCE", "AERIAL ACE"]
+      },
+      {
+        "Name": "ALTARIA",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 39,
+        "ShadowLevel": 36,
+        "ShadowCatchRate": 80,
+        "Moves": ["DRAGONBREATH", "HEAL BELL", "SOLARBEAM", "AERIAL ACE"]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      }
+    ]
+  },
+  {
+    "Index": 175,
+    "Name": "LITNAR",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "ELECTRODE",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 34,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["THUNDERBOLT", "LIGHT SCREEN", "CHARGE", "FACADE"]
+      },
+      {
+        "Name": "MISDREAVUS",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 34,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["PSYBEAM", "MEAN LOOK", "PSYCH UP", "SHADOW BALL"]
+      },
+      {
+        "Name": "CLAYDOL",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 36,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["SANDSTORM", "PSYCHIC", "ANCIENTPOWER", "DIG"]
+      },
+      {
+        "Name": "KANGASKHAN",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 38,
+        "ShadowLevel": 35,
+        "ShadowCatchRate": 90,
+        "Moves": ["EARTHQUAKE", "SING", "TAIL WHIP", "DIZZY PUNCH"]
+      },
+      {
+        "Name": "BANETTE",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 39,
+        "ShadowLevel": 37,
+        "ShadowCatchRate": 90,
+        "Moves": ["FAINT ATTACK", "HELPING HAND", "SHADOW BALL", "CURSE"]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      }
+    ]
+  },
+  {
+    "Index": 177,
+    "Name": "GRUPEL",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "HOUNDOOM",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 37,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["SUNNY DAY", "FLAMETHROWER", "BITE", "HOWL"]
+      },
+      {
+        "Name": "NINETALES",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 37,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["SUNNY DAY", "FLAMETHROWER", "DIG", "CONFUSE RAY"]
+      },
+      {
+        "Name": "VILEPLUME",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 34,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["ACID", "INGRAIN", "AROMATHERAPY", "GIGA DRAIN"]
+      },
+      {
+        "Name": "MAGMAR",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 39,
+        "ShadowLevel": 36,
+        "ShadowCatchRate": 90,
+        "Moves": ["FIRE BLAST", "FOLLOW ME", "CROSS CHOP", "THUNDERPUNCH"]
+      },
+      {
+        "Name": "PINSIR",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 38,
+        "ShadowLevel": 35,
+        "ShadowCatchRate": 90,
+        "Moves": ["GUILLOTINE", "HELPING HAND", "FALSE SWIPE", "SUBMISSION"]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      }
+    ]
+  },
+  {
+    "Index": 183,
+    "Name": "KOLEST",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "CAMERUPT",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 37,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["SUNNY DAY", "FLAMETHROWER", "TAKE DOWN", "AMNESIA"]
+      },
+      {
+        "Name": "WEEZING",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 37,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["FLAMETHROWER", "SMOKESCREEN", "SLUDGE", "HAZE"]
+      },
+      {
+        "Name": "MUK",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 38,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["SLUDGE", "FLAMETHROWER", "SCREECH", "ACID ARMOR"]
+      },
+      {
+        "Name": "RAPIDASH",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 41,
+        "ShadowLevel": 40,
+        "ShadowCatchRate": 110,
+        "Moves": ["SOLARBEAM", "BATON PASS", "SUNNY DAY", "FLAMETHROWER"]
+      },
+      {
+        "Name": "MAGCARGO",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 40,
+        "ShadowLevel": 38,
+        "ShadowCatchRate": 120,
+        "Moves": ["HEAT WAVE", "REFRESH", "EARTHQUAKE", "FLAMETHROWER"]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      }
+    ]
+  },
+  {
+    "Index": 185,
+    "Name": "KARBON",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "MEDICHAM",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 38,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["HI JUMP KICK", "CALM MIND", "PSYCHIC", "BRICK BREAK"]
+      },
+      {
+        "Name": "GOLEM",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 38,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["ROCK BLAST", "ROLLOUT", "ROCK THROW", "MUD SPORT"]
+      },
+      {
+        "Name": "XATU",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 38,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["FUTURE SIGHT", "AERIAL ACE", "PSYCHIC", "NIGHT SHADE"]
+      },
+      {
+        "Name": "HITMONCHAN",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 41,
+        "ShadowLevel": 38,
+        "ShadowCatchRate": 90,
+        "Moves": ["MEGA PUNCH", "HELPING HAND", "MIND READER", "SKY UPPERCUT"]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      }
+    ]
+  },
+  {
+    "Index": 186,
+    "Name": "PETRO",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "GRUMPIG",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 39,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["PSYCHIC", "MAGIC COAT", "CONFUSE RAY", "PSYCH UP"]
+      },
+      {
+        "Name": "SKARMORY",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 39,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["STEEL WING", "AIR CUTTER", "FURY ATTACK", "AGILITY"]
+      },
+      {
+        "Name": "METANG",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 39,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["PSYCHIC", "IRON DEFENSE", "SCARY FACE", "METAL CLAW"]
+      },
+      {
+        "Name": "HARIYAMA",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 39,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["SMELLINGSALT", "BRICK BREAK", "VITAL THROW", "FAKE OUT"]
+      },
+      {
+        "Name": "HITMONLEE",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 41,
+        "ShadowLevel": 38,
+        "ShadowCatchRate": 90,
+        "Moves": ["HI JUMP KICK", "REFRESH", "MIND READER", "MEGA KICK"]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      }
+    ]
+  },
+  {
+    "Index": 189,
+    "Name": "GEFTAL",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "LANTURN",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 41,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["WATER PULSE", "SPARK", "SHOCK WAVE", "FLAIL"]
+      },
+      {
+        "Name": "MAGNETON",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 41,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["THUNDER", "METAL SOUND", "REFLECT", "LOCK-ON"]
+      },
+      {
+        "Name": "LICKITUNG",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 41,
+        "ShadowLevel": 38,
+        "ShadowCatchRate": 90,
+        "Moves": ["DOUBLE-EDGE", "HELPING HAND", "DEFENSE CURL", "ROLLOUT"]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      }
+    ]
+  },
+  {
+    "Index": 190,
+    "Name": "LEDEN",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "STANTLER",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 41,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["TAKE DOWN", "SAND-ATTACK", "STOMP", "HYPNOSIS"]
+      },
+      {
+        "Name": "EXPLOUD",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 41,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["HYPER BEAM", "SCREECH", "STOMP", "SUPERSONIC"]
+      },
+      {
+        "Name": "SCYTHER",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 43,
+        "ShadowLevel": 40,
+        "ShadowCatchRate": 90,
+        "Moves": ["RAZOR WIND", "MORNING SUN", "SILVER WIND", "SLASH"]
+      },
+      {
+        "Name": "CHANSEY",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 42,
+        "ShadowLevel": 39,
+        "ShadowCatchRate": 70,
+        "Moves": ["THUNDERBOLT", "SWEET KISS", "SOFTBOILED", "SKILL SWAP"]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      }
+    ]
+  },
+  {
+    "Index": 191,
+    "Name": "SNATTLE",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "METANG",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 42,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["ICE PUNCH", "METAL CLAW", "PSYCHIC", "THUNDERPUNCH"]
+      },
+      {
+        "Name": "QUAGSIRE",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 42,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["BRICK BREAK", "WATERFALL", "BODY SLAM", "MUD SHOT"]
+      },
+      {
+        "Name": "SCIZOR",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 42,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["AERIAL ACE", "SILVER WIND", "STEEL WING", "SLASH"]
+      },
+      {
+        "Name": "SOLROCK",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 44,
+        "ShadowLevel": 41,
+        "ShadowCatchRate": 90,
+        "Moves": ["PSYCHIC", "BATON PASS", "SUNNY DAY", "COSMIC POWER"]
+      },
+      {
+        "Name": "CASTFORM",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 42,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["WEATHER BALL", "THUNDERBOLT", "FLAMETHROWER", "WATER PULSE"]
+      },
+      {
+        "Name": "STARMIE",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 44,
+        "ShadowLevel": 41,
+        "ShadowCatchRate": 110,
+        "Moves": ["WATERFALL", "REFRESH", "ICE BEAM", "RECOVER"]
+      }
+    ]
+  },
+  {
+    "Index": 193,
+    "Name": "ARDOS",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "SWELLOW",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 46,
+        "ShadowLevel": 43,
+        "ShadowCatchRate": 90,
+        "Moves": ["SKY ATTACK", "BATON PASS", "AGILITY", "FACADE"]
+      },
+      {
+        "Name": "ALAKAZAM",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 44,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["PSYCHIC", "FIRE PUNCH", "THUNDERPUNCH", "ICE PUNCH"]
+      },
+      {
+        "Name": "KINGDRA",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 44,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["HYDRO PUMP", "DOUBLE-EDGE", "ICE BEAM", "DRAGONBREATH"]
+      },
+      {
+        "Name": "HERACROSS",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 44,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["MEGAHORN", "BRICK BREAK", "DOUBLE-EDGE", "ROCK TOMB"]
+      },
+      {
+        "Name": "ELECTABUZZ",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 46,
+        "ShadowLevel": 43,
+        "ShadowCatchRate": 90,
+        "Moves": ["CROSS CHOP", "FOLLOW ME", "THUNDER WAVE", "THUNDERBOLT"]
+      },
+      {
+        "Name": "SNORLAX",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 46,
+        "ShadowLevel": 43,
+        "ShadowCatchRate": 70,
+        "Moves": ["FISSURE", "REFRESH", "CURSE", "BODY SLAM"]
+      }
+    ]
+  },
+  {
+    "Index": 194,
+    "Name": "GORIGAN",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "SLOWKING",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 42,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["PSYCHIC", "WATER PULSE", "ICE BEAM", "EARTHQUAKE"]
+      },
+      {
+        "Name": "URSARING",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 43,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["SLASH", "EARTHQUAKE", "BRICK BREAK", "PROTECT"]
+      },
+      {
+        "Name": "AGGRON",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 43,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["EARTHQUAKE", "IRON TAIL", "DOUBLE-EDGE", "PROTECT"]
+      },
+      {
+        "Name": "WALREIN",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 44,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["EARTHQUAKE", "ICE BEAM", "DOUBLE-EDGE", "WATERFALL"]
+      },
+      {
+        "Name": "POLIWRATH",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 45,
+        "ShadowLevel": 42,
+        "ShadowCatchRate": 90,
+        "Moves": ["HYDRO PUMP", "HELPING HAND", "RAIN DANCE", "BRICK BREAK"]
+      },
+      {
+        "Name": "MR. MIME",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 45,
+        "ShadowLevel": 42,
+        "ShadowCatchRate": 90,
+        "Moves": ["PSYCHIC", "FOLLOW ME", "ENCORE", "THUNDERPUNCH"]
+      }
+    ]
+  },
+  {
+    "Index": 195,
+    "Name": "KOLAX",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "GLALIE",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 41,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["ICE BEAM", "HAIL", "CRUNCH", "ICY WIND"]
+      },
+      {
+        "Name": "AMPHAROS",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 44,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["COTTON SPORE", "THUNDERBOLT", "LIGHT SCREEN", "GROWL"]
+      },
+      {
+        "Name": "BRELOOM",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 42,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["SPORE", "FOCUS PUNCH", "SKY UPPERCUT", "MACH PUNCH"]
+      },
+      {
+        "Name": "DONPHAN",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 44,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["ROLLOUT", "RAPID SPIN", "FLAIL", "DEFENSE CURL"]
+      },
+      {
+        "Name": "DUGTRIO",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 43,
+        "ShadowLevel": 40,
+        "ShadowCatchRate": 100,
+        "Moves": ["EARTHQUAKE", "CHARM", "SANDSTORM", "TRI ATTACK"]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      }
+    ]
+  },
+  {
+    "Index": 196,
+    "Name": "ELDES",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "NINJASK",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 45,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["PROTECT", "AERIAL ACE", "SILVER WIND", "DIG"]
+      },
+      {
+        "Name": "MANECTRIC",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 47,
+        "ShadowLevel": 44,
+        "ShadowCatchRate": 80,
+        "Moves": ["THUNDER", "REFRESH", "RAIN DANCE", "BITE"]
+      },
+      {
+        "Name": "SALAMENCE",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 51,
+        "ShadowLevel": 50,
+        "ShadowCatchRate": 80,
+        "Moves": ["DRAGON CLAW", "REFRESH", "DRAGON DANCE", "AERIAL ACE"]
+      },
+      {
+        "Name": "FLYGON",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 45,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["FLAMETHROWER", "DRAGONBREATH", "CRUNCH", "DOUBLE-EDGE"]
+      },
+      {
+        "Name": "MAROWAK",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 47,
+        "ShadowLevel": 44,
+        "ShadowCatchRate": 110,
+        "Moves": ["EARTHQUAKE", "SING", "SWORDS DANCE", "ROCK SLIDE"]
+      },
+      {
+        "Name": "LAPRAS",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 47,
+        "ShadowLevel": 44,
+        "ShadowCatchRate": 80,
+        "Moves": ["HYDRO PUMP", "HEAL BELL", "RAIN DANCE", "BLIZZARD"]
+      }
+    ]
+  },
+  {
+    "Index": 199,
+    "Name": "GREEVIL",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "LUGIA",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 53,
+        "ShadowLevel": 50,
+        "ShadowCatchRate": 3,
+        "Moves": ["PSYCHO BOOST", "FEATHERDANCE", "EARTHQUAKE", "HYDRO PUMP"]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      }
+    ]
+  },
+  {
+    "Index": 200,
+    "Name": "GREEVIL",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "RHYDON",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 47,
+        "ShadowLevel": 46,
+        "ShadowCatchRate": 100,
+        "Moves": ["MEGAHORN", "HELPING HAND", "SCARY FACE", "EARTHQUAKE"]
+      },
+      {
+        "Name": "MOLTRES",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 50,
+        "ShadowLevel": 50,
+        "ShadowCatchRate": 25,
+        "Moves": ["EXTRASENSORY", "MORNING SUN", "WILL-O-WISP", "FLAMETHROWER"]
+      },
+      {
+        "Name": "EXEGGUTOR",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 47,
+        "ShadowLevel": 46,
+        "ShadowCatchRate": 80,
+        "Moves": ["PSYCHIC", "REFRESH", "HYPNOSIS", "ANCIENTPOWER"]
+      },
+      {
+        "Name": "TAUROS",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 47,
+        "ShadowLevel": 46,
+        "ShadowCatchRate": 80,
+        "Moves": ["EARTHQUAKE", "REFRESH", "TAIL WHIP", "BODY SLAM"]
+      },
+      {
+        "Name": "ARTICUNO",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 50,
+        "ShadowLevel": 50,
+        "ShadowCatchRate": 25,
+        "Moves": ["EXTRASENSORY", "HEAL BELL", "HAZE", "ICE BEAM"]
+      },
+      {
+        "Name": "ZAPDOS",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 50,
+        "ShadowLevel": 50,
+        "ShadowCatchRate": 25,
+        "Moves": ["EXTRASENSORY", "BATON PASS", "METAL SOUND", "THUNDERBOLT"]
+      }
+    ]
+  },
+  {
+    "Index": 203,
+    "Name": "RESIX",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "HOUNDOUR",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 17,
+        "ShadowLevel": 17,
+        "ShadowCatchRate": 225,
+        "Moves": ["FAINT ATTACK", "CHARM", "EMBER", "ROAR"]
+      },
+      {
+        "Name": "MAGCARGO",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 50,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["OVERHEAT", "BODY SLAM", "ROCK SLIDE", "LIGHT SCREEN"]
+      },
+      {
+        "Name": "CAMERUPT",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 50,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["REST", "SLEEP TALK", "ERUPTION", "DIG"]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      }
+    ]
+  },
+  {
+    "Index": 204,
+    "Name": "BLUSIX",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "KINGDRA",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 50,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["RAIN DANCE", "WATERFALL", "ICE BEAM", "HYPER BEAM"]
+      },
+      {
+        "Name": "SEAKING",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 50,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["RAIN DANCE", "WATERFALL", "ICE BEAM", "HORN DRILL"]
+      },
+      {
+        "Name": "METAGROSS",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 50,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["METEOR MASH", "PSYCHIC", "EARTHQUAKE", "SHADOW BALL"]
+      },
+      {
+        "Name": "SPHEAL",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 17,
+        "ShadowLevel": 17,
+        "ShadowCatchRate": 255,
+        "Moves": ["AURORA BEAM", "CHARM", "WATER GUN", "MUD-SLAP"]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      }
+    ]
+  },
+  {
+    "Index": 205,
+    "Name": "BROWSIX",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "BALTOY",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 17,
+        "ShadowLevel": 17,
+        "ShadowCatchRate": 255,
+        "Moves": ["ROCK TOMB", "REFRESH", "MUD-SLAP", "PSYBEAM"]
+      },
+      {
+        "Name": "NOCTOWL",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 50,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["PSYCHIC", "AERIAL ACE", "SWIFT", "REFLECT"]
+      },
+      {
+        "Name": "SLAKING",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 50,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["EARTHQUAKE", "SHADOW BALL", "BRICK BREAK", "AERIAL ACE"]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      }
+    ]
+  },
+  {
+    "Index": 206,
+    "Name": "YELLOSIX",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "MAREEP",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 17,
+        "ShadowLevel": 17,
+        "ShadowCatchRate": 235,
+        "Moves": ["BODY SLAM", "HEAL BELL", "THUNDERSHOCK", "THUNDER WAVE"]
+      },
+      {
+        "Name": "MANECTRIC",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 50,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["RAIN DANCE", "SWIFT", "THUNDER WAVE", "THUNDER"]
+      },
+      {
+        "Name": "LANTURN",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 50,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["CONFUSE RAY", "THUNDER", "HYDRO PUMP", "THUNDER WAVE"]
+      },
+      {
+        "Name": "MAGNETON",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 50,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["SWIFT", "THUNDER", "THUNDER WAVE", "METAL SOUND"]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      }
+    ]
+  },
+  {
+    "Index": 207,
+    "Name": "PURPSIX",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "WEEZING",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 50,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["SHADOW BALL", "SWAGGER", "TOXIC", "SLUDGE BOMB"]
+      },
+      {
+        "Name": "MUK",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 50,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["SLUDGE BOMB", "TOXIC", "SWAGGER", "MINIMIZE"]
+      },
+      {
+        "Name": "GULPIN",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 17,
+        "ShadowLevel": 17,
+        "ShadowCatchRate": 225,
+        "Moves": ["SHOCK WAVE", "SING", "SLUDGE", "TOXIC"]
+      },
+      {
+        "Name": "TENTACRUEL",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 50,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["HYDRO PUMP", "BARRIER", "SLUDGE BOMB", "GIGA DRAIN"]
+      },
+      {
+        "Name": "GOLBAT",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 50,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["BITE", "SWAGGER", "SLUDGE BOMB", "SHADOW BALL"]
+      },
+      {
+        "Name": "",
+        "IsShadow": false,
+        "IsSet": false,
+        "Level": 0,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["", "", "", ""]
+      }
+    ]
+  },
+  {
+    "Index": 208,
+    "Name": "GREESIX",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "VILEPLUME",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 50,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["SUNNY DAY", "SOLARBEAM", "STUN SPORE", "SLUDGE BOMB"]
+      },
+      {
+        "Name": "CACTURNE",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 50,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["SUNNY DAY", "NEEDLE ARM", "SOLARBEAM", "FAINT ATTACK"]
+      },
+      {
+        "Name": "BRELOOM",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 50,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["LEECH SEED", "SOLARBEAM", "BRICK BREAK", "IRON TAIL"]
+      },
+      {
+        "Name": "LOMBRE",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 50,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["HYDRO PUMP", "UPROAR", "THIEF", "WATER SPORT"]
+      },
+      {
+        "Name": "FORRETRESS",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 50,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["SPIKES", "EXPLOSION", "BIDE", "RAPID SPIN"]
+      },
+      {
+        "Name": "SEEDOT",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 17,
+        "ShadowLevel": 17,
+        "ShadowCatchRate": 255,
+        "Moves": ["GIGA DRAIN", "REFRESH", "BULLET SEED", "SECRET POWER"]
+      }
+    ]
+  },
+  {
+    "Index": 221,
+    "Name": "MIROR B.",
+    "IsSet": true,
+    "Pokemon": [
+      {
+        "Name": "LUDICOLO",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 57,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["RAIN DANCE", "GIGA DRAIN", "HYDRO PUMP", "FAKE OUT"]
+      },
+      {
+        "Name": "LUDICOLO",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 57,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["RAIN DANCE", "GIGA DRAIN", "HYDRO PUMP", "COUNTER"]
+      },
+      {
+        "Name": "LUDICOLO",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 57,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["RAIN DANCE", "GIGA DRAIN", "WATERFALL", "BRICK BREAK"]
+      },
+      {
+        "Name": "LUDICOLO",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 57,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["RAIN DANCE", "FIRE PUNCH", "ICE PUNCH", "THUNDERPUNCH"]
+      },
+      {
+        "Name": "LUDICOLO",
+        "IsShadow": false,
+        "IsSet": true,
+        "Level": 57,
+        "ShadowLevel": 0,
+        "ShadowCatchRate": 0,
+        "Moves": ["RAIN DANCE", "GIGA DRAIN", "HYDRO PUMP", "SEISMIC TOSS"]
+      },
+      {
+        "Name": "DRAGONITE",
+        "IsShadow": true,
+        "IsSet": true,
+        "Level": 57,
+        "ShadowLevel": 55,
+        "ShadowCatchRate": 45,
+        "Moves": ["HYPER BEAM", "HEAL BELL", "DRAGON DANCE", "EARTHQUAKE"]
+      }
+    ]
+  }
+]

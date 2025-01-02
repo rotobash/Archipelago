@@ -1,0 +1,2 @@
+class PokemonXDOptions:
+    pass

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Pyrite Town - Duking Trapinch Trade",
+    "category": ["Trade Pokemon"],
+    "region": "Cave Poke Spot",
+    "requires": ["Spot Monitor", "Trapinch"]
+  },
+  {
+    "name": "Pyrite Town - Duking Wooper Trade",
+    "category": ["Trade Pokemon"],
+    "region": "Cave Poke Spot",
+    "requires": ["Spot Monitor", "Wooper"]
+  },
+  {
+    "name": "Pyrite Town - Duking Surskit Trade",
+    "category": ["Trade Pokemon"],
+    "region": "Cave Poke Spot",
+    "requires": ["Spot Monitor", "Surskit"]
+  },
+  {
+    "name": "Outskirt Stand - Hordel Trade",
+    "category": ["Trade Pokemon"],
+    "region": "Outskirt Stand",
+    "requires": ["Togepi"]
+  }
+]

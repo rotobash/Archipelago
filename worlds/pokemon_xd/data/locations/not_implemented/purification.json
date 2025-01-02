@@ -1,0 +1,494 @@
+[
+  {
+    "name": "Agate Village - Purify Teddiursa",
+    "category": ["Purification"],
+    "region": "Agate Village",
+    "requires": ["Teddiursa"]
+  },
+  {
+    "name": "Agate Village - Purify Ledyba",
+    "category": ["Purification"],
+    "region": "Cave Poke Spot",
+    "requires": ["Ledyba", "Miror Radar"]
+  },
+  {
+    "name": "Agate Village - Purify Poochyena",
+    "category": ["Purification"],
+    "region": "Cave Poke Spot",
+    "requires": ["Poochyena", "Miror Radar"]
+  },
+  {
+    "name": "Agate Village - Purify Houndour",
+    "category": ["Purification"],
+    "region": "Cipher Lab",
+    "requires": ["Houndour"]
+  },
+  {
+    "name": "Agate Village - Purify Baltoy",
+    "category": ["Purification"],
+    "region": "Cipher Lab",
+    "requires": ["Baltoy"]
+  },
+  {
+    "name": "Agate Village - Purify Spheal",
+    "category": ["Purification"],
+    "region": "Cipher Lab",
+    "requires": ["Spheal"]
+  },
+  {
+    "name": "Agate Village - Purify Mareep",
+    "category": ["Purification"],
+    "region": "Cipher Lab",
+    "requires": ["Mareep"]
+  },
+  {
+    "name": "Agate Village - Purify Gulpin",
+    "category": ["Purification"],
+    "region": "Cipher Lab",
+    "requires": ["Gulpin"]
+  },
+  {
+    "name": "Agate Village - Purify Seedot",
+    "category": ["Purification"],
+    "region": "Cipher Lab",
+    "requires": ["Seedot"]
+  },
+  {
+    "name": "Agate Village - Purify Spinarak",
+    "category": ["Purification"],
+    "region": "Cave Poke Spot",
+    "requires": ["Spinarak", "Miror Radar"]
+  },
+  {
+    "name": "Agate Village - Purify Numel",
+    "category": ["Purification"],
+    "region": "Cave Poke Spot",
+    "requires": ["Numel", "Miror Radar"]
+  },
+  {
+    "name": "Agate Village - Purify Carvanha",
+    "category": ["Purification"],
+    "region": "Cave Poke Spot",
+    "requires": ["Carvanha", "Miror Radar"]
+  },
+  {
+    "name": "Agate Village - Purify Shroomish",
+    "category": ["Purification"],
+    "region": "Cave Poke Spot",
+    "requires": ["Shroomish", "Miror Radar"]
+  },
+  {
+    "name": "Agate Village - Purify Delcatty",
+    "category": ["Purification"],
+    "region": "Cave Poke Spot",
+    "requires": ["Delcatty", "Miror Radar"]
+  },
+  {
+    "name": "Agate Village - Purify Voltorb",
+    "category": ["Purification"],
+    "region": "Cave Poke Spot",
+    "requires": ["Voltorb", "Miror Radar"]
+  },
+  {
+    "name": "Agate Village - Purify Makuhita",
+    "category": ["Purification"],
+    "region": "Attacked ONBS",
+    "requires": ["Makuhita", "Miror Radar"]
+  },
+  {
+    "name": "Agate Village - Purify Vulpix",
+    "category": ["Purification"],
+    "region": "Attacked ONBS",
+    "requires": ["Vulpix", "Miror Radar"]
+  },
+  {
+    "name": "Agate Village - Purify Duskull",
+    "category": ["Purification"],
+    "region": "Attacked ONBS",
+    "requires": ["Duskull", "Miror Radar"]
+  },
+  {
+    "name": "Agate Village - Purify Ralts",
+    "category": ["Purification"],
+    "region": "Attacked ONBS",
+    "requires": ["Ralts", "Miror Radar"]
+  },
+  {
+    "name": "Agate Village - Purify Mawile",
+    "category": ["Purification"],
+    "region": "Attacked ONBS",
+    "requires": ["Mawile", "Miror Radar"]
+  },
+  {
+    "name": "Agate Village - Purify Pineco",
+    "category": ["Purification"],
+    "region": "Phenac City",
+    "requires": ["Pineco", "Miror Radar"]
+  },
+  {
+    "name": "Agate Village - Purify Natu",
+    "category": ["Purification"],
+    "region": "Phenac City",
+    "requires": ["Natu", "Miror Radar"]
+  },
+  {
+    "name": "Agate Village - Purify Roselia",
+    "category": ["Purification"],
+    "region": "Phenac City",
+    "requires": ["Roselia", "Miror Radar"]
+  },
+  {
+    "name": "Agate Village - Purify Meowth",
+    "category": ["Purification"],
+    "region": "Phenac City",
+    "requires": ["Meowth", "Miror Radar"]
+  },
+  {
+    "name": "Agate Village - Purify Swinub",
+    "category": ["Purification"],
+    "region": "Phenac City",
+    "requires": ["Swinub", "Miror Radar"]
+  },
+  {
+    "name": "Agate Village - Purify Spearow",
+    "category": ["Purification"],
+    "region": "Phenac City",
+    "requires": ["Spearow", "Miror Radar"]
+  },
+  {
+    "name": "Agate Village - Purify Grimer",
+    "category": ["Purification"],
+    "region": "Phenac City",
+    "requires": ["Grimer", "Miror Radar"]
+  },
+  {
+    "name": "Agate Village - Purify Seel",
+    "category": ["Purification"],
+    "region": "Phenac City",
+    "requires": ["Seel", "Miror Radar"]
+  },
+  {
+    "name": "Agate Village - Purify Lunatone",
+    "category": ["Purification"],
+    "region": "Phenac City",
+    "requires": ["Lunatone", "Miror Radar"]
+  },
+  {
+    "name": "Agate Village - Purify Zangoose",
+    "category": ["Purification"],
+    "region": "Cipher Key Lair",
+    "requires": ["Zangoose", "Miror Radar"]
+  },
+  {
+    "name": "Agate Village - Purify Nosepass",
+    "category": ["Purification"],
+    "region": "Cipher Key Lair",
+    "requires": ["Nosepass", "Miror Radar"]
+  },
+  {
+    "name": "Agate Village - Purify Togepi",
+    "category": ["Purification"],
+    "region": "Outskirt Stand",
+    "requires": ["Togepi"]
+  },
+  {
+    "name": "Agate Village - Purify Paras",
+    "category": ["Purification"],
+    "region": "Cipher Key Lair",
+    "requires": ["Paras", "Miror Radar"]
+  },
+  {
+    "name": "Agate Village - Purify Growlithe",
+    "category": ["Purification"],
+    "region": "Cipher Key Lair",
+    "requires": ["Growlithe", "Miror Radar"]
+  },
+  {
+    "name": "Agate Village - Purify Shellder",
+    "category": ["Purification"],
+    "region": "Cipher Key Lair",
+    "requires": ["Shellder", "Miror Radar"]
+  },
+  {
+    "name": "Agate Village - Purify Beedrill",
+    "category": ["Purification"],
+    "region": "Cipher Key Lair",
+    "requires": ["Beedrill", "Miror Radar"]
+  },
+  {
+    "name": "Agate Village - Purify Pidgeotto",
+    "category": ["Purification"],
+    "region": "Cipher Key Lair",
+    "requires": ["Pidgeotto", "Miror Radar"]
+  },
+  {
+    "name": "Agate Village - Purify Tangela",
+    "category": ["Purification"],
+    "region": "Cipher Key Lair",
+    "requires": ["Tangela", "Miror Radar"]
+  },
+  {
+    "name": "Agate Village - Purify Butterfree",
+    "category": ["Purification"],
+    "region": "Cipher Key Lair",
+    "requires": ["Butterfree", "Miror Radar"]
+  },
+  {
+    "name": "Agate Village - Purify Magneton",
+    "category": ["Purification"],
+    "region": "Cipher Key Lair",
+    "requires": ["Magneton", "Miror Radar"]
+  },
+  {
+    "name": "Agate Village - Purify Venomoth",
+    "category": ["Purification"],
+    "region": "Cipher Key Lair",
+    "requires": ["Venomoth", "Miror Radar"]
+  },
+  {
+    "name": "Agate Village - Purify Weepinbell",
+    "category": ["Purification"],
+    "region": "Cipher Key Lair",
+    "requires": ["Weepinbell", "Miror Radar"]
+  },
+  {
+    "name": "Agate Village - Purify Arbok",
+    "category": ["Purification"],
+    "region": "Cipher Key Lair",
+    "requires": ["Arbok", "Miror Radar"]
+  },
+  {
+    "name": "Agate Village - Purify Primeape",
+    "category": ["Purification"],
+    "region": "Cipher Key Lair",
+    "requires": ["Primeape", "Miror Radar"]
+  },
+  {
+    "name": "Agate Village - Purify Hypno",
+    "category": ["Purification"],
+    "region": "Cipher Key Lair",
+    "requires": ["Hypno", "Miror Radar"]
+  },
+  {
+    "name": "Agate Village - Purify Raticate",
+    "category": ["Purification"],
+    "region": "Citadark Isle",
+    "requires": ["Raticate", "Miror Radar"]
+  },
+  {
+    "name": "Agate Village - Purify Golduck",
+    "category": ["Purification"],
+    "region": "Citadark Isle",
+    "requires": ["Golduck", "Miror Radar"]
+  },
+  {
+    "name": "Agate Village - Purify Sableye",
+    "category": ["Purification"],
+    "region": "Citadark Isle",
+    "requires": ["Sableye", "Miror Radar"]
+  },
+  {
+    "name": "Agate Village - Purify Dodrio",
+    "category": ["Purification"],
+    "region": "Citadark Isle",
+    "requires": ["Dodrio", "Miror Radar"]
+  },
+  {
+    "name": "Agate Village - Purify Farfetch'd",
+    "category": ["Purification"],
+    "region": "Citadark Isle",
+    "requires": ["Farfetch'd", "Miror Radar"]
+  },
+  {
+    "name": "Agate Village - Purify Altaria",
+    "category": ["Purification"],
+    "region": "Citadark Isle",
+    "requires": ["Altaria", "Miror Radar"]
+  },
+  {
+    "name": "Agate Village - Purify Kangaskhan",
+    "category": ["Purification"],
+    "region": "Citadark Isle",
+    "requires": ["Kangaskhan", "Miror Radar"]
+  },
+  {
+    "name": "Agate Village - Purify Banette",
+    "category": ["Purification"],
+    "region": "Citadark Isle",
+    "requires": ["Banette", "Miror Radar"]
+  },
+  {
+    "name": "Agate Village - Purify Magmar",
+    "category": ["Purification"],
+    "region": "Citadark Isle",
+    "requires": ["Magmar", "Miror Radar"]
+  },
+  {
+    "name": "Agate Village - Purify Pinsir",
+    "category": ["Purification"],
+    "region": "Citadark Isle",
+    "requires": ["Pinsir", "Miror Radar"]
+  },
+  {
+    "name": "Agate Village - Purify Magcargo",
+    "category": ["Purification"],
+    "region": "Citadark Isle",
+    "requires": ["Magcargo", "Miror Radar"]
+  },
+  {
+    "name": "Agate Village - Purify Rapidash",
+    "category": ["Purification"],
+    "region": "Citadark Isle",
+    "requires": ["Rapidash", "Miror Radar"]
+  },
+  {
+    "name": "Agate Village - Purify Hitmonchan",
+    "category": ["Purification"],
+    "region": "Citadark Isle",
+    "requires": ["Hitmonchan", "Miror Radar"]
+  },
+  {
+    "name": "Agate Village - Purify Hitmonlee",
+    "category": ["Purification"],
+    "region": "Citadark Isle",
+    "requires": ["Hitmonlee", "Miror Radar"]
+  },
+  {
+    "name": "Agate Village - Purify Lickitung",
+    "category": ["Purification"],
+    "region": "Citadark Isle",
+    "requires": ["Lickitung", "Miror Radar"]
+  },
+  {
+    "name": "Agate Village - Purify Scyther",
+    "category": ["Purification"],
+    "region": "Citadark Isle",
+    "requires": ["Scyther", "Miror Radar"]
+  },
+  {
+    "name": "Agate Village - Purify Chansey",
+    "category": ["Purification"],
+    "region": "Citadark Isle",
+    "requires": ["Chansey", "Miror Radar"]
+  },
+  {
+    "name": "Agate Village - Purify Solrock",
+    "category": ["Purification"],
+    "region": "Citadark Isle",
+    "requires": ["Solrock", "Miror Radar"]
+  },
+  {
+    "name": "Agate Village - Purify Starmie",
+    "category": ["Purification"],
+    "region": "Citadark Isle",
+    "requires": ["Starmie", "Miror Radar"]
+  },
+  {
+    "name": "Agate Village - Purify Electabuzz",
+    "category": ["Purification"],
+    "region": "Citadark Isle",
+    "requires": ["Electabuzz", "Miror Radar"]
+  },
+  {
+    "name": "Agate Village - Purify Swellow",
+    "category": ["Purification"],
+    "region": "Citadark Isle",
+    "requires": ["Swellow", "Miror Radar"]
+  },
+  {
+    "name": "Agate Village - Purify Snorlax",
+    "category": ["Purification"],
+    "region": "Citadark Isle",
+    "requires": ["Snorlax", "Miror Radar"]
+  },
+  {
+    "name": "Agate Village - Purify Poliwrath",
+    "category": ["Purification"],
+    "region": "Citadark Isle",
+    "requires": ["Poliwrath", "Miror Radar"]
+  },
+  {
+    "name": "Agate Village - Purify Mr. Mime",
+    "category": ["Purification"],
+    "region": "Citadark Isle",
+    "requires": ["Mr. Mime", "Miror Radar"]
+  },
+  {
+    "name": "Agate Village - Purify Dugtrio",
+    "category": ["Purification"],
+    "region": "Citadark Isle",
+    "requires": ["Dugtrio", "Miror Radar"]
+  },
+  {
+    "name": "Agate Village - Purify Manectric",
+    "category": ["Purification"],
+    "region": "Citadark Isle",
+    "requires": ["Manectric", "Miror Radar"]
+  },
+  {
+    "name": "Agate Village - Purify Salamence",
+    "category": ["Purification"],
+    "region": "Citadark Isle",
+    "requires": ["Salamence", "Miror Radar"]
+  },
+  {
+    "name": "Agate Village - Purify Marowak",
+    "category": ["Purification"],
+    "region": "Citadark Isle",
+    "requires": ["Marowak", "Miror Radar"]
+  },
+  {
+    "name": "Agate Village - Purify Lapras",
+    "category": ["Purification"],
+    "region": "Citadark Isle",
+    "requires": ["Lapras", "Miror Radar"]
+  },
+  {
+    "name": "Agate Village - Purify Articuno",
+    "category": ["Purification"],
+    "region": "Citadark Isle",
+    "requires": ["Articuno"]
+  },
+  {
+    "name": "Agate Village - Purify Zapdos",
+    "category": ["Purification"],
+    "region": "Citadark Isle",
+    "requires": ["Zapdos"]
+  },
+  {
+    "name": "Agate Village - Purify Moltres",
+    "category": ["Purification"],
+    "region": "Citadark Isle",
+    "requires": ["Moltres"]
+  },
+  {
+    "name": "Agate Village - Purify Tauros",
+    "category": ["Purification"],
+    "region": "Citadark Isle",
+    "requires": ["Tauros"]
+  },
+  {
+    "name": "Agate Village - Purify Rhydon",
+    "category": ["Purification"],
+    "region": "Citadark Isle",
+    "requires": ["Rhydon"]
+  },
+  {
+    "name": "Agate Village - Purify Exeggutor",
+    "category": ["Purification"],
+    "region": "Citadark Isle",
+    "requires": ["Exeggutor"]
+  },
+  {
+    "name": "Agate Village - Purify Dragonite",
+    "category": ["Purification"],
+    "region": "Post Game",
+    "requires": ["Dragonite", "Miror Radar"]
+  },
+  {
+    "name": "HQ Lab - Purify Lugia",
+    "category": ["Purification"],
+    "region": "Post Game",
+    "requires": ["Miror Radar", "Lugia"]
+  }
+]

@@ -1,0 +1,698 @@
+[
+  { "name": "Battle CD 01", "category": "Battle CD", "progression": false },
+  { "name": "Battle CD 02", "category": "Battle CD", "progression": false },
+  { "name": "Battle CD 03", "category": "Battle CD", "progression": false },
+  { "name": "Battle CD 04", "category": "Battle CD", "progression": false },
+  { "name": "Battle CD 05", "category": "Battle CD", "progression": false },
+  { "name": "Battle CD 06", "category": "Battle CD", "progression": false },
+  { "name": "Battle CD 07", "category": "Battle CD", "progression": false },
+  { "name": "Battle CD 08", "category": "Battle CD", "progression": false },
+  { "name": "Battle CD 09", "category": "Battle CD", "progression": false },
+  { "name": "Battle CD 10", "category": "Battle CD", "progression": false },
+  { "name": "Battle CD 11", "category": "Battle CD", "progression": false },
+  { "name": "Battle CD 12", "category": "Battle CD", "progression": false },
+  { "name": "Battle CD 13", "category": "Battle CD", "progression": false },
+  { "name": "Battle CD 14", "category": "Battle CD", "progression": false },
+  { "name": "Battle CD 15", "category": "Battle CD", "progression": false },
+  { "name": "Battle CD 16", "category": "Battle CD", "progression": false },
+  { "name": "Battle CD 17", "category": "Battle CD", "progression": false },
+  { "name": "Battle CD 18", "category": "Battle CD", "progression": false },
+  { "name": "Battle CD 19", "category": "Battle CD", "progression": false },
+  { "name": "Battle CD 20", "category": "Battle CD", "progression": false },
+  { "name": "Battle CD 21", "category": "Battle CD", "progression": false },
+  { "name": "Battle CD 22", "category": "Battle CD", "progression": false },
+  { "name": "Battle CD 23", "category": "Battle CD", "progression": false },
+  { "name": "Battle CD 24", "category": "Battle CD", "progression": false },
+  { "name": "Battle CD 25", "category": "Battle CD", "progression": false },
+  { "name": "Battle CD 26", "category": "Battle CD", "progression": false },
+  { "name": "Battle CD 27", "category": "Battle CD", "progression": false },
+  { "name": "Battle CD 28", "category": "Battle CD", "progression": false },
+  { "name": "Battle CD 29", "category": "Battle CD", "progression": false },
+  { "name": "Battle CD 30", "category": "Battle CD", "progression": false },
+  { "name": "Battle CD 31", "category": "Battle CD", "progression": false },
+  { "name": "Battle CD 32", "category": "Battle CD", "progression": false },
+  { "name": "Battle CD 33", "category": "Battle CD", "progression": false },
+  { "name": "Battle CD 34", "category": "Battle CD", "progression": false },
+  { "name": "Battle CD 35", "category": "Battle CD", "progression": false },
+  { "name": "Battle CD 36", "category": "Battle CD", "progression": false },
+  { "name": "Battle CD 37", "category": "Battle CD", "progression": false },
+  { "name": "Battle CD 38", "category": "Battle CD", "progression": false },
+  { "name": "Battle CD 39", "category": "Battle CD", "progression": false },
+  { "name": "Battle CD 40", "category": "Battle CD", "progression": false },
+  { "name": "Battle CD 41", "category": "Battle CD", "progression": false },
+  { "name": "Battle CD 42", "category": "Battle CD", "progression": false },
+  { "name": "Battle CD 43", "category": "Battle CD", "progression": false },
+  { "name": "Battle CD 44", "category": "Battle CD", "progression": false },
+  { "name": "Battle CD 45", "category": "Battle CD", "progression": false },
+  { "name": "Battle CD 46", "category": "Battle CD", "progression": false },
+  { "name": "Battle CD 47", "category": "Battle CD", "progression": false },
+  { "name": "Battle CD 48", "category": "Battle CD", "progression": false },
+  { "name": "Battle CD 49", "category": "Battle CD", "progression": false },
+  { "name": "Battle CD 50", "category": "Battle CD", "progression": false },
+  {
+    "name": "TM01",
+    "additional_name": "Focus Punch",
+    "category": "TMs",
+    "progression": false,
+    "useful": true
+  },
+  {
+    "name": "TM02",
+    "additional_name": "Dragon Claw",
+    "category": "TMs",
+    "progression": false,
+    "useful": true
+  },
+  {
+    "name": "TM03",
+    "additional_name": "Water Pulse",
+    "category": "TMs",
+    "progression": false,
+    "useful": true
+  },
+  {
+    "name": "TM04",
+    "additional_name": "Calm Mind",
+    "category": "TMs",
+    "progression": false,
+    "useful": true
+  },
+  {
+    "name": "TM05",
+    "additional_name": "Roar",
+    "category": "TMs",
+    "progression": false,
+    "useful": true
+  },
+  {
+    "name": "TM06",
+    "additional_name": "Toxic",
+    "category": "TMs",
+    "progression": false,
+    "useful": true
+  },
+  {
+    "name": "TM08",
+    "additional_name": "Bulk Up",
+    "category": "TMs",
+    "progression": false,
+    "useful": true
+  },
+  {
+    "name": "TM09",
+    "additional_name": "Bullet Seed",
+    "category": "TMs",
+    "progression": false,
+    "useful": true
+  },
+  {
+    "name": "TM10",
+    "additional_name": "Hidden Power",
+    "category": "TMs",
+    "progression": false,
+    "useful": true
+  },
+  {
+    "name": "TM11",
+    "additional_name": "Sunny Day",
+    "category": "TMs",
+    "progression": false,
+    "useful": true
+  },
+  {
+    "name": "TM12",
+    "additional_name": "Taunt",
+    "category": "TMs",
+    "progression": false,
+    "useful": true
+  },
+  {
+    "name": "TM13",
+    "additional_name": "Ice Beam",
+    "category": "TMs",
+    "progression": false,
+    "useful": true
+  },
+  {
+    "name": "TM14",
+    "additional_name": "Blizzard",
+    "category": "TMs",
+    "progression": false,
+    "useful": true
+  },
+  {
+    "name": "TM15",
+    "additional_name": "Hyper Beam",
+    "category": "TMs",
+    "progression": false,
+    "useful": true
+  },
+  {
+    "name": "TM16",
+    "additional_name": "Light Screen",
+    "category": "TMs",
+    "progression": false,
+    "useful": true
+  },
+  {
+    "name": "TM17",
+    "additional_name": "Protect",
+    "category": "TMs",
+    "progression": false,
+    "useful": true
+  },
+  {
+    "name": "TM18",
+    "additional_name": "Rain Dance",
+    "category": "TMs",
+    "progression": false,
+    "useful": true
+  },
+  {
+    "name": "TM19",
+    "additional_name": "Giga Drain",
+    "category": "TMs",
+    "progression": false,
+    "useful": true
+  },
+  {
+    "name": "TM20",
+    "additional_name": "Safeguard",
+    "category": "TMs",
+    "progression": false,
+    "useful": true
+  },
+  {
+    "name": "TM22",
+    "additional_name": "Solar Beam",
+    "category": "TMs",
+    "progression": false,
+    "useful": true
+  },
+  {
+    "name": "TM23",
+    "additional_name": "Iron Tail",
+    "category": "TMs",
+    "progression": false,
+    "useful": true
+  },
+  {
+    "name": "TM24",
+    "additional_name": "Thunderbolt",
+    "category": "TMs",
+    "progression": false,
+    "useful": true
+  },
+  {
+    "name": "TM25",
+    "additional_name": "Thunder",
+    "category": "TMs",
+    "progression": false,
+    "useful": true
+  },
+  {
+    "name": "TM26",
+    "additional_name": "Earthquake",
+    "category": "TMs",
+    "progression": false,
+    "useful": true
+  },
+  {
+    "name": "TM27",
+    "additional_name": "Return",
+    "category": "TMs",
+    "progression": false,
+    "useful": true
+  },
+  {
+    "name": "TM29",
+    "additional_name": "Psychic",
+    "category": "TMs",
+    "progression": false,
+    "useful": true
+  },
+  {
+    "name": "TM30",
+    "additional_name": "Shadow Ball",
+    "category": "TMs",
+    "progression": false,
+    "useful": true
+  },
+  {
+    "name": "TM31",
+    "additional_name": "Brick Break",
+    "category": "TMs",
+    "progression": false,
+    "useful": true
+  },
+  {
+    "name": "TM32",
+    "additional_name": "Double Team",
+    "category": "TMs",
+    "progression": false,
+    "useful": true
+  },
+  {
+    "name": "TM33",
+    "additional_name": "Reflect",
+    "category": "TMs",
+    "progression": false,
+    "useful": true
+  },
+  {
+    "name": "TM34",
+    "additional_name": "Shock Wave",
+    "category": "TMs",
+    "progression": false,
+    "useful": true
+  },
+  {
+    "name": "TM35",
+    "additional_name": "Flamethrower",
+    "category": "TMs",
+    "progression": false,
+    "useful": true
+  },
+  {
+    "name": "TM36",
+    "additional_name": "Sludge Bomb",
+    "category": "TMs",
+    "progression": false,
+    "useful": true
+  },
+  {
+    "name": "TM38",
+    "additional_name": "Fire Blast",
+    "category": "TMs",
+    "progression": false,
+    "useful": true
+  },
+  {
+    "name": "TM39",
+    "additional_name": "Rock Tomb",
+    "category": "TMs",
+    "progression": false,
+    "useful": true
+  },
+  {
+    "name": "TM40",
+    "additional_name": "Aerial Ace",
+    "category": "TMs",
+    "progression": false,
+    "useful": true
+  },
+  {
+    "name": "TM41",
+    "additional_name": "Torment",
+    "category": "TMs",
+    "progression": false,
+    "useful": true
+  },
+  {
+    "name": "TM42",
+    "additional_name": "Facade",
+    "category": "TMs",
+    "progression": false,
+    "useful": true
+  },
+  {
+    "name": "TM44",
+    "additional_name": "Rest",
+    "category": "TMs",
+    "progression": false,
+    "useful": true
+  },
+  {
+    "name": "TM45",
+    "additional_name": "Attract",
+    "category": "TMs",
+    "progression": false,
+    "useful": true
+  },
+  {
+    "name": "TM47",
+    "additional_name": "Steel Wing",
+    "category": "TMs",
+    "progression": false,
+    "useful": true
+  },
+  {
+    "name": "TM48",
+    "additional_name": "Skill Swap",
+    "category": "TMs",
+    "progression": false,
+    "useful": true
+  },
+  {
+    "name": "TM49",
+    "additional_name": "Snatch",
+    "category": "TMs",
+    "progression": false,
+    "useful": true
+  },
+  {
+    "name": "TM50",
+    "additional_name": "Overheat",
+    "category": "TMs",
+    "progression": false,
+    "useful": true
+  },
+  {
+    "name": "Amulet Coin",
+    "category": "Items",
+    "progression": false,
+    "useful": true
+  },
+  { "name": "Antidote", "category": "Items", "progression": false },
+  { "name": "Awakening", "category": "Items", "progression": false },
+  { "name": "Burn Heal", "category": "Items", "progression": false },
+  {
+    "name": "Carbos",
+    "category": "Items",
+    "progression": false,
+    "useful": true
+  },
+  { "name": "Elixir", "category": "Items", "progression": false },
+  { "name": "Ether", "category": "Items", "progression": false },
+  {
+    "name": "Experience Share",
+    "category": "Items",
+    "progression": false,
+    "useful": true
+  },
+  {
+    "name": "Fire Stone",
+    "category": "Items",
+    "progression": false,
+    "useful": true
+  },
+  {
+    "name": "Focus Band",
+    "category": "Items",
+    "progression": false,
+    "useful": true
+  },
+  {
+    "name": "Full Heal",
+    "category": "Items",
+    "progression": false,
+    "useful": true
+  },
+  {
+    "name": "Full Restore",
+    "category": "Items",
+    "progression": false,
+    "useful": true
+  },
+  {
+    "name": "Great Ball",
+    "category": "Items",
+    "progression": false,
+    "useful": true
+  },
+  {
+    "name": "HP Up",
+    "category": "Items",
+    "progression": false,
+    "useful": true
+  },
+  {
+    "name": "Hyper Potion",
+    "category": "Items",
+    "progression": false,
+    "useful": true
+  },
+  { "name": "Ice Heal", "category": "Items", "progression": false },
+  { "name": "Iron", "category": "Items", "progression": false, "useful": true },
+  {
+    "name": "Leaf Stone",
+    "category": "Items",
+    "progression": false,
+    "useful": true
+  },
+  {
+    "name": "Leftovers",
+    "category": "Items",
+    "progression": false,
+    "useful": true
+  },
+  {
+    "name": "Lucky Egg",
+    "category": "Items",
+    "progression": false,
+    "useful": true
+  },
+  { "name": "Lum Berry", "category": "Items", "progression": false },
+  {
+    "name": "Luxury Ball",
+    "category": "Items",
+    "progression": false,
+    "useful": true
+  },
+  {
+    "name": "Macho Brace",
+    "category": "Items",
+    "progression": false,
+    "useful": true
+  },
+  {
+    "name": "Master Ball",
+    "category": "Items",
+    "progression": false,
+    "useful": true
+  },
+  {
+    "name": "Max Elixir",
+    "category": "Items",
+    "progression": false,
+    "useful": true
+  },
+  { "name": "Max Ether", "category": "Items", "progression": false },
+  {
+    "name": "Max Potion",
+    "category": "Items",
+    "progression": false,
+    "useful": true
+  },
+  {
+    "name": "Max Revive",
+    "category": "Items",
+    "progression": false,
+    "useful": true
+  },
+  {
+    "name": "Moomoo Milk",
+    "category": "Items",
+    "progression": false,
+    "useful": true
+  },
+  { "name": "Paralyze Heal", "category": "Items", "progression": false },
+  {
+    "name": "Poke Ball",
+    "category": "Items",
+    "progression": false,
+    "useful": true
+  },
+  { "name": "Potion", "category": "Items", "progression": false },
+  {
+    "name": "PP Max",
+    "category": "Items",
+    "progression": false,
+    "useful": true
+  },
+  {
+    "name": "PP Up",
+    "category": "Items",
+    "progression": false,
+    "useful": true
+  },
+  {
+    "name": "Protein",
+    "category": "Items",
+    "progression": false,
+    "useful": true
+  },
+  {
+    "name": "Rare Candy",
+    "category": "Items",
+    "progression": false,
+    "useful": true
+  },
+  {
+    "name": "Revive",
+    "category": "Items",
+    "progression": false,
+    "useful": true
+  },
+  {
+    "name": "Soothe Bell",
+    "category": "Items",
+    "progression": false,
+    "useful": true
+  },
+  { "name": "Super Potion", "category": "Items", "progression": false },
+  {
+    "name": "Thunderstone",
+    "category": "Items",
+    "progression": false,
+    "useful": true
+  },
+  {
+    "name": "Ultra Ball",
+    "category": "Items",
+    "progression": false,
+    "useful": true
+  },
+  {
+    "name": "Water Stone",
+    "category": "Items",
+    "progression": false,
+    "useful": true
+  },
+  { "name": "Yellow Flute", "category": "Items", "progression": false },
+  { "name": "Zinc", "category": "Items", "progression": false, "useful": true },
+  {
+    "name": "Antidotes",
+    "category": "Items",
+    "progression": false,
+    "count": 2
+  },
+  {
+    "name": "Burn Heals",
+    "category": "Items",
+    "progression": false,
+    "count": 2
+  },
+  { "name": "Ethers", "category": "Items", "progression": false, "count": 2 },
+  {
+    "name": "Full Heals",
+    "category": "Items",
+    "progression": false,
+    "useful": true,
+    "count": 2
+  },
+  {
+    "name": "Full Restores",
+    "category": "Items",
+    "progression": false,
+    "useful": true,
+    "count": 2
+  },
+  {
+    "name": "Hyper Potions",
+    "category": "Items",
+    "progression": false,
+    "useful": true,
+    "count": 2
+  },
+  {
+    "name": "Max Potions",
+    "category": "Items",
+    "progression": false,
+    "useful": true,
+    "count": 2
+  },
+  {
+    "name": "PP Ups",
+    "category": "Items",
+    "progression": false,
+    "useful": true,
+    "count": 2
+  },
+  {
+    "name": "Revives",
+    "category": "Items",
+    "progression": false,
+    "useful": true,
+    "count": 2
+  },
+  {
+    "name": "White Herbs",
+    "category": "Items",
+    "progression": false,
+    "count": 2
+  },
+  {
+    "name": "Full Heals",
+    "category": "Items",
+    "progression": false,
+    "useful": true,
+    "count": 3
+  },
+  {
+    "name": "Great Balls",
+    "category": "Items",
+    "progression": false,
+    "useful": true,
+    "count": 3
+  },
+  {
+    "name": "Hyper Potions",
+    "category": "Items",
+    "progression": false,
+    "useful": true,
+    "count": 3
+  },
+  {
+    "name": "Max Ethers",
+    "category": "Items",
+    "progression": false,
+    "count": 3
+  },
+  { "name": "Potions", "category": "Items", "progression": false, "count": 3 },
+  {
+    "name": "Poke Balls",
+    "category": "Items",
+    "progression": false,
+    "useful": true,
+    "count": 3
+  },
+  {
+    "name": "Rare Candies",
+    "category": "Items",
+    "progression": false,
+    "useful": true,
+    "count": 3
+  },
+  {
+    "name": "Super Potions",
+    "category": "Items",
+    "progression": false,
+    "count": 3
+  },
+  {
+    "name": "Timer Balls",
+    "category": "Items",
+    "progression": false,
+    "useful": true,
+    "count": 3
+  },
+  {
+    "name": "Ultra Balls",
+    "category": "Items",
+    "progression": false,
+    "useful": true,
+    "count": 3
+  },
+  {
+    "name": "Full Heals",
+    "category": "Items",
+    "progression": false,
+    "useful": true,
+    "count": 4
+  },
+  {
+    "name": "Poke Balls",
+    "category": "Items",
+    "progression": false,
+    "useful": true,
+    "count": 5
+  },
+  {
+    "name": "Ultra Balls",
+    "category": "Items",
+    "progression": false,
+    "useful": true,
+    "count": 5
+  }
+]

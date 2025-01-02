@@ -1,0 +1,116 @@
+[
+  {
+    "name": "Realgam Tower - Dragonair Bingo Card Win",
+    "category": ["Bingo"],
+    "region": "Realgam Tower",
+    "requires": ["Dragonair Bingo Card"]
+  },
+  {
+    "name": "Realgam Tower - Lotad Bingo Card Win",
+    "category": ["Bingo"],
+    "region": "Realgam Tower",
+    "requires": ["Lotad Bingo Card"]
+  },
+  {
+    "name": "Realgam Tower - Nidorino Bingo Card Win",
+    "category": ["Bingo"],
+    "region": "Realgam Tower",
+    "requires": ["Nidorino Bingo Card"]
+  },
+  {
+    "name": "Realgam Tower - Charmander Bingo Card Win",
+    "category": ["Bingo"],
+    "region": "Realgam Tower",
+    "requires": [
+      "Charmander Bingo Card",
+      "Dragonair Bingo Card",
+      "Lotad Bingo Card",
+      "Nidorino Bingo Card"
+    ]
+  },
+  {
+    "name": "Realgam Tower - Pikachu Bingo Card Win",
+    "category": ["Bingo"],
+    "region": "Realgam Tower",
+    "requires": [
+      "Pikachu Bingo Card",
+      "Dragonair Bingo Card",
+      "Lotad Bingo Card",
+      "Nidorino Bingo Card"
+    ]
+  },
+  {
+    "name": "Realgam Tower - Sudowoodo Bingo Card Win",
+    "category": ["Bingo"],
+    "region": "Realgam Tower",
+    "requires": [
+      "Sudowoodo Bingo Card",
+      "Dragonair Bingo Card",
+      "Lotad Bingo Card",
+      "Nidorino Bingo Card"
+    ]
+  },
+  {
+    "name": "Realgam Tower - Magikarp Bingo Card Win",
+    "category": ["Bingo"],
+    "region": "Realgam Tower",
+    "requires": [
+      "Magikarp Bingo Card",
+      "Charmander Bingo Card",
+      "Pikachu Bingo Card",
+      "Sudowoodo Bingo Card",
+      "Dragonair Bingo Card",
+      "Lotad Bingo Card",
+      "Nidorino Bingo Card"
+    ]
+  },
+  {
+    "name": "Realgam Tower - Golduck Bingo Card Win",
+    "category": ["Bingo"],
+    "region": "Realgam Tower",
+    "requires": [
+      "Golduck Bingo Card",
+      "Charmander Bingo Card",
+      "Pikachu Bingo Card",
+      "Sudowoodo Bingo Card",
+      "Dragonair Bingo Card",
+      "Lotad Bingo Card",
+      "Nidorino Bingo Card"
+    ]
+  },
+  {
+    "name": "Realgam Tower - Scyther Bingo Card Win",
+    "category": ["Bingo"],
+    "region": "Realgam Tower",
+    "requires": [
+      "Scyther Bingo Card",
+      "Charmander Bingo Card",
+      "Pikachu Bingo Card",
+      "Sudowoodo Bingo Card",
+      "Dragonair Bingo Card",
+      "Lotad Bingo Card",
+      "Nidorino Bingo Card"
+    ]
+  },
+  {
+    "name": "Realgam Tower - Houndoom Bingo Card Win",
+    "category": ["Bingo"],
+    "region": "Realgam Tower",
+    "requires": [
+      "Houndoom Bingo Card",
+      "Magikarp Bingo Card",
+      "Charmander Bingo Card",
+      "Pikachu Bingo Card",
+      "Sudowoodo Bingo Card",
+      "Dragonair Bingo Card",
+      "Lotad Bingo Card",
+      "Nidorino Bingo Card"
+    ]
+  },
+  {
+    "name": "Realgam Tower - Bonsly Bingo Card Win",
+    "category": ["Bingo"],
+    "region": "Early Cipher Key Lair",
+    "requires": ["Bonsly Bingo Card", "Spot Monitor"]
+  }
+]

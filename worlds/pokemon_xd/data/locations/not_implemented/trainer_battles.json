@@ -1,0 +1,872 @@
+[
+  {
+    "name": "Agate Village - Fun Old Man Clerr Battle",
+    "category": ["Trainer Battles"],
+    "region": "Agate Village",
+    "requires": []
+  },
+  {
+    "name": "Agate Village - Matron Belish Battle",
+    "category": ["Trainer Battles"],
+    "region": "Agate Village",
+    "requires": []
+  },
+  {
+    "name": "Agate Village - Bodybuilder Dosk Battle",
+    "category": ["Trainer Battles"],
+    "region": "Agate Village",
+    "requires": []
+  },
+  {
+    "name": "Agate Village - Rider Hebon",
+    "category": ["Trainer Battles"],
+    "region": "Agate Village",
+    "requires": []
+  },
+  {
+    "name": "Agate Village - Cooltrainer Cida",
+    "category": ["Trainer Battles"],
+    "region": "Agate Village",
+    "requires": []
+  },
+  {
+    "name": "Agate Village - Cooltrainer Gorps Battle",
+    "category": ["Trainer Battles"],
+    "region": "Agate Village",
+    "requires": []
+  },
+  {
+    "name": "Agate Village - Supertrainer Jols Battle",
+    "category": ["Trainer Battles"],
+    "region": "Agate Village",
+    "requires": []
+  },
+  {
+    "name": "Agate Village - Matron Ladi Battle",
+    "category": ["Trainer Battles"],
+    "region": "Agate Village",
+    "requires": []
+  },
+  {
+    "name": "Agate Village - Fun Old Man Cron Battle",
+    "category": ["Trainer Battles"],
+    "region": "Agate Village",
+    "requires": []
+  },
+  {
+    "name": "Agate Village - Myth Trainer Eagun Battle",
+    "category": ["Trainer Battles"],
+    "region": "Agate Village",
+    "requires": []
+  },
+  {
+    "name": "Cipher Key Lair - Thug Zook Battle",
+    "category": ["Trainer Battles"],
+    "region": "Early Cipher Key Lair",
+    "requires": []
+  },
+  {
+    "name": "Cipher Key Lair - Thug Zook Rematch",
+    "category": ["Trainer Battles"],
+    "region": "Cipher Key Lair",
+    "requires": []
+  },
+  {
+    "name": "Cipher Key Lair - Cipher Peon Ibsol Battle",
+    "category": ["Trainer Battles"],
+    "region": "Cipher Key Lair",
+    "requires": []
+  },
+  {
+    "name": "Cipher Key Lair - Cipher Peon Kollo Battle",
+    "category": ["Trainer Battles"],
+    "region": "Cipher Key Lair",
+    "requires": []
+  },
+  {
+    "name": "Cipher Key Lair - Cipher Peon Jelstin Battle",
+    "category": ["Trainer Battles"],
+    "region": "Cipher Key Lair",
+    "requires": []
+  },
+  {
+    "name": "Cipher Key Lair - Cipher Peon Grezle Battle",
+    "category": ["Trainer Battles"],
+    "region": "Cipher Key Lair",
+    "requires": []
+  },
+  {
+    "name": "Cipher Key Lair - Cipher Peon Humah Battle",
+    "category": ["Trainer Battles"],
+    "region": "Cipher Key Lair",
+    "requires": []
+  },
+  {
+    "name": "Cipher Key Lair - Cipher Peon Gorog Battle",
+    "category": ["Trainer Battles"],
+    "region": "Cipher Key Lair",
+    "requires": []
+  },
+  {
+    "name": "Cipher Key Lair - Cipher Peon Lok Battle",
+    "category": ["Trainer Battles"],
+    "region": "Cipher Key Lair",
+    "requires": []
+  },
+  {
+    "name": "Cipher Key Lair - Cipher Peon Kleto Battle",
+    "category": ["Trainer Battles"],
+    "region": "Cipher Key Lair",
+    "requires": []
+  },
+  {
+    "name": "Cipher Key Lair - Cipher Peon Flipis Battle",
+    "category": ["Trainer Battles"],
+    "region": "Cipher Key Lair",
+    "requires": []
+  },
+  {
+    "name": "Cipher Key Lair - Cipher Peon Targ Battle",
+    "category": ["Trainer Battles"],
+    "region": "Cipher Key Lair",
+    "requires": []
+  },
+  {
+    "name": "Cipher Key Lair - Cipher Peon Snidle Battle",
+    "category": ["Trainer Battles"],
+    "region": "Cipher Key Lair",
+    "requires": []
+  },
+  {
+    "name": "Cipher Key Lair - Cipher R&D Hostel Battle",
+    "category": ["Trainer Battles"],
+    "region": "Cipher Key Lair",
+    "requires": []
+  },
+  {
+    "name": "Cipher Key Lair - Cipher Peon Fudler Battle",
+    "category": ["Trainer Battles"],
+    "region": "Cipher Key Lair",
+    "requires": []
+  },
+  {
+    "name": "Cipher Key Lair - Cipher Peon Angic Battle",
+    "category": ["Trainer Battles"],
+    "region": "Cipher Key Lair",
+    "requires": []
+  },
+  {
+    "name": "Cipher Key Lair - Cipher R&D Acrod Battle",
+    "category": ["Trainer Battles"],
+    "region": "Cipher Key Lair",
+    "requires": []
+  },
+  {
+    "name": "Cipher Key Lair - Cipher Peon Smarton Battle",
+    "category": ["Trainer Battles"],
+    "region": "Cipher Key Lair",
+    "requires": []
+  },
+  {
+    "name": "Cipher Key Lair - Cipher Admin Gorigan Battle",
+    "category": ["Trainer Battles"],
+    "region": "Cipher Key Lair",
+    "requires": []
+  },
+  {
+    "name": "Cipher Lab - Cipher Peon Resix Battle",
+    "category": ["Trainer Battles"],
+    "region": "Cipher Lab",
+    "requires": []
+  },
+  {
+    "name": "Cipher Lab - Cipher Peon Blusix Battle",
+    "category": ["Trainer Battles"],
+    "region": "Cipher Lab",
+    "requires": []
+  },
+  {
+    "name": "Cipher Lab - Cipher Peon Browsix Battle",
+    "category": ["Trainer Battles"],
+    "region": "Cipher Lab",
+    "requires": []
+  },
+  {
+    "name": "Cipher Lab - Cipher Peon Yellosix Battle",
+    "category": ["Trainer Battles"],
+    "region": "Cipher Lab",
+    "requires": []
+  },
+  {
+    "name": "Cipher Lab - Cipher Peon Purpsix Battle",
+    "category": ["Trainer Battles"],
+    "region": "Cipher Lab",
+    "requires": []
+  },
+  {
+    "name": "Cipher Lab - Cipher Peon Greesix Battle",
+    "category": ["Trainer Battles"],
+    "region": "Cipher Lab",
+    "requires": []
+  },
+  {
+    "name": "Cipher Lab - Cipher Peon Corla Battle",
+    "category": ["Trainer Battles"],
+    "region": "Cipher Lab",
+    "requires": []
+  },
+  {
+    "name": "Cipher Lab - Cipher Peon Javion Battle",
+    "category": ["Trainer Battles"],
+    "region": "Cipher Lab",
+    "requires": []
+  },
+  {
+    "name": "Cipher Lab - Cipher R&D Mesak Battle",
+    "category": ["Trainer Battles"],
+    "region": "Cipher Lab",
+    "requires": []
+  },
+  {
+    "name": "Cipher Lab - Cipher Peon Nexir Battle",
+    "category": ["Trainer Battles"],
+    "region": "Cipher Lab",
+    "requires": []
+  },
+  {
+    "name": "Cipher Lab - Cipher Peon Solox Battle",
+    "category": ["Trainer Battles"],
+    "region": "Cipher Lab",
+    "requires": []
+  },
+  {
+    "name": "Cipher Lab - Cipher Peon Crink Battle",
+    "category": ["Trainer Battles"],
+    "region": "Cipher Lab",
+    "requires": []
+  },
+  {
+    "name": "Cipher Lab - Cipher R&D Morbit Battle",
+    "category": ["Trainer Battles"],
+    "region": "Cipher Lab",
+    "requires": []
+  },
+  {
+    "name": "Cipher Lab - Cipher Peon Meda Battle",
+    "category": ["Trainer Battles"],
+    "region": "Cipher Lab",
+    "requires": []
+  },
+  {
+    "name": "Cipher Lab - Cipher R&D Elrok Battle",
+    "category": ["Trainer Battles"],
+    "region": "Cipher Lab",
+    "requires": []
+  },
+  {
+    "name": "Cipher Lab - Cipher R&D Coffy Battle",
+    "category": ["Trainer Battles"],
+    "region": "Cipher Lab",
+    "requires": []
+  },
+  {
+    "name": "Cipher Lab - Cipher Peon Cabol Battle",
+    "category": ["Trainer Battles"],
+    "region": "Cipher Lab",
+    "requires": []
+  },
+  {
+    "name": "Cipher Lab - Cipher Peon Nopia Battle",
+    "category": ["Trainer Battles"],
+    "region": "Cipher Lab",
+    "requires": []
+  },
+  {
+    "name": "Cipher Lab - Cipher R&D Klots Battle",
+    "category": ["Trainer Battles"],
+    "region": "Cipher Lab",
+    "requires": []
+  },
+  {
+    "name": "Cipher Lab - Cipher Peon Digor Battle",
+    "category": ["Trainer Battles"],
+    "region": "Cipher Lab",
+    "requires": []
+  },
+  {
+    "name": "Cipher Lab - Cipher R&D Tekot Battle",
+    "category": ["Trainer Battles"],
+    "region": "Cipher Lab",
+    "requires": []
+  },
+  {
+    "name": "Cipher Lab - Cipher Peon Naps Battle",
+    "category": ["Trainer Battles"],
+    "region": "Cipher Lab",
+    "requires": []
+  },
+  {
+    "name": "Cipher Lab - Cipher Admin Lovrina Battle",
+    "category": ["Trainer Battles"],
+    "region": "Cipher Lab",
+    "requires": []
+  },
+  {
+    "name": "Citadark Isle - Navigator Abson Battle",
+    "category": ["Trainer Battles"],
+    "region": "Citadark Isle",
+    "requires": []
+  },
+  {
+    "name": "Citadark Isle - Chaser Furgy Battle",
+    "category": ["Trainer Battles"],
+    "region": "Citadark Isle",
+    "requires": []
+  },
+  {
+    "name": "Citadark Isle - Sailor Golos Battle",
+    "category": ["Trainer Battles"],
+    "region": "Citadark Isle",
+    "requires": []
+  },
+  {
+    "name": "Citadark Isle - Hunter Jetsal Battle",
+    "category": ["Trainer Battles"],
+    "region": "Citadark Isle",
+    "requires": []
+  },
+  {
+    "name": "Citadark Isle - Cipher Peon Haben Battle",
+    "category": ["Trainer Battles"],
+    "region": "Citadark Isle",
+    "requires": []
+  },
+  {
+    "name": "Citadark Isle - Cipher Admin Lovrina Battle",
+    "category": ["Trainer Battles"],
+    "region": "Citadark Isle",
+    "requires": []
+  },
+  {
+    "name": "Citadark Isle - Cipher Peon Bastil Battle",
+    "category": ["Trainer Battles"],
+    "region": "Citadark Isle",
+    "requires": []
+  },
+  {
+    "name": "Citadark Isle - Cipher Peon Litnar Battle",
+    "category": ["Trainer Battles"],
+    "region": "Citadark Isle",
+    "requires": []
+  },
+  {
+    "name": "Citadark Isle - Cipher Peon Grason Battle",
+    "category": ["Trainer Battles"],
+    "region": "Citadark Isle",
+    "requires": []
+  },
+  {
+    "name": "Citadark Isle - Cipher Peon Grupel Battle",
+    "category": ["Trainer Battles"],
+    "region": "Citadark Isle",
+    "requires": []
+  },
+  {
+    "name": "Citadark Isle - Cipher Peon Kimly Battle",
+    "category": ["Trainer Battles"],
+    "region": "Citadark Isle",
+    "requires": []
+  },
+  {
+    "name": "Citadark Isle - Chaser Nalix Battle",
+    "category": ["Trainer Battles"],
+    "region": "Citadark Isle",
+    "requires": []
+  },
+  {
+    "name": "Citadark Isle - Hunter Ibran Battle",
+    "category": ["Trainer Battles"],
+    "region": "Citadark Isle",
+    "requires": []
+  },
+  {
+    "name": "Citadark Isle - Rider Kulig Battle",
+    "category": ["Trainer Battles"],
+    "region": "Citadark Isle",
+    "requires": []
+  },
+  {
+    "name": "Citadark Isle - Cipher Peon Jargo Battle",
+    "category": ["Trainer Battles"],
+    "region": "Citadark Isle",
+    "requires": []
+  },
+  {
+    "name": "Citadark Isle - Cipher Peon Kolest Battle",
+    "category": ["Trainer Battles"],
+    "region": "Citadark Isle",
+    "requires": []
+  },
+  {
+    "name": "Citadark Isle - Cipher Peon Kolin Battle",
+    "category": ["Trainer Battles"],
+    "region": "Citadark Isle",
+    "requires": []
+  },
+  {
+    "name": "Citadark Isle - Cipher Peon Karbon Battle",
+    "category": ["Trainer Battles"],
+    "region": "Citadark Isle",
+    "requires": []
+  },
+  {
+    "name": "Citadark Isle - Cipher Peon Petro Battle",
+    "category": ["Trainer Battles"],
+    "region": "Citadark Isle",
+    "requires": []
+  },
+  {
+    "name": "Citadark Isle - Cipher Peon Jaymi Battle",
+    "category": ["Trainer Battles"],
+    "region": "Citadark Isle",
+    "requires": []
+  },
+  {
+    "name": "Citadark Isle - Cipher Peon Gromlet Battle",
+    "category": ["Trainer Battles"],
+    "region": "Citadark Isle",
+    "requires": []
+  },
+  {
+    "name": "Citadark Isle - Cipher Peon Geftal Battle",
+    "category": ["Trainer Battles"],
+    "region": "Citadark Isle",
+    "requires": []
+  },
+  {
+    "name": "Citadark Isle - Cipher Peon Leden Battle",
+    "category": ["Trainer Battles"],
+    "region": "Citadark Isle",
+    "requires": []
+  },
+  {
+    "name": "Citadark Isle - Cipher Admin Snattle Battle",
+    "category": ["Trainer Battles"],
+    "region": "Citadark Isle",
+    "requires": []
+  },
+  {
+    "name": "Citadark Isle - Cipher Peon Kleef Battle",
+    "category": ["Trainer Battles"],
+    "region": "Citadark Isle",
+    "requires": []
+  },
+  {
+    "name": "Citadark Isle - Cipher Admin Ardos Battle",
+    "category": ["Trainer Battles"],
+    "region": "Citadark Isle",
+    "requires": []
+  },
+  {
+    "name": "Citadark Isle - Cipher Admin Gorigan Battle",
+    "category": ["Trainer Battles"],
+    "region": "Citadark Isle",
+    "requires": []
+  },
+  {
+    "name": "Citadark Isle - Cipher Peon Kolax Battle",
+    "category": ["Trainer Battles"],
+    "region": "Citadark Isle",
+    "requires": []
+  },
+  {
+    "name": "Citadark Isle - Cipher Admin Eldes Battle",
+    "category": ["Trainer Battles"],
+    "region": "Citadark Isle",
+    "requires": []
+  },
+  {
+    "name": "Citadark Isle - Cipher R&D Loket Battle",
+    "category": ["Trainer Battles"],
+    "region": "Citadark Isle",
+    "requires": []
+  },
+  {
+    "name": "Citadark Isle - Cipher R&D Kaller Battle",
+    "category": ["Trainer Battles"],
+    "region": "Citadark Isle",
+    "requires": []
+  },
+  {
+    "name": "Citadark Isle - Grand Master Greevil Battle",
+    "category": ["Trainer Battles"],
+    "region": "Citadark Isle",
+    "requires": []
+  },
+  {
+    "name": "Dr. Kaminko's House - Chobin First Battle",
+    "category": ["Trainer Battles"],
+    "region": "Dr. Kaminko's House",
+    "requires": []
+  },
+  {
+    "name": "Dr. Kaminko's House - Chobin Second Battle",
+    "category": ["Trainer Battles"],
+    "region": "Phenac City",
+    "requires": []
+  },
+  {
+    "name": "Dr. Kaminko's House - Robo Groudon Chobin Battle",
+    "category": ["Trainer Battles"],
+    "region": "Phenac City",
+    "requires": []
+  },
+  {
+    "name": "Dr. Kaminko's House - Robo Groudon Chobin Rematch",
+    "category": ["Trainer Battles"],
+    "region": "Cipher Key Lair",
+    "requires": []
+  },
+  {
+    "name": "Gateon Port - Sailor Bost Battle",
+    "category": ["Trainer Battles"],
+    "region": "Gateon Port",
+    "requires": []
+  },
+  {
+    "name": "Gateon Port - Navigator Berk Battle",
+    "category": ["Trainer Battles"],
+    "region": "Gateon Port",
+    "requires": []
+  },
+  {
+    "name": "Gateon Port - Casual Guy Cyle Battle",
+    "category": ["Trainer Battles"],
+    "region": "Gateon Port",
+    "requires": []
+  },
+  {
+    "name": "Gateon Port - Bodybuilder Kilen Battle",
+    "category": ["Trainer Battles"],
+    "region": "Gateon Port",
+    "requires": []
+  },
+  {
+    "name": "Gateon Port - Chaser Laken Battle",
+    "category": ["Trainer Battles"],
+    "region": "Gateon Port",
+    "requires": []
+  },
+  {
+    "name": "Gateon Port - Wanderer Miror B. Battle",
+    "category": ["Trainer Battles"],
+    "region": "Post Game",
+    "requires": ["Miror Radar"]
+  },
+  {
+    "name": "HQ Lab - Cipher Peon Naps Battle",
+    "category": ["Trainer Battles"],
+    "region": "HQ Lab",
+    "requires": []
+  },
+  {
+    "name": "Mt Battle - Trainer 001 Battle",
+    "category": ["Trainer Battles"],
+    "region": "Mt Battle",
+    "requires": []
+  },
+  {
+    "name": "Mt Battle - Trainer 002 Battle",
+    "category": ["Trainer Battles"],
+    "region": "Mt Battle",
+    "requires": []
+  },
+  {
+    "name": "Mt Battle - Trainer 003 Battle",
+    "category": ["Trainer Battles"],
+    "region": "Mt Battle",
+    "requires": []
+  },
+  {
+    "name": "Outskirt Stand - Wanderer Miror B. Battle",
+    "category": ["Trainer Battles"],
+    "region": "Outskirt Stand",
+    "requires": []
+  },
+  {
+    "name": "Outskirt Stand - Rider Willie Battle",
+    "category": ["Trainer Battles"],
+    "region": "Outskirt Stand",
+    "requires": []
+  },
+  {
+    "name": "Phenac City - Cipher Peon Exinn Battle",
+    "category": ["Trainer Battles"],
+    "region": "Phenac City",
+    "requires": []
+  },
+  {
+    "name": "Phenac City - Cipher Peon Gonrag Battle",
+    "category": ["Trainer Battles"],
+    "region": "Phenac City",
+    "requires": []
+  },
+  {
+    "name": "Phenac City - Cipher Peon Resix Battle",
+    "category": ["Trainer Battles"],
+    "region": "Phenac City",
+    "requires": []
+  },
+  {
+    "name": "Phenac City - Cipher Peon Blusix Battle",
+    "category": ["Trainer Battles"],
+    "region": "Phenac City",
+    "requires": []
+  },
+  {
+    "name": "Phenac City - Cipher Peon Browsix Battle",
+    "category": ["Trainer Battles"],
+    "region": "Phenac City",
+    "requires": []
+  },
+  {
+    "name": "Phenac City - Cipher Peon Yellosix Battle",
+    "category": ["Trainer Battles"],
+    "region": "Phenac City",
+    "requires": []
+  },
+  {
+    "name": "Phenac City - Cipher Peon Purpsix Battle",
+    "category": ["Trainer Battles"],
+    "region": "Phenac City",
+    "requires": []
+  },
+  {
+    "name": "Phenac City - Cipher Peon Greesix Battle",
+    "category": ["Trainer Battles"],
+    "region": "Phenac City",
+    "requires": []
+  },
+  {
+    "name": "Phenac City - Cipher Peon Eloin Battle",
+    "category": ["Trainer Battles"],
+    "region": "Phenac City",
+    "requires": []
+  },
+  {
+    "name": "Phenac City - Cipher Peon Fasin Battle",
+    "category": ["Trainer Battles"],
+    "region": "Phenac City",
+    "requires": []
+  },
+  {
+    "name": "Phenac City - Cipher Peon Fostin Battle",
+    "category": ["Trainer Battles"],
+    "region": "Phenac City",
+    "requires": []
+  },
+  {
+    "name": "Phenac City - Cipher Peon Greck Battle",
+    "category": ["Trainer Battles"],
+    "region": "Phenac City",
+    "requires": []
+  },
+  {
+    "name": "Phenac City - Cipher Peon Nezin Battle",
+    "category": ["Trainer Battles"],
+    "region": "Phenac City",
+    "requires": []
+  },
+  {
+    "name": "Phenac City - Cipher Peon Faltly Battle",
+    "category": ["Trainer Battles"],
+    "region": "Phenac City",
+    "requires": []
+  },
+  {
+    "name": "Phenac City - Cipher Peon Egrog Battle",
+    "category": ["Trainer Battles"],
+    "region": "Phenac City",
+    "requires": []
+  },
+  {
+    "name": "Phenac City - Cipher Admin Snattle Battle",
+    "category": ["Trainer Battles"],
+    "region": "Phenac City",
+    "requires": []
+  },
+  {
+    "name": "Phenac City - Cooltrainer Equin Battle",
+    "category": ["Trainer Battles"],
+    "region": "Phenac City",
+    "requires": []
+  },
+  {
+    "name": "Pyrite Town - Rogue Cail Battle",
+    "category": ["Trainer Battles"],
+    "region": "Pyrite Town",
+    "requires": []
+  },
+  {
+    "name": "Pyrite Town - Chaser Finol Battle",
+    "category": ["Trainer Battles"],
+    "region": "Pyrite Town",
+    "requires": []
+  },
+  {
+    "name": "Pyrite Town - Worker Dobit Battle",
+    "category": ["Trainer Battles"],
+    "region": "Pyrite Town",
+    "requires": []
+  },
+  {
+    "name": "Pyrite Town - Rider Dert Battle",
+    "category": ["Trainer Battles"],
+    "region": "Pyrite Town",
+    "requires": []
+  },
+  {
+    "name": "Pyrite Town - Hunter Raling Battle",
+    "category": ["Trainer Battles"],
+    "region": "Pyrite Town",
+    "requires": []
+  },
+  {
+    "name": "Pyrite Town - Chaser Labet Battle",
+    "category": ["Trainer Battles"],
+    "region": "Pyrite Town",
+    "requires": []
+  },
+  {
+    "name": "Pyrite Town - Bodybuilder Doby Battle",
+    "category": ["Trainer Battles"],
+    "region": "Pyrite Town",
+    "requires": []
+  },
+  {
+    "name": "Pyrite Town - Cipher Peon Rett Battle",
+    "category": ["Trainer Battles"],
+    "region": "Attacked ONBS",
+    "requires": []
+  },
+  {
+    "name": "Pyrite Town - Cipher Peon Mocor Battle",
+    "category": ["Trainer Battles"],
+    "region": "Attacked ONBS",
+    "requires": []
+  },
+  {
+    "name": "Pyrite Town - Cipher Peon Torkin Battle",
+    "category": ["Trainer Battles"],
+    "region": "Attacked ONBS",
+    "requires": []
+  },
+  {
+    "name": "Pyrite Town - Cipher Peon Rixor Battle",
+    "category": ["Trainer Battles"],
+    "region": "Attacked ONBS",
+    "requires": []
+  },
+  {
+    "name": "Pyrite Town - Cipher Peon Mesin Battle",
+    "category": ["Trainer Battles"],
+    "region": "Attacked ONBS",
+    "requires": []
+  },
+  {
+    "name": "Pyrite Town - Cipher Peon Edlos Battle",
+    "category": ["Trainer Battles"],
+    "region": "Attacked ONBS",
+    "requires": []
+  },
+  {
+    "name": "Pyrite Town - Cipher Peon Dilly Battle",
+    "category": ["Trainer Battles"],
+    "region": "Attacked ONBS",
+    "requires": []
+  },
+  {
+    "name": "Pyrite Town - Cipher Peon Lobar Battle",
+    "category": ["Trainer Battles"],
+    "region": "Attacked ONBS",
+    "requires": []
+  },
+  {
+    "name": "Pyrite Town - Cipher Peon Feldas Battle",
+    "category": ["Trainer Battles"],
+    "region": "Attacked ONBS",
+    "requires": []
+  },
+  {
+    "name": "Pyrite Town - Cipher CMDR Exol Battle",
+    "category": ["Trainer Battles"],
+    "region": "Attacked ONBS",
+    "requires": []
+  },
+  {
+    "name": "S.S. Libra - Cipher Peon Smarton Battle",
+    "category": ["Trainer Battles"],
+    "region": "S.S. Libra",
+    "requires": []
+  },
+  {
+    "name": "Team Snagem Hideout - Team Snagem Agrev Battle",
+    "category": ["Trainer Battles"],
+    "region": "Snagem Hideout",
+    "requires": []
+  },
+  {
+    "name": "Team Snagem Hideout - Team Snagem Jedo Battle",
+    "category": ["Trainer Battles"],
+    "region": "Snagem Hideout",
+    "requires": []
+  },
+  {
+    "name": "Team Snagem Hideout - Team Snagem Hobble Battle",
+    "category": ["Trainer Battles"],
+    "region": "Snagem Hideout",
+    "requires": []
+  },
+  {
+    "name": "Team Snagem Hideout - Team Snagem Golit Battle",
+    "category": ["Trainer Battles"],
+    "region": "Snagem Hideout",
+    "requires": []
+  },
+  {
+    "name": "Team Snagem Hideout - Team Snagem Jinok Battle",
+    "category": ["Trainer Battles"],
+    "region": "Snagem Hideout",
+    "requires": []
+  },
+  {
+    "name": "Team Snagem Hideout - Team Snagem Gaply Battle",
+    "category": ["Trainer Battles"],
+    "region": "Snagem Hideout",
+    "requires": []
+  },
+  {
+    "name": "Team Snagem Hideout - Team Snagem Fudlo Battle",
+    "category": ["Trainer Battles"],
+    "region": "Snagem Hideout",
+    "requires": []
+  },
+  {
+    "name": "Team Snagem Hideout - Team Snagem Biden Battle",
+    "category": ["Trainer Battles"],
+    "region": "Snagem Hideout",
+    "requires": []
+  },
+  {
+    "name": "Team Snagem Hideout - Team Snagem Wakin Battle",
+    "category": ["Trainer Battles"],
+    "region": "Snagem Hideout",
+    "requires": []
+  },
+  {
+    "name": "Team Snagem Hideout - Snagem Head Gonzap Battle",
+    "category": ["Trainer Battles"],
+    "region": "Snagem Hideout",
+    "requires": []
+  }
+]

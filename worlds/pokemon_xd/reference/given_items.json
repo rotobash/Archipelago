@@ -1,0 +1,124 @@
+[
+  {
+    "name": "Cologne Case",
+    "category": "Not Needed Key Item",
+    "progression": false,
+    "useful": true
+  },
+  {
+    "name": "Gonzap's Key",
+    "category": "Progression Item",
+    "progression": true
+  },
+  {
+    "name": "Krane Memo 1",
+    "category": "Not Needed Key Item",
+    "progression": false
+  },
+  {
+    "name": "Krane Memo 2",
+    "category": "Not Needed Key Item",
+    "progression": false
+  },
+  {
+    "name": "Krane Memo 3",
+    "category": "Not Needed Key Item",
+    "progression": false
+  },
+  {
+    "name": "Krane Memo 4",
+    "category": "Not Needed Key Item",
+    "progression": false
+  },
+  {
+    "name": "Krane Memo 5",
+    "category": "Not Needed Key Item",
+    "progression": false
+  },
+  {
+    "name": "Miror Radar",
+    "category": "Progression Item",
+    "progression": true
+  },
+  {
+    "name": "Pregym Pass",
+    "category": "Progression Item",
+    "progression": true
+  },
+  {
+    "name": "Machine Parts",
+    "category": "Gated Progression",
+    "progression": true,
+    "progression_order": 1
+  },
+  {
+    "name": "Mayor’s Letter",
+    "category": "Gated Progression",
+    "progression": true,
+    "progression_order": 2
+  },
+  {
+    "name": "Data Rom",
+    "category": "Gated Progression",
+    "progression": true,
+    "progression_order": 5
+  },
+  {
+    "name": "Elevator Key ",
+    "category": "Gated Progression",
+    "progression": true,
+    "progression_order": 6
+  },
+  {
+    "name": "Music Software",
+    "category": "Gated Progression",
+    "progression": true,
+    "progression_order": 3
+  },
+  {
+    "name": "Decoding Machine",
+    "category": "Gated Progression",
+    "progression": true,
+    "progression_order": 7
+  },
+  {
+    "name": "Unlock Bar",
+    "category": "Gated Progression",
+    "progression": true,
+    "progression_order": 4
+  },
+  {
+    "name": "Pyrite Colosseum Pass",
+    "category": "Progression Item",
+    "progression": true
+  },
+  {
+    "name": "Realgam Colosseum Pass",
+    "category": "Progression Item",
+    "progression": true
+  },
+  {
+    "name": "Shadow Pokemon List",
+    "category": "Not Needed Key Item",
+    "progression": false
+  },
+  {
+    "name": "Spot Monitor",
+    "category": "Progression Item",
+    "progression": true
+  },
+  {
+    "name": "Poke Snacks",
+    "category": "Items",
+    "progression": false,
+    "useful": true,
+    "count": 1
+  },
+
+  {
+    "name": "Eevolution Stone",
+    "category": "Items",
+    "progression": false,
+    "useful": true
+  }
+]
