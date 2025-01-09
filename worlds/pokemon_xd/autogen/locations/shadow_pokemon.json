@@ -1,0 +1,494 @@
+[
+  {
+    "TrainerIndex": 147,
+    "ShadowIndex": 460,
+    "AreaId": 11,
+    "Name": "Capture ZOOKs Shadow ZANGOOSE"
+  },
+  {
+    "TrainerIndex": 12,
+    "ShadowIndex": 20,
+    "AreaId": 6,
+    "Name": "Capture CYLEs Shadow LEDYBA"
+  },
+  {
+    "TrainerIndex": 14,
+    "ShadowIndex": 24,
+    "AreaId": 6,
+    "Name": "Capture KILENs Shadow POOCHYENA"
+  },
+  {
+    "TrainerIndex": 17,
+    "ShadowIndex": 28,
+    "AreaId": 5,
+    "Name": "Capture NAPSs Shadow TEDDIURSA"
+  },
+  {
+    "TrainerIndex": 203,
+    "ShadowIndex": 715,
+    "AreaId": 7,
+    "Name": "Capture RESIXs Shadow HOUNDOUR"
+  },
+  {
+    "TrainerIndex": 204,
+    "ShadowIndex": 721,
+    "AreaId": 7,
+    "Name": "Capture BLUSIXs Shadow SPHEAL"
+  },
+  {
+    "TrainerIndex": 205,
+    "ShadowIndex": 722,
+    "AreaId": 7,
+    "Name": "Capture BROWSIXs Shadow BALTOY"
+  },
+  {
+    "TrainerIndex": 206,
+    "ShadowIndex": 725,
+    "AreaId": 7,
+    "Name": "Capture YELLOSIXs Shadow MAREEP"
+  },
+  {
+    "TrainerIndex": 207,
+    "ShadowIndex": 731,
+    "AreaId": 7,
+    "Name": "Capture PURPSIXs Shadow GULPIN"
+  },
+  {
+    "TrainerIndex": 208,
+    "ShadowIndex": 739,
+    "AreaId": 7,
+    "Name": "Capture GREESIXs Shadow SEEDOT"
+  },
+  {
+    "TrainerIndex": 49,
+    "ShadowIndex": 114,
+    "AreaId": 7,
+    "Name": "Capture NEXIRs Shadow SPINARAK"
+  },
+  {
+    "TrainerIndex": 50,
+    "ShadowIndex": 118,
+    "AreaId": 7,
+    "Name": "Capture SOLOXs Shadow NUMEL"
+  },
+  {
+    "TrainerIndex": 57,
+    "ShadowIndex": 138,
+    "AreaId": 7,
+    "Name": "Capture CABOLs Shadow CARVANHA"
+  },
+  {
+    "TrainerIndex": 59,
+    "ShadowIndex": 147,
+    "AreaId": 7,
+    "Name": "Capture KLOTSs Shadow SHROOMISH"
+  },
+  {
+    "TrainerIndex": 61,
+    "ShadowIndex": 155,
+    "AreaId": 7,
+    "Name": "Capture LOVRINAs Shadow DELCATTY"
+  },
+  {
+    "TrainerIndex": 72,
+    "ShadowIndex": 191,
+    "AreaId": 17,
+    "Name": "Capture MIROR B.s Shadow VOLTORB"
+  },
+  {
+    "TrainerIndex": 75,
+    "ShadowIndex": 200,
+    "AreaId": 3,
+    "Name": "Capture MESINs Shadow VULPIX"
+  },
+  {
+    "TrainerIndex": 78,
+    "ShadowIndex": 210,
+    "AreaId": 3,
+    "Name": "Capture TORKINs Shadow MAKUHITA"
+  },
+  {
+    "TrainerIndex": 84,
+    "ShadowIndex": 228,
+    "AreaId": 3,
+    "Name": "Capture LOBARs Shadow DUSKULL"
+  },
+  {
+    "TrainerIndex": 86,
+    "ShadowIndex": 236,
+    "AreaId": 3,
+    "Name": "Capture FELDASs Shadow RALTS"
+  },
+  {
+    "TrainerIndex": 87,
+    "ShadowIndex": 239,
+    "AreaId": 3,
+    "Name": "Capture EXOLs Shadow MAWILE"
+  },
+  {
+    "TrainerIndex": 88,
+    "ShadowIndex": 242,
+    "AreaId": 2,
+    "Name": "Capture EXINNs Shadow SNORUNT"
+  },
+  {
+    "TrainerIndex": 89,
+    "ShadowIndex": 246,
+    "AreaId": 2,
+    "Name": "Capture GONRAGs Shadow PINECO"
+  },
+  {
+    "TrainerIndex": 97,
+    "ShadowIndex": 275,
+    "AreaId": 2,
+    "Name": "Capture GRECKs Shadow SWINUB"
+  },
+  {
+    "TrainerIndex": 98,
+    "ShadowIndex": 278,
+    "AreaId": 2,
+    "Name": "Capture ELOINs Shadow NATU"
+  },
+  {
+    "TrainerIndex": 99,
+    "ShadowIndex": 281,
+    "AreaId": 2,
+    "Name": "Capture FASINs Shadow ROSELIA"
+  },
+  {
+    "TrainerIndex": 100,
+    "ShadowIndex": 285,
+    "AreaId": 2,
+    "Name": "Capture FOSTINs Shadow MEOWTH"
+  },
+  {
+    "TrainerIndex": 101,
+    "ShadowIndex": 288,
+    "AreaId": 2,
+    "Name": "Capture EZINs Shadow SPEAROW"
+  },
+  {
+    "TrainerIndex": 102,
+    "ShadowIndex": 291,
+    "AreaId": 2,
+    "Name": "Capture FALTLYs Shadow GRIMER"
+  },
+  {
+    "TrainerIndex": 103,
+    "ShadowIndex": 295,
+    "AreaId": 2,
+    "Name": "Capture EGROGs Shadow SEEL"
+  },
+  {
+    "TrainerIndex": 104,
+    "ShadowIndex": 298,
+    "AreaId": 2,
+    "Name": "Capture SNATTLEs Shadow LUNATONE"
+  },
+  {
+    "TrainerIndex": 134,
+    "ShadowIndex": 405,
+    "AreaId": 1,
+    "Name": "Capture MIROR B.s Shadow NOSEPASS"
+  },
+  {
+    "TrainerIndex": 150,
+    "ShadowIndex": 472,
+    "AreaId": 11,
+    "Name": "Capture HUMAHs Shadow PARAS"
+  },
+  {
+    "TrainerIndex": 150,
+    "ShadowIndex": 473,
+    "AreaId": 11,
+    "Name": "Capture HUMAHs Shadow GROWLITHE"
+  },
+  {
+    "TrainerIndex": 153,
+    "ShadowIndex": 482,
+    "AreaId": 11,
+    "Name": "Capture GOROGs Shadow SHELLDER"
+  },
+  {
+    "TrainerIndex": 155,
+    "ShadowIndex": 491,
+    "AreaId": 11,
+    "Name": "Capture LOKs Shadow BEEDRILL"
+  },
+  {
+    "TrainerIndex": 155,
+    "ShadowIndex": 494,
+    "AreaId": 11,
+    "Name": "Capture LOKs Shadow PIDGEOTTO"
+  },
+  {
+    "TrainerIndex": 158,
+    "ShadowIndex": 507,
+    "AreaId": 11,
+    "Name": "Capture TARGs Shadow TANGELA"
+  },
+  {
+    "TrainerIndex": 158,
+    "ShadowIndex": 508,
+    "AreaId": 11,
+    "Name": "Capture TARGs Shadow BUTTERFREE"
+  },
+  {
+    "TrainerIndex": 160,
+    "ShadowIndex": 517,
+    "AreaId": 11,
+    "Name": "Capture SNIDLEs Shadow MAGNETON"
+  },
+  {
+    "TrainerIndex": 162,
+    "ShadowIndex": 526,
+    "AreaId": 11,
+    "Name": "Capture ANGICs Shadow VENOMOTH"
+  },
+  {
+    "TrainerIndex": 162,
+    "ShadowIndex": 527,
+    "AreaId": 11,
+    "Name": "Capture ANGICs Shadow WEEPINBELL"
+  },
+  {
+    "TrainerIndex": 164,
+    "ShadowIndex": 537,
+    "AreaId": 11,
+    "Name": "Capture SMARTONs Shadow ARBOK"
+  },
+  {
+    "TrainerIndex": 165,
+    "ShadowIndex": 542,
+    "AreaId": 11,
+    "Name": "Capture GORIGANs Shadow PRIMEAPE"
+  },
+  {
+    "TrainerIndex": 165,
+    "ShadowIndex": 543,
+    "AreaId": 11,
+    "Name": "Capture GORIGANs Shadow HYPNO"
+  },
+  {
+    "TrainerIndex": 168,
+    "ShadowIndex": 555,
+    "AreaId": 12,
+    "Name": "Capture ABSONs Shadow GOLDUCK"
+  },
+  {
+    "TrainerIndex": 168,
+    "ShadowIndex": 556,
+    "AreaId": 12,
+    "Name": "Capture ABSONs Shadow SABLEYE"
+  },
+  {
+    "TrainerIndex": 170,
+    "ShadowIndex": 562,
+    "AreaId": 12,
+    "Name": "Capture FURGYs Shadow DODRIO"
+  },
+  {
+    "TrainerIndex": 170,
+    "ShadowIndex": 564,
+    "AreaId": 12,
+    "Name": "Capture FURGYs Shadow RATICATE"
+  },
+  {
+    "TrainerIndex": 173,
+    "ShadowIndex": 575,
+    "AreaId": 12,
+    "Name": "Capture LOVRINAs Shadow FARFETCH\u0027D"
+  },
+  {
+    "TrainerIndex": 173,
+    "ShadowIndex": 576,
+    "AreaId": 12,
+    "Name": "Capture LOVRINAs Shadow ALTARIA"
+  },
+  {
+    "TrainerIndex": 175,
+    "ShadowIndex": 584,
+    "AreaId": 12,
+    "Name": "Capture LITNARs Shadow KANGASKHAN"
+  },
+  {
+    "TrainerIndex": 175,
+    "ShadowIndex": 585,
+    "AreaId": 12,
+    "Name": "Capture LITNARs Shadow BANETTE"
+  },
+  {
+    "TrainerIndex": 177,
+    "ShadowIndex": 593,
+    "AreaId": 12,
+    "Name": "Capture GRUPELs Shadow MAGMAR"
+  },
+  {
+    "TrainerIndex": 177,
+    "ShadowIndex": 594,
+    "AreaId": 12,
+    "Name": "Capture GRUPELs Shadow PINSIR"
+  },
+  {
+    "TrainerIndex": 183,
+    "ShadowIndex": 624,
+    "AreaId": 12,
+    "Name": "Capture KOLESTs Shadow RAPIDASH"
+  },
+  {
+    "TrainerIndex": 183,
+    "ShadowIndex": 625,
+    "AreaId": 12,
+    "Name": "Capture KOLESTs Shadow MAGCARGO"
+  },
+  {
+    "TrainerIndex": 185,
+    "ShadowIndex": 634,
+    "AreaId": 12,
+    "Name": "Capture KARBONs Shadow HITMONCHAN"
+  },
+  {
+    "TrainerIndex": 186,
+    "ShadowIndex": 639,
+    "AreaId": 12,
+    "Name": "Capture PETROs Shadow HITMONLEE"
+  },
+  {
+    "TrainerIndex": 189,
+    "ShadowIndex": 652,
+    "AreaId": 12,
+    "Name": "Capture GEFTALs Shadow LICKITUNG"
+  },
+  {
+    "TrainerIndex": 190,
+    "ShadowIndex": 655,
+    "AreaId": 12,
+    "Name": "Capture LEDENs Shadow SCYTHER"
+  },
+  {
+    "TrainerIndex": 190,
+    "ShadowIndex": 656,
+    "AreaId": 12,
+    "Name": "Capture LEDENs Shadow CHANSEY"
+  },
+  {
+    "TrainerIndex": 191,
+    "ShadowIndex": 660,
+    "AreaId": 12,
+    "Name": "Capture SNATTLEs Shadow SOLROCK"
+  },
+  {
+    "TrainerIndex": 191,
+    "ShadowIndex": 662,
+    "AreaId": 12,
+    "Name": "Capture SNATTLEs Shadow STARMIE"
+  },
+  {
+    "TrainerIndex": 193,
+    "ShadowIndex": 666,
+    "AreaId": 12,
+    "Name": "Capture ARDOSs Shadow SWELLOW"
+  },
+  {
+    "TrainerIndex": 193,
+    "ShadowIndex": 670,
+    "AreaId": 12,
+    "Name": "Capture ARDOSs Shadow ELECTABUZZ"
+  },
+  {
+    "TrainerIndex": 193,
+    "ShadowIndex": 671,
+    "AreaId": 12,
+    "Name": "Capture ARDOSs Shadow SNORLAX"
+  },
+  {
+    "TrainerIndex": 194,
+    "ShadowIndex": 676,
+    "AreaId": 12,
+    "Name": "Capture GORIGANs Shadow POLIWRATH"
+  },
+  {
+    "TrainerIndex": 194,
+    "ShadowIndex": 677,
+    "AreaId": 12,
+    "Name": "Capture GORIGANs Shadow MR. MIME"
+  },
+  {
+    "TrainerIndex": 195,
+    "ShadowIndex": 682,
+    "AreaId": 12,
+    "Name": "Capture KOLAXs Shadow DUGTRIO"
+  },
+  {
+    "TrainerIndex": 196,
+    "ShadowIndex": 684,
+    "AreaId": 12,
+    "Name": "Capture ELDESs Shadow MANECTRIC"
+  },
+  {
+    "TrainerIndex": 196,
+    "ShadowIndex": 685,
+    "AreaId": 12,
+    "Name": "Capture ELDESs Shadow SALAMENCE"
+  },
+  {
+    "TrainerIndex": 196,
+    "ShadowIndex": 687,
+    "AreaId": 12,
+    "Name": "Capture ELDESs Shadow MAROWAK"
+  },
+  {
+    "TrainerIndex": 196,
+    "ShadowIndex": 688,
+    "AreaId": 12,
+    "Name": "Capture ELDESs Shadow LAPRAS"
+  },
+  {
+    "TrainerIndex": 199,
+    "ShadowIndex": 699,
+    "AreaId": 12,
+    "Name": "Capture GREEVILs Shadow LUGIA"
+  },
+  {
+    "TrainerIndex": 200,
+    "ShadowIndex": 700,
+    "AreaId": 12,
+    "Name": "Capture GREEVILs Shadow RHYDON"
+  },
+  {
+    "TrainerIndex": 200,
+    "ShadowIndex": 701,
+    "AreaId": 12,
+    "Name": "Capture GREEVILs Shadow MOLTRES"
+  },
+  {
+    "TrainerIndex": 200,
+    "ShadowIndex": 702,
+    "AreaId": 12,
+    "Name": "Capture GREEVILs Shadow EXEGGUTOR"
+  },
+  {
+    "TrainerIndex": 200,
+    "ShadowIndex": 703,
+    "AreaId": 12,
+    "Name": "Capture GREEVILs Shadow TAUROS"
+  },
+  {
+    "TrainerIndex": 200,
+    "ShadowIndex": 704,
+    "AreaId": 12,
+    "Name": "Capture GREEVILs Shadow ARTICUNO"
+  },
+  {
+    "TrainerIndex": 200,
+    "ShadowIndex": 705,
+    "AreaId": 12,
+    "Name": "Capture GREEVILs Shadow ZAPDOS"
+  },
+  {
+    "TrainerIndex": 221,
+    "ShadowIndex": 785,
+    "AreaId": 6,
+    "Name": "Capture MIROR B.s Shadow DRAGONITE"
+  }
+]

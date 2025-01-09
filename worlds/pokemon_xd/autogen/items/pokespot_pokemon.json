@@ -1,0 +1,90 @@
+[
+  {
+    "PokemonIndex": 27,
+    "Quantity": 1,
+    "Name": "Rock PokeSpot - SANDSHREW",
+    "ItemClassifications": [
+      "Useful"
+    ]
+  },
+  {
+    "PokemonIndex": 207,
+    "Quantity": 1,
+    "Name": "Rock PokeSpot - GLIGAR",
+    "ItemClassifications": [
+      "Useful"
+    ]
+  },
+  {
+    "PokemonIndex": 332,
+    "Quantity": 1,
+    "Name": "Rock PokeSpot - TRAPINCH",
+    "ItemClassifications": [
+      "Useful"
+    ]
+  },
+  {
+    "PokemonIndex": 187,
+    "Quantity": 1,
+    "Name": "Oasis PokeSpot - HOPPIP",
+    "ItemClassifications": [
+      "Useful"
+    ]
+  },
+  {
+    "PokemonIndex": 231,
+    "Quantity": 1,
+    "Name": "Oasis PokeSpot - PHANPY",
+    "ItemClassifications": [
+      "Useful"
+    ]
+  },
+  {
+    "PokemonIndex": 311,
+    "Quantity": 1,
+    "Name": "Oasis PokeSpot - SURSKIT",
+    "ItemClassifications": [
+      "Useful"
+    ]
+  },
+  {
+    "PokemonIndex": 41,
+    "Quantity": 1,
+    "Name": "Cave PokeSpot - ZUBAT",
+    "ItemClassifications": [
+      "Useful"
+    ]
+  },
+  {
+    "PokemonIndex": 382,
+    "Quantity": 1,
+    "Name": "Cave PokeSpot - ARON",
+    "ItemClassifications": [
+      "Useful"
+    ]
+  },
+  {
+    "PokemonIndex": 194,
+    "Quantity": 1,
+    "Name": "Cave PokeSpot - WOOPER",
+    "ItemClassifications": [
+      "Useful"
+    ]
+  },
+  {
+    "PokemonIndex": 413,
+    "Quantity": 1,
+    "Name": "All PokeSpot - BONSLY",
+    "ItemClassifications": [
+      "Useful"
+    ]
+  },
+  {
+    "PokemonIndex": 414,
+    "Quantity": 1,
+    "Name": "All PokeSpot - MUNCHLAX",
+    "ItemClassifications": [
+      "Useful"
+    ]
+  }
+]

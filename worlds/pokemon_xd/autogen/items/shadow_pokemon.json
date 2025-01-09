@@ -1,0 +1,606 @@
+[
+  {
+    "PokemonIndex": 380,
+    "Quantity": 1,
+    "Name": "ZANGOOSE",
+    "ItemClassifications": [
+      "Useful"
+    ]
+  },
+  {
+    "PokemonIndex": 165,
+    "Quantity": 1,
+    "Name": "LEDYBA",
+    "ItemClassifications": []
+  },
+  {
+    "PokemonIndex": 286,
+    "Quantity": 1,
+    "Name": "POOCHYENA",
+    "ItemClassifications": []
+  },
+  {
+    "PokemonIndex": 216,
+    "Quantity": 1,
+    "Name": "TEDDIURSA",
+    "ItemClassifications": [
+      "Useful"
+    ]
+  },
+  {
+    "PokemonIndex": 228,
+    "Quantity": 1,
+    "Name": "HOUNDOUR",
+    "ItemClassifications": [
+      "Useful"
+    ]
+  },
+  {
+    "PokemonIndex": 341,
+    "Quantity": 1,
+    "Name": "SPHEAL",
+    "ItemClassifications": [
+      "Useful"
+    ]
+  },
+  {
+    "PokemonIndex": 318,
+    "Quantity": 1,
+    "Name": "BALTOY",
+    "ItemClassifications": [
+      "Useful"
+    ]
+  },
+  {
+    "PokemonIndex": 179,
+    "Quantity": 1,
+    "Name": "MAREEP",
+    "ItemClassifications": [
+      "Useful"
+    ]
+  },
+  {
+    "PokemonIndex": 367,
+    "Quantity": 1,
+    "Name": "GULPIN",
+    "ItemClassifications": [
+      "Useful"
+    ]
+  },
+  {
+    "PokemonIndex": 298,
+    "Quantity": 1,
+    "Name": "SEEDOT",
+    "ItemClassifications": [
+      "Useful"
+    ]
+  },
+  {
+    "PokemonIndex": 167,
+    "Quantity": 1,
+    "Name": "SPINARAK",
+    "ItemClassifications": []
+  },
+  {
+    "PokemonIndex": 339,
+    "Quantity": 1,
+    "Name": "NUMEL",
+    "ItemClassifications": [
+      "Useful"
+    ]
+  },
+  {
+    "PokemonIndex": 330,
+    "Quantity": 1,
+    "Name": "CARVANHA",
+    "ItemClassifications": [
+      "Useful"
+    ]
+  },
+  {
+    "PokemonIndex": 306,
+    "Quantity": 1,
+    "Name": "SHROOMISH",
+    "ItemClassifications": [
+      "Useful"
+    ]
+  },
+  {
+    "PokemonIndex": 316,
+    "Quantity": 1,
+    "Name": "DELCATTY",
+    "ItemClassifications": []
+  },
+  {
+    "PokemonIndex": 100,
+    "Quantity": 1,
+    "Name": "VOLTORB",
+    "ItemClassifications": [
+      "Useful"
+    ]
+  },
+  {
+    "PokemonIndex": 37,
+    "Quantity": 1,
+    "Name": "VULPIX",
+    "ItemClassifications": [
+      "Useful"
+    ]
+  },
+  {
+    "PokemonIndex": 335,
+    "Quantity": 1,
+    "Name": "MAKUHITA",
+    "ItemClassifications": [
+      "Useful"
+    ]
+  },
+  {
+    "PokemonIndex": 361,
+    "Quantity": 1,
+    "Name": "DUSKULL",
+    "ItemClassifications": [
+      "Useful"
+    ]
+  },
+  {
+    "PokemonIndex": 392,
+    "Quantity": 1,
+    "Name": "RALTS",
+    "ItemClassifications": [
+      "Useful"
+    ]
+  },
+  {
+    "PokemonIndex": 355,
+    "Quantity": 1,
+    "Name": "MAWILE",
+    "ItemClassifications": []
+  },
+  {
+    "PokemonIndex": 346,
+    "Quantity": 1,
+    "Name": "SNORUNT",
+    "ItemClassifications": [
+      "Useful"
+    ]
+  },
+  {
+    "PokemonIndex": 204,
+    "Quantity": 1,
+    "Name": "PINECO",
+    "ItemClassifications": [
+      "Useful"
+    ]
+  },
+  {
+    "PokemonIndex": 220,
+    "Quantity": 1,
+    "Name": "SWINUB",
+    "ItemClassifications": []
+  },
+  {
+    "PokemonIndex": 177,
+    "Quantity": 1,
+    "Name": "NATU",
+    "ItemClassifications": [
+      "Useful"
+    ]
+  },
+  {
+    "PokemonIndex": 363,
+    "Quantity": 1,
+    "Name": "ROSELIA",
+    "ItemClassifications": []
+  },
+  {
+    "PokemonIndex": 52,
+    "Quantity": 1,
+    "Name": "MEOWTH",
+    "ItemClassifications": []
+  },
+  {
+    "PokemonIndex": 21,
+    "Quantity": 1,
+    "Name": "SPEAROW",
+    "ItemClassifications": []
+  },
+  {
+    "PokemonIndex": 88,
+    "Quantity": 1,
+    "Name": "GRIMER",
+    "ItemClassifications": [
+      "Useful"
+    ]
+  },
+  {
+    "PokemonIndex": 86,
+    "Quantity": 1,
+    "Name": "SEEL",
+    "ItemClassifications": [
+      "Useful"
+    ]
+  },
+  {
+    "PokemonIndex": 348,
+    "Quantity": 1,
+    "Name": "LUNATONE",
+    "ItemClassifications": []
+  },
+  {
+    "PokemonIndex": 320,
+    "Quantity": 1,
+    "Name": "NOSEPASS",
+    "ItemClassifications": []
+  },
+  {
+    "PokemonIndex": 46,
+    "Quantity": 1,
+    "Name": "PARAS",
+    "ItemClassifications": []
+  },
+  {
+    "PokemonIndex": 58,
+    "Quantity": 1,
+    "Name": "GROWLITHE",
+    "ItemClassifications": [
+      "Useful"
+    ]
+  },
+  {
+    "PokemonIndex": 90,
+    "Quantity": 1,
+    "Name": "SHELLDER",
+    "ItemClassifications": [
+      "Useful"
+    ]
+  },
+  {
+    "PokemonIndex": 15,
+    "Quantity": 1,
+    "Name": "BEEDRILL",
+    "ItemClassifications": []
+  },
+  {
+    "PokemonIndex": 17,
+    "Quantity": 1,
+    "Name": "PIDGEOTTO",
+    "ItemClassifications": [
+      "Useful"
+    ]
+  },
+  {
+    "PokemonIndex": 114,
+    "Quantity": 1,
+    "Name": "TANGELA",
+    "ItemClassifications": []
+  },
+  {
+    "PokemonIndex": 12,
+    "Quantity": 1,
+    "Name": "BUTTERFREE",
+    "ItemClassifications": []
+  },
+  {
+    "PokemonIndex": 82,
+    "Quantity": 1,
+    "Name": "MAGNETON",
+    "ItemClassifications": [
+      "Useful"
+    ]
+  },
+  {
+    "PokemonIndex": 49,
+    "Quantity": 1,
+    "Name": "VENOMOTH",
+    "ItemClassifications": []
+  },
+  {
+    "PokemonIndex": 70,
+    "Quantity": 1,
+    "Name": "WEEPINBELL",
+    "ItemClassifications": [
+      "Useful"
+    ]
+  },
+  {
+    "PokemonIndex": 24,
+    "Quantity": 1,
+    "Name": "ARBOK",
+    "ItemClassifications": []
+  },
+  {
+    "PokemonIndex": 57,
+    "Quantity": 1,
+    "Name": "PRIMEAPE",
+    "ItemClassifications": [
+      "Useful"
+    ]
+  },
+  {
+    "PokemonIndex": 97,
+    "Quantity": 1,
+    "Name": "HYPNO",
+    "ItemClassifications": [
+      "Useful"
+    ]
+  },
+  {
+    "PokemonIndex": 55,
+    "Quantity": 1,
+    "Name": "GOLDUCK",
+    "ItemClassifications": [
+      "Useful"
+    ]
+  },
+  {
+    "PokemonIndex": 322,
+    "Quantity": 1,
+    "Name": "SABLEYE",
+    "ItemClassifications": []
+  },
+  {
+    "PokemonIndex": 85,
+    "Quantity": 1,
+    "Name": "DODRIO",
+    "ItemClassifications": [
+      "Useful"
+    ]
+  },
+  {
+    "PokemonIndex": 20,
+    "Quantity": 1,
+    "Name": "RATICATE",
+    "ItemClassifications": []
+  },
+  {
+    "PokemonIndex": 83,
+    "Quantity": 1,
+    "Name": "FARFETCH\u0027D",
+    "ItemClassifications": []
+  },
+  {
+    "PokemonIndex": 359,
+    "Quantity": 1,
+    "Name": "ALTARIA",
+    "ItemClassifications": [
+      "Useful"
+    ]
+  },
+  {
+    "PokemonIndex": 115,
+    "Quantity": 1,
+    "Name": "KANGASKHAN",
+    "ItemClassifications": [
+      "Useful"
+    ]
+  },
+  {
+    "PokemonIndex": 378,
+    "Quantity": 1,
+    "Name": "BANETTE",
+    "ItemClassifications": [
+      "Useful"
+    ]
+  },
+  {
+    "PokemonIndex": 126,
+    "Quantity": 1,
+    "Name": "MAGMAR",
+    "ItemClassifications": [
+      "Useful"
+    ]
+  },
+  {
+    "PokemonIndex": 127,
+    "Quantity": 1,
+    "Name": "PINSIR",
+    "ItemClassifications": [
+      "Useful"
+    ]
+  },
+  {
+    "PokemonIndex": 78,
+    "Quantity": 1,
+    "Name": "RAPIDASH",
+    "ItemClassifications": [
+      "Useful"
+    ]
+  },
+  {
+    "PokemonIndex": 219,
+    "Quantity": 1,
+    "Name": "MAGCARGO",
+    "ItemClassifications": []
+  },
+  {
+    "PokemonIndex": 107,
+    "Quantity": 1,
+    "Name": "HITMONCHAN",
+    "ItemClassifications": [
+      "Useful"
+    ]
+  },
+  {
+    "PokemonIndex": 106,
+    "Quantity": 1,
+    "Name": "HITMONLEE",
+    "ItemClassifications": [
+      "Useful"
+    ]
+  },
+  {
+    "PokemonIndex": 108,
+    "Quantity": 1,
+    "Name": "LICKITUNG",
+    "ItemClassifications": []
+  },
+  {
+    "PokemonIndex": 123,
+    "Quantity": 1,
+    "Name": "SCYTHER",
+    "ItemClassifications": [
+      "Useful"
+    ]
+  },
+  {
+    "PokemonIndex": 113,
+    "Quantity": 1,
+    "Name": "CHANSEY",
+    "ItemClassifications": [
+      "Useful"
+    ]
+  },
+  {
+    "PokemonIndex": 349,
+    "Quantity": 1,
+    "Name": "SOLROCK",
+    "ItemClassifications": []
+  },
+  {
+    "PokemonIndex": 121,
+    "Quantity": 1,
+    "Name": "STARMIE",
+    "ItemClassifications": [
+      "Useful"
+    ]
+  },
+  {
+    "PokemonIndex": 305,
+    "Quantity": 1,
+    "Name": "SWELLOW",
+    "ItemClassifications": []
+  },
+  {
+    "PokemonIndex": 125,
+    "Quantity": 1,
+    "Name": "ELECTABUZZ",
+    "ItemClassifications": [
+      "Useful"
+    ]
+  },
+  {
+    "PokemonIndex": 143,
+    "Quantity": 1,
+    "Name": "SNORLAX",
+    "ItemClassifications": [
+      "Useful"
+    ]
+  },
+  {
+    "PokemonIndex": 62,
+    "Quantity": 1,
+    "Name": "POLIWRATH",
+    "ItemClassifications": [
+      "Useful"
+    ]
+  },
+  {
+    "PokemonIndex": 122,
+    "Quantity": 1,
+    "Name": "MR. MIME",
+    "ItemClassifications": [
+      "Useful"
+    ]
+  },
+  {
+    "PokemonIndex": 51,
+    "Quantity": 1,
+    "Name": "DUGTRIO",
+    "ItemClassifications": []
+  },
+  {
+    "PokemonIndex": 338,
+    "Quantity": 1,
+    "Name": "MANECTRIC",
+    "ItemClassifications": [
+      "Useful"
+    ]
+  },
+  {
+    "PokemonIndex": 397,
+    "Quantity": 1,
+    "Name": "SALAMENCE",
+    "ItemClassifications": [
+      "Useful"
+    ]
+  },
+  {
+    "PokemonIndex": 105,
+    "Quantity": 1,
+    "Name": "MAROWAK",
+    "ItemClassifications": []
+  },
+  {
+    "PokemonIndex": 131,
+    "Quantity": 1,
+    "Name": "LAPRAS",
+    "ItemClassifications": [
+      "Useful"
+    ]
+  },
+  {
+    "PokemonIndex": 249,
+    "Quantity": 1,
+    "Name": "LUGIA",
+    "ItemClassifications": [
+      "Useful"
+    ]
+  },
+  {
+    "PokemonIndex": 112,
+    "Quantity": 1,
+    "Name": "RHYDON",
+    "ItemClassifications": [
+      "Useful"
+    ]
+  },
+  {
+    "PokemonIndex": 146,
+    "Quantity": 1,
+    "Name": "MOLTRES",
+    "ItemClassifications": [
+      "Useful"
+    ]
+  },
+  {
+    "PokemonIndex": 103,
+    "Quantity": 1,
+    "Name": "EXEGGUTOR",
+    "ItemClassifications": [
+      "Useful"
+    ]
+  },
+  {
+    "PokemonIndex": 128,
+    "Quantity": 1,
+    "Name": "TAUROS",
+    "ItemClassifications": [
+      "Useful"
+    ]
+  },
+  {
+    "PokemonIndex": 144,
+    "Quantity": 1,
+    "Name": "ARTICUNO",
+    "ItemClassifications": [
+      "Useful"
+    ]
+  },
+  {
+    "PokemonIndex": 145,
+    "Quantity": 1,
+    "Name": "ZAPDOS",
+    "ItemClassifications": [
+      "Useful"
+    ]
+  },
+  {
+    "PokemonIndex": 149,
+    "Quantity": 1,
+    "Name": "DRAGONITE",
+    "ItemClassifications": [
+      "Useful"
+    ]
+  }
+]

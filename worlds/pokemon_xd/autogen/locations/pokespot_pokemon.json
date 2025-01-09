@@ -1,0 +1,79 @@
+[
+  {
+    "PokeSpot": "Rock",
+    "PokemonIndex": 27,
+    "PokeSpotIndex": 12204,
+    "AreaId": 17,
+    "Name": "Rock PokeSpot - Capture SANDSHREW"
+  },
+  {
+    "PokeSpot": "Rock",
+    "PokemonIndex": 207,
+    "PokeSpotIndex": 12204,
+    "AreaId": 17,
+    "Name": "Rock PokeSpot - Capture GLIGAR"
+  },
+  {
+    "PokeSpot": "Rock",
+    "PokemonIndex": 332,
+    "PokeSpotIndex": 12204,
+    "AreaId": 17,
+    "Name": "Rock PokeSpot - Capture TRAPINCH"
+  },
+  {
+    "PokeSpot": "Oasis",
+    "PokemonIndex": 187,
+    "PokeSpotIndex": 12240,
+    "AreaId": 17,
+    "Name": "Oasis PokeSpot - Capture HOPPIP"
+  },
+  {
+    "PokeSpot": "Oasis",
+    "PokemonIndex": 231,
+    "PokeSpotIndex": 12240,
+    "AreaId": 17,
+    "Name": "Oasis PokeSpot - Capture PHANPY"
+  },
+  {
+    "PokeSpot": "Oasis",
+    "PokemonIndex": 311,
+    "PokeSpotIndex": 12240,
+    "AreaId": 17,
+    "Name": "Oasis PokeSpot - Capture SURSKIT"
+  },
+  {
+    "PokeSpot": "Cave",
+    "PokemonIndex": 41,
+    "PokeSpotIndex": 12276,
+    "AreaId": 17,
+    "Name": "Cave PokeSpot - Capture ZUBAT"
+  },
+  {
+    "PokeSpot": "Cave",
+    "PokemonIndex": 382,
+    "PokeSpotIndex": 12276,
+    "AreaId": 17,
+    "Name": "Cave PokeSpot - Capture ARON"
+  },
+  {
+    "PokeSpot": "Cave",
+    "PokemonIndex": 194,
+    "PokeSpotIndex": 12276,
+    "AreaId": 17,
+    "Name": "Cave PokeSpot - Capture WOOPER"
+  },
+  {
+    "PokeSpot": "All",
+    "PokemonIndex": 413,
+    "PokeSpotIndex": 12312,
+    "AreaId": 17,
+    "Name": "All PokeSpot - Capture BONSLY"
+  },
+  {
+    "PokeSpot": "All",
+    "PokemonIndex": 414,
+    "PokeSpotIndex": 12312,
+    "AreaId": 17,
+    "Name": "All PokeSpot - Capture MUNCHLAX"
+  }
+]

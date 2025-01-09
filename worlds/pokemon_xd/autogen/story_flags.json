@@ -1,0 +1,394 @@
+[
+  {
+    "StoryFlag": 10,
+    "Name": "Completed Tutorial Battle"
+  },
+  {
+    "StoryFlag": 20,
+    "Name": "Looking For PDA"
+  },
+  {
+    "StoryFlag": 30,
+    "Name": "Looking For Jovi"
+  },
+  {
+    "StoryFlag": 40,
+    "Name": "Defeated Chobin For First Time"
+  },
+  {
+    "StoryFlag": 50,
+    "Name": "Admired Unhealthy Sandals"
+  },
+  {
+    "StoryFlag": 60,
+    "Name": "Recruited Jovi From Kaminko"
+  },
+  {
+    "StoryFlag": 70,
+    "Name": "Returned Jovi From Kaminko"
+  },
+  {
+    "StoryFlag": 80,
+    "Name": "Looking For Krane Downstairs"
+  },
+  {
+    "StoryFlag": 90,
+    "Name": "Received Snag Machine"
+  },
+  {
+    "StoryFlag": 100,
+    "Name": "Snagged First Shadow Pokemon"
+  },
+  {
+    "StoryFlag": 110,
+    "Name": "Heard Lilys Motivational Speech"
+  },
+  {
+    "StoryFlag": 120,
+    "Name": "Asked To Pick Up Machine Part"
+  },
+  {
+    "StoryFlag": 130,
+    "Name": "Received First Two Krane Memos"
+  },
+  {
+    "StoryFlag": 140,
+    "Name": "Met Zook"
+  },
+  {
+    "StoryFlag": 150,
+    "Name": "Met Acri And Emili"
+  },
+  {
+    "StoryFlag": 160,
+    "Name": "Acquired Eevee Evolution Item"
+  },
+  {
+    "StoryFlag": 170,
+    "Name": "Met Perr"
+  },
+  {
+    "StoryFlag": 180,
+    "Name": "Acquired Machine Part"
+  },
+  {
+    "StoryFlag": 190,
+    "Name": "Received Second Batch Of Krane Memos"
+  },
+  {
+    "StoryFlag": 191,
+    "Name": "Gave Machine Part To Lily"
+  },
+  {
+    "StoryFlag": 200,
+    "Name": "Directed To Agate Village"
+  },
+  {
+    "StoryFlag": 260,
+    "Name": "Met Eagun"
+  },
+  {
+    "StoryFlag": 270,
+    "Name": "Defeated Eagun By Relic Stone"
+  },
+  {
+    "StoryFlag": 280,
+    "Name": "Purified First Shadow Pokemon"
+  },
+  {
+    "StoryFlag": 290,
+    "Name": "Directed To Mt Battle"
+  },
+  {
+    "StoryFlag": 300,
+    "Name": "Gave PDA Number To Eagun"
+  },
+  {
+    "StoryFlag": 310,
+    "Name": "Directed To Cipher Lab"
+  },
+  {
+    "StoryFlag": 320,
+    "Name": "Met Hexagon Brothers"
+  },
+  {
+    "StoryFlag": 330,
+    "Name": "Watched Krane Refuse To Help Lovrina"
+  },
+  {
+    "StoryFlag": 340,
+    "Name": "Recruited Krane In Cipher Lab"
+  },
+  {
+    "StoryFlag": 350,
+    "Name": "Defeated Lovrina In Cipher Lab"
+  },
+  {
+    "StoryFlag": 360,
+    "Name": "Returned Krane To Research Lab"
+  },
+  {
+    "StoryFlag": 370,
+    "Name": "Viewed Purification Chamber"
+  },
+  {
+    "StoryFlag": 380,
+    "Name": "Looking For Datan"
+  },
+  {
+    "StoryFlag": 390,
+    "Name": "Directed To Pyrite Town"
+  },
+  {
+    "StoryFlag": 400,
+    "Name": "Arrived At Pyrite Town"
+  },
+  {
+    "StoryFlag": 410,
+    "Name": "Met Officer Johnson"
+  },
+  {
+    "StoryFlag": 420,
+    "Name": "Can Enter Netts Office"
+  },
+  {
+    "StoryFlag": 430,
+    "Name": "Directed To Rock Pokespot"
+  },
+  {
+    "StoryFlag": 440,
+    "Name": "Assisting Duking"
+  },
+  {
+    "StoryFlag": 450,
+    "Name": "Placed Food At Rock Pokespot"
+  },
+  {
+    "StoryFlag": 460,
+    "Name": "Directed To Oasis Pokespot"
+  },
+  {
+    "StoryFlag": 470,
+    "Name": "Directed To Cave Pokespot"
+  },
+  {
+    "StoryFlag": 480,
+    "Name": "Battled Miror B At Cave Pokespot"
+  },
+  {
+    "StoryFlag": 481,
+    "Name": "Entered ONBS During Cipher Invasion"
+  },
+  {
+    "StoryFlag": 490,
+    "Name": "Battled Exol At ONBS"
+  },
+  {
+    "StoryFlag": 500,
+    "Name": "Directed To Phenac City"
+  },
+  {
+    "StoryFlag": 510,
+    "Name": "Directed To Realgam Tower"
+  },
+  {
+    "StoryFlag": 520,
+    "Name": "Visited Realgam Tower"
+  },
+  {
+    "StoryFlag": 530,
+    "Name": "Acquired Music Disc"
+  },
+  {
+    "StoryFlag": 540,
+    "Name": "Inserted Music Disc"
+  },
+  {
+    "StoryFlag": 550,
+    "Name": "Found Letter For Justy"
+  },
+  {
+    "StoryFlag": 560,
+    "Name": "Watched Justy Impostors Exit Gym"
+  },
+  {
+    "StoryFlag": 570,
+    "Name": "Defeated Cipher Peons In Gym"
+  },
+  {
+    "StoryFlag": 580,
+    "Name": "Defeated Snattle In Phenac City"
+  },
+  {
+    "StoryFlag": 590,
+    "Name": "Acquired Gym Elevator Key"
+  },
+  {
+    "StoryFlag": 600,
+    "Name": "Rescued Gym Hostages"
+  },
+  {
+    "StoryFlag": 610,
+    "Name": "Directed To SS Libra"
+  },
+  {
+    "StoryFlag": 620,
+    "Name": "Unlocked Agate Day Care"
+  },
+  {
+    "StoryFlag": 630,
+    "Name": "Exited Gym Basement"
+  },
+  {
+    "StoryFlag": 640,
+    "Name": "Got Stuck In Desert Sand"
+  },
+  {
+    "StoryFlag": 650,
+    "Name": "Agreed To Find Bonsly"
+  },
+  {
+    "StoryFlag": 660,
+    "Name": "Looking For Makan"
+  },
+  {
+    "StoryFlag": 670,
+    "Name": "Praised By Verich"
+  },
+  {
+    "StoryFlag": 680,
+    "Name": "Defeated Robo Groudon Chobin"
+  },
+  {
+    "StoryFlag": 690,
+    "Name": "Permitted To Enter Kaminkos Basement"
+  },
+  {
+    "StoryFlag": 700,
+    "Name": "Asked Makan To Upgrade Scooter"
+  },
+  {
+    "StoryFlag": 710,
+    "Name": "Acquired Upgraded Scooter"
+  },
+  {
+    "StoryFlag": 720,
+    "Name": "Departed For SS Libra With Upgraded Scooter"
+  },
+  {
+    "StoryFlag": 721,
+    "Name": "Arrived At SS Libra"
+  },
+  {
+    "StoryFlag": 730,
+    "Name": "Fought Smarton On SS Libra"
+  },
+  {
+    "StoryFlag": 740,
+    "Name": "Lost Snag Machine"
+  },
+  {
+    "StoryFlag": 750,
+    "Name": "Directed To Cipher Key Lair"
+  },
+  {
+    "StoryFlag": 751,
+    "Name": "Battled Zook Without Snag Machine"
+  },
+  {
+    "StoryFlag": 760,
+    "Name": "Directed To Outskirt Stand"
+  },
+  {
+    "StoryFlag": 770,
+    "Name": "Defeated Miror B At Outskirt Stand"
+  },
+  {
+    "StoryFlag": 780,
+    "Name": "Watched News At Outskirt Stand"
+  },
+  {
+    "StoryFlag": 781,
+    "Name": "Spoke With Hordel"
+  },
+  {
+    "StoryFlag": 790,
+    "Name": "Directed To Snagem Hideout"
+  },
+  {
+    "StoryFlag": 800,
+    "Name": "Reclaimed Snag Machine"
+  },
+  {
+    "StoryFlag": 810,
+    "Name": "Defeated Zook With Snag Machine"
+  },
+  {
+    "StoryFlag": 820,
+    "Name": "Stopped By Cipher Key Lair Bodybuilders"
+  },
+  {
+    "StoryFlag": 830,
+    "Name": "Assisted By Team Snagem At Cipher Key Lair"
+  },
+  {
+    "StoryFlag": 840,
+    "Name": "Entered Shadow Pokemon Factory"
+  },
+  {
+    "StoryFlag": 850,
+    "Name": "Blew Shadow Pokemon Factory Power"
+  },
+  {
+    "StoryFlag": 860,
+    "Name": "Defeated Gorigan At Shadow Pokemon Factory"
+  },
+  {
+    "StoryFlag": 870,
+    "Name": "Learned Of Stolen Dragonite"
+  },
+  {
+    "StoryFlag": 880,
+    "Name": "Can Use Robo Kyogre"
+  },
+  {
+    "StoryFlag": 890,
+    "Name": "Stepped Foot On Citadark Isle"
+  },
+  {
+    "StoryFlag": 900,
+    "Name": "Defeated Snattle On Citadark Isle"
+  },
+  {
+    "StoryFlag": 910,
+    "Name": "Walled By Greevil"
+  },
+  {
+    "StoryFlag": 920,
+    "Name": "Entered Citadark Isle Dome"
+  },
+  {
+    "StoryFlag": 940,
+    "Name": "Defeated Eldes"
+  },
+  {
+    "StoryFlag": 950,
+    "Name": "Snagged Or Defeated Shadow Lugia"
+  },
+  {
+    "StoryFlag": 960,
+    "Name": "Defeated Greevil"
+  },
+  {
+    "StoryFlag": 970,
+    "Name": "Watched Ending Cutscene"
+  },
+  {
+    "StoryFlag": 980,
+    "Name": "Unlocked Orre Colosseum"
+  },
+  {
+    "StoryFlag": 990,
+    "Name": "Defeated Orre Colosseum Round1"
+  }
+]

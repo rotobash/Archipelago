@@ -1,0 +1,412 @@
+[
+  {
+    "ShadowIndex": 460,
+    "AreaId": 11,
+    "Name": "Purify ZOOKs Shadow ZANGOOSE"
+  },
+  {
+    "ShadowIndex": 20,
+    "AreaId": 6,
+    "Name": "Purify CYLEs Shadow LEDYBA"
+  },
+  {
+    "ShadowIndex": 24,
+    "AreaId": 6,
+    "Name": "Purify KILENs Shadow POOCHYENA"
+  },
+  {
+    "ShadowIndex": 28,
+    "AreaId": 5,
+    "Name": "Purify NAPSs Shadow TEDDIURSA"
+  },
+  {
+    "ShadowIndex": 715,
+    "AreaId": 7,
+    "Name": "Purify RESIXs Shadow HOUNDOUR"
+  },
+  {
+    "ShadowIndex": 721,
+    "AreaId": 7,
+    "Name": "Purify BLUSIXs Shadow SPHEAL"
+  },
+  {
+    "ShadowIndex": 722,
+    "AreaId": 7,
+    "Name": "Purify BROWSIXs Shadow BALTOY"
+  },
+  {
+    "ShadowIndex": 725,
+    "AreaId": 7,
+    "Name": "Purify YELLOSIXs Shadow MAREEP"
+  },
+  {
+    "ShadowIndex": 731,
+    "AreaId": 7,
+    "Name": "Purify PURPSIXs Shadow GULPIN"
+  },
+  {
+    "ShadowIndex": 739,
+    "AreaId": 7,
+    "Name": "Purify GREESIXs Shadow SEEDOT"
+  },
+  {
+    "ShadowIndex": 114,
+    "AreaId": 7,
+    "Name": "Purify NEXIRs Shadow SPINARAK"
+  },
+  {
+    "ShadowIndex": 118,
+    "AreaId": 7,
+    "Name": "Purify SOLOXs Shadow NUMEL"
+  },
+  {
+    "ShadowIndex": 138,
+    "AreaId": 7,
+    "Name": "Purify CABOLs Shadow CARVANHA"
+  },
+  {
+    "ShadowIndex": 147,
+    "AreaId": 7,
+    "Name": "Purify KLOTSs Shadow SHROOMISH"
+  },
+  {
+    "ShadowIndex": 155,
+    "AreaId": 7,
+    "Name": "Purify LOVRINAs Shadow DELCATTY"
+  },
+  {
+    "ShadowIndex": 191,
+    "AreaId": 17,
+    "Name": "Purify MIROR B.s Shadow VOLTORB"
+  },
+  {
+    "ShadowIndex": 200,
+    "AreaId": 3,
+    "Name": "Purify MESINs Shadow VULPIX"
+  },
+  {
+    "ShadowIndex": 210,
+    "AreaId": 3,
+    "Name": "Purify TORKINs Shadow MAKUHITA"
+  },
+  {
+    "ShadowIndex": 228,
+    "AreaId": 3,
+    "Name": "Purify LOBARs Shadow DUSKULL"
+  },
+  {
+    "ShadowIndex": 236,
+    "AreaId": 3,
+    "Name": "Purify FELDASs Shadow RALTS"
+  },
+  {
+    "ShadowIndex": 239,
+    "AreaId": 3,
+    "Name": "Purify EXOLs Shadow MAWILE"
+  },
+  {
+    "ShadowIndex": 242,
+    "AreaId": 2,
+    "Name": "Purify EXINNs Shadow SNORUNT"
+  },
+  {
+    "ShadowIndex": 246,
+    "AreaId": 2,
+    "Name": "Purify GONRAGs Shadow PINECO"
+  },
+  {
+    "ShadowIndex": 275,
+    "AreaId": 2,
+    "Name": "Purify GRECKs Shadow SWINUB"
+  },
+  {
+    "ShadowIndex": 278,
+    "AreaId": 2,
+    "Name": "Purify ELOINs Shadow NATU"
+  },
+  {
+    "ShadowIndex": 281,
+    "AreaId": 2,
+    "Name": "Purify FASINs Shadow ROSELIA"
+  },
+  {
+    "ShadowIndex": 285,
+    "AreaId": 2,
+    "Name": "Purify FOSTINs Shadow MEOWTH"
+  },
+  {
+    "ShadowIndex": 288,
+    "AreaId": 2,
+    "Name": "Purify EZINs Shadow SPEAROW"
+  },
+  {
+    "ShadowIndex": 291,
+    "AreaId": 2,
+    "Name": "Purify FALTLYs Shadow GRIMER"
+  },
+  {
+    "ShadowIndex": 295,
+    "AreaId": 2,
+    "Name": "Purify EGROGs Shadow SEEL"
+  },
+  {
+    "ShadowIndex": 298,
+    "AreaId": 2,
+    "Name": "Purify SNATTLEs Shadow LUNATONE"
+  },
+  {
+    "ShadowIndex": 405,
+    "AreaId": 1,
+    "Name": "Purify MIROR B.s Shadow NOSEPASS"
+  },
+  {
+    "ShadowIndex": 472,
+    "AreaId": 11,
+    "Name": "Purify HUMAHs Shadow PARAS"
+  },
+  {
+    "ShadowIndex": 473,
+    "AreaId": 11,
+    "Name": "Purify HUMAHs Shadow GROWLITHE"
+  },
+  {
+    "ShadowIndex": 482,
+    "AreaId": 11,
+    "Name": "Purify GOROGs Shadow SHELLDER"
+  },
+  {
+    "ShadowIndex": 491,
+    "AreaId": 11,
+    "Name": "Purify LOKs Shadow BEEDRILL"
+  },
+  {
+    "ShadowIndex": 494,
+    "AreaId": 11,
+    "Name": "Purify LOKs Shadow PIDGEOTTO"
+  },
+  {
+    "ShadowIndex": 507,
+    "AreaId": 11,
+    "Name": "Purify TARGs Shadow TANGELA"
+  },
+  {
+    "ShadowIndex": 508,
+    "AreaId": 11,
+    "Name": "Purify TARGs Shadow BUTTERFREE"
+  },
+  {
+    "ShadowIndex": 517,
+    "AreaId": 11,
+    "Name": "Purify SNIDLEs Shadow MAGNETON"
+  },
+  {
+    "ShadowIndex": 526,
+    "AreaId": 11,
+    "Name": "Purify ANGICs Shadow VENOMOTH"
+  },
+  {
+    "ShadowIndex": 527,
+    "AreaId": 11,
+    "Name": "Purify ANGICs Shadow WEEPINBELL"
+  },
+  {
+    "ShadowIndex": 537,
+    "AreaId": 11,
+    "Name": "Purify SMARTONs Shadow ARBOK"
+  },
+  {
+    "ShadowIndex": 542,
+    "AreaId": 11,
+    "Name": "Purify GORIGANs Shadow PRIMEAPE"
+  },
+  {
+    "ShadowIndex": 543,
+    "AreaId": 11,
+    "Name": "Purify GORIGANs Shadow HYPNO"
+  },
+  {
+    "ShadowIndex": 555,
+    "AreaId": 12,
+    "Name": "Purify ABSONs Shadow GOLDUCK"
+  },
+  {
+    "ShadowIndex": 556,
+    "AreaId": 12,
+    "Name": "Purify ABSONs Shadow SABLEYE"
+  },
+  {
+    "ShadowIndex": 562,
+    "AreaId": 12,
+    "Name": "Purify FURGYs Shadow DODRIO"
+  },
+  {
+    "ShadowIndex": 564,
+    "AreaId": 12,
+    "Name": "Purify FURGYs Shadow RATICATE"
+  },
+  {
+    "ShadowIndex": 575,
+    "AreaId": 12,
+    "Name": "Purify LOVRINAs Shadow FARFETCH\u0027D"
+  },
+  {
+    "ShadowIndex": 576,
+    "AreaId": 12,
+    "Name": "Purify LOVRINAs Shadow ALTARIA"
+  },
+  {
+    "ShadowIndex": 584,
+    "AreaId": 12,
+    "Name": "Purify LITNARs Shadow KANGASKHAN"
+  },
+  {
+    "ShadowIndex": 585,
+    "AreaId": 12,
+    "Name": "Purify LITNARs Shadow BANETTE"
+  },
+  {
+    "ShadowIndex": 593,
+    "AreaId": 12,
+    "Name": "Purify GRUPELs Shadow MAGMAR"
+  },
+  {
+    "ShadowIndex": 594,
+    "AreaId": 12,
+    "Name": "Purify GRUPELs Shadow PINSIR"
+  },
+  {
+    "ShadowIndex": 624,
+    "AreaId": 12,
+    "Name": "Purify KOLESTs Shadow RAPIDASH"
+  },
+  {
+    "ShadowIndex": 625,
+    "AreaId": 12,
+    "Name": "Purify KOLESTs Shadow MAGCARGO"
+  },
+  {
+    "ShadowIndex": 634,
+    "AreaId": 12,
+    "Name": "Purify KARBONs Shadow HITMONCHAN"
+  },
+  {
+    "ShadowIndex": 639,
+    "AreaId": 12,
+    "Name": "Purify PETROs Shadow HITMONLEE"
+  },
+  {
+    "ShadowIndex": 652,
+    "AreaId": 12,
+    "Name": "Purify GEFTALs Shadow LICKITUNG"
+  },
+  {
+    "ShadowIndex": 655,
+    "AreaId": 12,
+    "Name": "Purify LEDENs Shadow SCYTHER"
+  },
+  {
+    "ShadowIndex": 656,
+    "AreaId": 12,
+    "Name": "Purify LEDENs Shadow CHANSEY"
+  },
+  {
+    "ShadowIndex": 660,
+    "AreaId": 12,
+    "Name": "Purify SNATTLEs Shadow SOLROCK"
+  },
+  {
+    "ShadowIndex": 662,
+    "AreaId": 12,
+    "Name": "Purify SNATTLEs Shadow STARMIE"
+  },
+  {
+    "ShadowIndex": 666,
+    "AreaId": 12,
+    "Name": "Purify ARDOSs Shadow SWELLOW"
+  },
+  {
+    "ShadowIndex": 670,
+    "AreaId": 12,
+    "Name": "Purify ARDOSs Shadow ELECTABUZZ"
+  },
+  {
+    "ShadowIndex": 671,
+    "AreaId": 12,
+    "Name": "Purify ARDOSs Shadow SNORLAX"
+  },
+  {
+    "ShadowIndex": 676,
+    "AreaId": 12,
+    "Name": "Purify GORIGANs Shadow POLIWRATH"
+  },
+  {
+    "ShadowIndex": 677,
+    "AreaId": 12,
+    "Name": "Purify GORIGANs Shadow MR. MIME"
+  },
+  {
+    "ShadowIndex": 682,
+    "AreaId": 12,
+    "Name": "Purify KOLAXs Shadow DUGTRIO"
+  },
+  {
+    "ShadowIndex": 684,
+    "AreaId": 12,
+    "Name": "Purify ELDESs Shadow MANECTRIC"
+  },
+  {
+    "ShadowIndex": 685,
+    "AreaId": 12,
+    "Name": "Purify ELDESs Shadow SALAMENCE"
+  },
+  {
+    "ShadowIndex": 687,
+    "AreaId": 12,
+    "Name": "Purify ELDESs Shadow MAROWAK"
+  },
+  {
+    "ShadowIndex": 688,
+    "AreaId": 12,
+    "Name": "Purify ELDESs Shadow LAPRAS"
+  },
+  {
+    "ShadowIndex": 699,
+    "AreaId": 12,
+    "Name": "Purify GREEVILs Shadow LUGIA"
+  },
+  {
+    "ShadowIndex": 700,
+    "AreaId": 12,
+    "Name": "Purify GREEVILs Shadow RHYDON"
+  },
+  {
+    "ShadowIndex": 701,
+    "AreaId": 12,
+    "Name": "Purify GREEVILs Shadow MOLTRES"
+  },
+  {
+    "ShadowIndex": 702,
+    "AreaId": 12,
+    "Name": "Purify GREEVILs Shadow EXEGGUTOR"
+  },
+  {
+    "ShadowIndex": 703,
+    "AreaId": 12,
+    "Name": "Purify GREEVILs Shadow TAUROS"
+  },
+  {
+    "ShadowIndex": 704,
+    "AreaId": 12,
+    "Name": "Purify GREEVILs Shadow ARTICUNO"
+  },
+  {
+    "ShadowIndex": 705,
+    "AreaId": 12,
+    "Name": "Purify GREEVILs Shadow ZAPDOS"
+  },
+  {
+    "ShadowIndex": 785,
+    "AreaId": 6,
+    "Name": "Purify MIROR B.s Shadow DRAGONITE"
+  }
+]
