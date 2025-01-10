@@ -1,9 +1,8 @@
 
 import json
 
-from BaseClasses import ItemClassification
-from .Locations import PokemonXDItemLocation, PokemonXDLocation, PokemonXDPokespotPokemonLocation, PokemonXDShadowPokemonLocation, PokemonXDTrainerBattleLocation
-from .Items import PokemonXDFoundItem, PokemonXDItem, PokemonXDMoneyItem, PokemonXDPokemonItem, PokemonXDPurifyPokemonItem
+from .Locations import PokemonXDItemLocation, PokemonXDPokespotPokemonLocation, PokemonXDShadowPokemonLocation, PokemonXDTrainerBattleLocation
+from .Items import PokemonXDFoundItem, PokemonXDMoneyItem, PokemonXDPokemonItem, PokemonXDPurifyPokemonItem
 
 
 location_prefix = "data/locations/"
