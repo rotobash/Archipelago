@@ -1,4 +1,5 @@
 import enum
+import json
 from typing import Optional
 from BaseClasses import Item, ItemClassification
 
@@ -8,6 +9,14 @@ class PokemonItemType(enum):
     POKEMON = 2,
     MONEY = 3,
     PURIFY = 4
+
+class PokemonXDStoryEvent(Item):
+    story_flag_id = 0
+
+    def __init__(self, player, **data):
+        name = data["Name"]
+        self.story_flag_id = data["StoryFlagId"]
+        super().__init__(name, ItemClassification.useful, None, player)
 
 class PokemonXDItem(Item):
     game: str = "Pokemon XD"

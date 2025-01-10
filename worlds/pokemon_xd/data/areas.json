@@ -1,12 +1,5 @@
 [
   {
-    "AreaIndex": 0,
-    "Starting": true,
-    "Requires": null,
-    "AvailabilityFlag": 0,
-    "Name": "HUB"
-  },
-  {
     "AreaIndex": 1,
     "Starting": false,
     "Requires": "Directed To Outskirt Stand",
