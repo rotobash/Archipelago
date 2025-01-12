@@ -1,4 +1,4 @@
-from BaseClasses import ItemClassification, MultiWorld, Region, CollectionState
+from BaseClasses import MultiWorld, Region, CollectionState
 from worlds.generic.Rules import add_rule
 import json
 

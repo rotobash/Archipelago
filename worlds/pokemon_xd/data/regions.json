@@ -1,0 +1,2298 @@
+[
+  {
+    "AreaName": "HUB",
+    "RoomIndex": 0,
+    "Starting": true,
+    "Requires": null,
+    "ConnectsTo": [11, 20, 35, 58, 71, 90, 91, 92, 100, 119, 132, 143, 153, 163, 168, 173],
+    "Name": "Menu"
+  },
+  {
+    "AreaName": "OUTSKIRT STAND",
+    "RoomIndex": 163,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [0, 164],
+    "Name": "OUTSKIRT STAND - Room 163"
+  },
+  {
+    "AreaName": "OUTSKIRT STAND",
+    "RoomIndex": 164,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [163],
+    "Name": "OUTSKIRT STAND - Room 164"
+  },
+  {
+    "AreaName": "PHENAC CITY",
+    "RoomIndex": 100,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [0],
+    "Name": "PHENAC CITY - Room 100"
+  },
+  {
+    "AreaName": "PYRITE TOWN",
+    "RoomIndex": 119,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [0],
+    "Name": "PYRITE TOWN - Room 119"
+  },
+  {
+    "AreaName": "CIPHER LAB",
+    "RoomIndex": 11,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [0],
+    "Name": "CIPHER LAB - Room 11"
+  },
+  {
+    "AreaName": "CIPHER LAB",
+    "RoomIndex": 7,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "CIPHER LAB - Room 7"
+  },
+  {
+    "AreaName": "CIPHER LAB",
+    "RoomIndex": 8,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "CIPHER LAB - Room 8"
+  },
+  {
+    "AreaName": "CIPHER LAB",
+    "RoomIndex": 9,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "CIPHER LAB - Room 9"
+  },
+  {
+    "AreaName": "CIPHER LAB",
+    "RoomIndex": 10,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "CIPHER LAB - Room 10"
+  },
+  {
+    "AreaName": "CIPHER LAB",
+    "RoomIndex": 1,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "CIPHER LAB - Room 1"
+  },
+  {
+    "AreaName": "CIPHER LAB",
+    "RoomIndex": 2,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "CIPHER LAB - Room 2"
+  },
+  {
+    "AreaName": "MT. BATTLE",
+    "RoomIndex": 20,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [0],
+    "Name": "MT. BATTLE - Room 20"
+  },
+  {
+    "AreaName": "MT. BATTLE",
+    "RoomIndex": 21,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "MT. BATTLE - Room 21"
+  },
+  {
+    "AreaName": "MT. BATTLE",
+    "RoomIndex": 32,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "MT. BATTLE - Room 32"
+  },
+  {
+    "AreaName": "MT. BATTLE",
+    "RoomIndex": 23,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "MT. BATTLE - Room 23"
+  },
+  {
+    "AreaName": "MT. BATTLE",
+    "RoomIndex": 33,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "MT. BATTLE - Room 33"
+  },
+  {
+    "AreaName": "MT. BATTLE",
+    "RoomIndex": 24,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "MT. BATTLE - Room 24"
+  },
+  {
+    "AreaName": "MT. BATTLE",
+    "RoomIndex": 34,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "MT. BATTLE - Room 34"
+  },
+  {
+    "AreaName": "MT. BATTLE",
+    "RoomIndex": 25,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "MT. BATTLE - Room 25"
+  },
+  {
+    "AreaName": "MT. BATTLE",
+    "RoomIndex": 17,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "MT. BATTLE - Room 17"
+  },
+  {
+    "AreaName": "MT. BATTLE",
+    "RoomIndex": 26,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "MT. BATTLE - Room 26"
+  },
+  {
+    "AreaName": "MT. BATTLE",
+    "RoomIndex": 18,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "MT. BATTLE - Room 18"
+  },
+  {
+    "AreaName": "MT. BATTLE",
+    "RoomIndex": 27,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "MT. BATTLE - Room 27"
+  },
+  {
+    "AreaName": "MT. BATTLE",
+    "RoomIndex": 19,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "MT. BATTLE - Room 19"
+  },
+  {
+    "AreaName": "MT. BATTLE",
+    "RoomIndex": 28,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "MT. BATTLE - Room 28"
+  },
+  {
+    "AreaName": "MT. BATTLE",
+    "RoomIndex": 12,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "MT. BATTLE - Room 12"
+  },
+  {
+    "AreaName": "MT. BATTLE",
+    "RoomIndex": 29,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "MT. BATTLE - Room 29"
+  },
+  {
+    "AreaName": "MT. BATTLE",
+    "RoomIndex": 13,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "MT. BATTLE - Room 13"
+  },
+  {
+    "AreaName": "MT. BATTLE",
+    "RoomIndex": 30,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "MT. BATTLE - Room 30"
+  },
+  {
+    "AreaName": "MT. BATTLE",
+    "RoomIndex": 14,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "MT. BATTLE - Room 14"
+  },
+  {
+    "AreaName": "MT. BATTLE",
+    "RoomIndex": 31,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "MT. BATTLE - Room 31"
+  },
+  {
+    "AreaName": "MT. BATTLE",
+    "RoomIndex": 15,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "MT. BATTLE - Room 15"
+  },
+  {
+    "AreaName": "CIPHER LAB",
+    "RoomIndex": 3,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "CIPHER LAB - Room 3"
+  },
+  {
+    "AreaName": "CIPHER LAB",
+    "RoomIndex": 4,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "CIPHER LAB - Room 4"
+  },
+  {
+    "AreaName": "REALGAM TOWER",
+    "RoomIndex": 999,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "REALGAM TOWER - Room 999"
+  },
+  {
+    "AreaName": "REALGAM TOWER",
+    "RoomIndex": 0,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "REALGAM TOWER - Room 0"
+  },
+  {
+    "AreaName": "AGATE VILLAGE",
+    "RoomIndex": 132,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "AGATE VILLAGE - Room 132"
+  },
+  {
+    "AreaName": "MT. BATTLE",
+    "RoomIndex": 16,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "MT. BATTLE - Room 16"
+  },
+  {
+    "AreaName": "PYRITE TOWN",
+    "RoomIndex": 117,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "PYRITE TOWN - Room 117"
+  },
+  {
+    "AreaName": "REALGAM TOWER",
+    "RoomIndex": 527,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "REALGAM TOWER - Room 527"
+  },
+  {
+    "AreaName": "PHENAC CITY",
+    "RoomIndex": 101,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "PHENAC CITY - Room 101"
+  },
+  {
+    "AreaName": "PHENAC CITY",
+    "RoomIndex": 96,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "PHENAC CITY - Room 96"
+  },
+  {
+    "AreaName": "PHENAC CITY",
+    "RoomIndex": 97,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "PHENAC CITY - Room 97"
+  },
+  {
+    "AreaName": "PHENAC CITY",
+    "RoomIndex": 98,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "PHENAC CITY - Room 98"
+  },
+  {
+    "AreaName": "PHENAC CITY",
+    "RoomIndex": 99,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "PHENAC CITY - Room 99"
+  },
+  {
+    "AreaName": "PHENAC CITY",
+    "RoomIndex": 103,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "PHENAC CITY - Room 103"
+  },
+  {
+    "AreaName": "PHENAC CITY",
+    "RoomIndex": 104,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "PHENAC CITY - Room 104"
+  },
+  {
+    "AreaName": "PHENAC CITY",
+    "RoomIndex": 94,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "PHENAC CITY - Room 94"
+  },
+  {
+    "AreaName": "PHENAC CITY",
+    "RoomIndex": 95,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "PHENAC CITY - Room 95"
+  },
+  {
+    "AreaName": "PHENAC CITY",
+    "RoomIndex": 105,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "PHENAC CITY - Room 105"
+  },
+  {
+    "AreaName": "PHENAC CITY",
+    "RoomIndex": 106,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "PHENAC CITY - Room 106"
+  },
+  {
+    "AreaName": "PYRITE TOWN",
+    "RoomIndex": 112,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "PYRITE TOWN - Room 112"
+  },
+  {
+    "AreaName": "REALGAM TOWER",
+    "RoomIndex": 57,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "REALGAM TOWER - Room 57"
+  },
+  {
+    "AreaName": "REALGAM TOWER",
+    "RoomIndex": 46,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "REALGAM TOWER - Room 46"
+  },
+  {
+    "AreaName": "REALGAM TOWER",
+    "RoomIndex": 49,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "REALGAM TOWER - Room 49"
+  },
+  {
+    "AreaName": "REALGAM TOWER",
+    "RoomIndex": 50,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "REALGAM TOWER - Room 50"
+  },
+  {
+    "AreaName": "REALGAM TOWER",
+    "RoomIndex": 51,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "REALGAM TOWER - Room 51"
+  },
+  {
+    "AreaName": "REALGAM TOWER",
+    "RoomIndex": 59,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "REALGAM TOWER - Room 59"
+  },
+  {
+    "AreaName": "REALGAM TOWER",
+    "RoomIndex": 60,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "REALGAM TOWER - Room 60"
+  },
+  {
+    "AreaName": "REALGAM TOWER",
+    "RoomIndex": 61,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "REALGAM TOWER - Room 61"
+  },
+  {
+    "AreaName": "REALGAM TOWER",
+    "RoomIndex": 45,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "REALGAM TOWER - Room 45"
+  },
+  {
+    "AreaName": "AGATE VILLAGE",
+    "RoomIndex": 125,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "AGATE VILLAGE - Room 125"
+  },
+  {
+    "AreaName": "AGATE VILLAGE",
+    "RoomIndex": 126,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "AGATE VILLAGE - Room 126"
+  },
+  {
+    "AreaName": "AGATE VILLAGE",
+    "RoomIndex": 135,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "AGATE VILLAGE - Room 135"
+  },
+  {
+    "AreaName": "AGATE VILLAGE",
+    "RoomIndex": 127,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "AGATE VILLAGE - Room 127"
+  },
+  {
+    "AreaName": "AGATE VILLAGE",
+    "RoomIndex": 128,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "AGATE VILLAGE - Room 128"
+  },
+  {
+    "AreaName": "AGATE VILLAGE",
+    "RoomIndex": 133,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "AGATE VILLAGE - Room 133"
+  },
+  {
+    "AreaName": "AGATE VILLAGE",
+    "RoomIndex": 134,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "AGATE VILLAGE - Room 134"
+  },
+  {
+    "AreaName": "AGATE VILLAGE",
+    "RoomIndex": 129,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "AGATE VILLAGE - Room 129"
+  },
+  {
+    "AreaName": "AGATE VILLAGE",
+    "RoomIndex": 130,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "AGATE VILLAGE - Room 130"
+  },
+  {
+    "AreaName": "AGATE VILLAGE",
+    "RoomIndex": 131,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "AGATE VILLAGE - Room 131"
+  },
+  {
+    "AreaName": "PYRITE TOWN",
+    "RoomIndex": 120,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "PYRITE TOWN - Room 120"
+  },
+  {
+    "AreaName": "PYRITE TOWN",
+    "RoomIndex": 122,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "PYRITE TOWN - Room 122"
+  },
+  {
+    "AreaName": "PYRITE TOWN",
+    "RoomIndex": 118,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "PYRITE TOWN - Room 118"
+  },
+  {
+    "AreaName": "PYRITE TOWN",
+    "RoomIndex": 115,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "PYRITE TOWN - Room 115"
+  },
+  {
+    "AreaName": "PYRITE TOWN",
+    "RoomIndex": 116,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "PYRITE TOWN - Room 116"
+  },
+  {
+    "AreaName": "PYRITE TOWN",
+    "RoomIndex": 121,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "PYRITE TOWN - Room 121"
+  },
+  {
+    "AreaName": "PYRITE TOWN",
+    "RoomIndex": 123,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "PYRITE TOWN - Room 123"
+  },
+  {
+    "AreaName": "PYRITE TOWN",
+    "RoomIndex": 108,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "PYRITE TOWN - Room 108"
+  },
+  {
+    "AreaName": "PYRITE TOWN",
+    "RoomIndex": 109,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "PYRITE TOWN - Room 109"
+  },
+  {
+    "AreaName": "PYRITE TOWN",
+    "RoomIndex": 110,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "PYRITE TOWN - Room 110"
+  },
+  {
+    "AreaName": "PYRITE TOWN",
+    "RoomIndex": 111,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "PYRITE TOWN - Room 111"
+  },
+  {
+    "AreaName": "COLOSSEUM",
+    "RoomIndex": 900,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "COLOSSEUM - Room 900"
+  },
+  {
+    "AreaName": "PHENAC CITY",
+    "RoomIndex": 102,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "PHENAC CITY - Room 102"
+  },
+  {
+    "AreaName": "PYRITE TOWN",
+    "RoomIndex": 113,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "PYRITE TOWN - Room 113"
+  },
+  {
+    "AreaName": "REALGAM TOWER",
+    "RoomIndex": 58,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "REALGAM TOWER - Room 58"
+  },
+  {
+    "AreaName": "COLOSSEUM",
+    "RoomIndex": 911,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "COLOSSEUM - Room 911"
+  },
+  {
+    "AreaName": "COLOSSEUM",
+    "RoomIndex": 174,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "COLOSSEUM - Room 174"
+  },
+  {
+    "AreaName": "COLOSSEUM",
+    "RoomIndex": 912,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "COLOSSEUM - Room 912"
+  },
+  {
+    "AreaName": "COLOSSEUM",
+    "RoomIndex": 913,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "COLOSSEUM - Room 913"
+  },
+  {
+    "AreaName": "COLOSSEUM",
+    "RoomIndex": 914,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "COLOSSEUM - Room 914"
+  },
+  {
+    "AreaName": "PHENAC CITY",
+    "RoomIndex": 93,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "PHENAC CITY - Room 93"
+  },
+  {
+    "AreaName": "COLOSSEUM",
+    "RoomIndex": 920,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "COLOSSEUM - Room 920"
+  },
+  {
+    "AreaName": "COLOSSEUM",
+    "RoomIndex": 921,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "COLOSSEUM - Room 921"
+  },
+  {
+    "AreaName": "COLOSSEUM",
+    "RoomIndex": 922,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "COLOSSEUM - Room 922"
+  },
+  {
+    "AreaName": "COLOSSEUM",
+    "RoomIndex": 923,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "COLOSSEUM - Room 923"
+  },
+  {
+    "AreaName": "COLOSSEUM",
+    "RoomIndex": 924,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "COLOSSEUM - Room 924"
+  },
+  {
+    "AreaName": "SNAGEM HIDEOUT",
+    "RoomIndex": 165,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "SNAGEM HIDEOUT - Room 165"
+  },
+  {
+    "AreaName": "SNAGEM HIDEOUT",
+    "RoomIndex": 166,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "SNAGEM HIDEOUT - Room 166"
+  },
+  {
+    "AreaName": "SNAGEM HIDEOUT",
+    "RoomIndex": 167,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "SNAGEM HIDEOUT - Room 167"
+  },
+  {
+    "AreaName": "COLOSSEUM",
+    "RoomIndex": 916,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "COLOSSEUM - Room 916"
+  },
+  {
+    "AreaName": "COLOSSEUM",
+    "RoomIndex": 918,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "COLOSSEUM - Room 918"
+  },
+  {
+    "AreaName": "SNAGEM HIDEOUT",
+    "RoomIndex": 168,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "SNAGEM HIDEOUT - Room 168"
+  },
+  {
+    "AreaName": "COLOSSEUM",
+    "RoomIndex": 917,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "COLOSSEUM - Room 917"
+  },
+  {
+    "AreaName": "OUTSKIRT STAND",
+    "RoomIndex": 500,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "OUTSKIRT STAND - Room 500"
+  },
+  {
+    "AreaName": "SNAGEM HIDEOUT",
+    "RoomIndex": 501,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "SNAGEM HIDEOUT - Room 501"
+  },
+  {
+    "AreaName": "PHENAC CITY",
+    "RoomIndex": 502,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "PHENAC CITY - Room 502"
+  },
+  {
+    "AreaName": "PHENAC CITY",
+    "RoomIndex": 503,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "PHENAC CITY - Room 503"
+  },
+  {
+    "AreaName": "PHENAC CITY",
+    "RoomIndex": 504,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "PHENAC CITY - Room 504"
+  },
+  {
+    "AreaName": "PYRITE TOWN",
+    "RoomIndex": 505,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "PYRITE TOWN - Room 505"
+  },
+  {
+    "AreaName": "PYRITE TOWN",
+    "RoomIndex": 506,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "PYRITE TOWN - Room 506"
+  },
+  {
+    "AreaName": "PYRITE TOWN",
+    "RoomIndex": 507,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "PYRITE TOWN - Room 507"
+  },
+  {
+    "AreaName": "AGATE VILLAGE",
+    "RoomIndex": 508,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "AGATE VILLAGE - Room 508"
+  },
+  {
+    "AreaName": "AGATE VILLAGE",
+    "RoomIndex": 509,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "AGATE VILLAGE - Room 509"
+  },
+  {
+    "AreaName": "AGATE VILLAGE",
+    "RoomIndex": 510,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "AGATE VILLAGE - Room 510"
+  },
+  {
+    "AreaName": "CIPHER LAB",
+    "RoomIndex": 514,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "CIPHER LAB - Room 514"
+  },
+  {
+    "AreaName": "CIPHER LAB",
+    "RoomIndex": 515,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "CIPHER LAB - Room 515"
+  },
+  {
+    "AreaName": "MT. BATTLE",
+    "RoomIndex": 516,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "MT. BATTLE - Room 516"
+  },
+  {
+    "AreaName": "MT. BATTLE",
+    "RoomIndex": 517,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "MT. BATTLE - Room 517"
+  },
+  {
+    "AreaName": "MT. BATTLE",
+    "RoomIndex": 518,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "MT. BATTLE - Room 518"
+  },
+  {
+    "AreaName": "MT. BATTLE",
+    "RoomIndex": 519,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "MT. BATTLE - Room 519"
+  },
+  {
+    "AreaName": "MT. BATTLE",
+    "RoomIndex": 520,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "MT. BATTLE - Room 520"
+  },
+  {
+    "AreaName": "REALGAM TOWER",
+    "RoomIndex": 521,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "REALGAM TOWER - Room 521"
+  },
+  {
+    "AreaName": "REALGAM TOWER",
+    "RoomIndex": 522,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "REALGAM TOWER - Room 522"
+  },
+  {
+    "AreaName": "REALGAM TOWER",
+    "RoomIndex": 523,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "REALGAM TOWER - Room 523"
+  },
+  {
+    "AreaName": "REALGAM TOWER",
+    "RoomIndex": 524,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "REALGAM TOWER - Room 524"
+  },
+  {
+    "AreaName": "REALGAM TOWER",
+    "RoomIndex": 525,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "REALGAM TOWER - Room 525"
+  },
+  {
+    "AreaName": "REALGAM TOWER",
+    "RoomIndex": 526,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "REALGAM TOWER - Room 526"
+  },
+  {
+    "AreaName": "COLOSSEUM",
+    "RoomIndex": 901,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "COLOSSEUM - Room 901"
+  },
+  {
+    "AreaName": "COLOSSEUM",
+    "RoomIndex": 919,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "COLOSSEUM - Room 919"
+  },
+  {
+    "AreaName": "COLOSSEUM",
+    "RoomIndex": 925,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "COLOSSEUM - Room 925"
+  },
+  {
+    "AreaName": "COLOSSEUM",
+    "RoomIndex": 902,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "COLOSSEUM - Room 902"
+  },
+  {
+    "AreaName": "CIPHER LAB",
+    "RoomIndex": 5,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "CIPHER LAB - Room 5"
+  },
+  {
+    "AreaName": "CIPHER LAB",
+    "RoomIndex": 6,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "CIPHER LAB - Room 6"
+  },
+  {
+    "AreaName": "COLOSSEUM",
+    "RoomIndex": 926,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "COLOSSEUM - Room 926"
+  },
+  {
+    "AreaName": "MT. BATTLE",
+    "RoomIndex": 528,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "MT. BATTLE - Room 528"
+  },
+  {
+    "AreaName": "COLOSSEUM",
+    "RoomIndex": 927,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "COLOSSEUM - Room 927"
+  },
+  {
+    "AreaName": "COLOSSEUM",
+    "RoomIndex": 903,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "COLOSSEUM - Room 903"
+  },
+  {
+    "AreaName": "COLOSSEUM",
+    "RoomIndex": 928,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "COLOSSEUM - Room 928"
+  },
+  {
+    "AreaName": "COLOSSEUM",
+    "RoomIndex": 929,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "COLOSSEUM - Room 929"
+  },
+  {
+    "AreaName": "MT. BATTLE",
+    "RoomIndex": 22,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "MT. BATTLE - Room 22"
+  },
+  {
+    "AreaName": "COLOSSEUM",
+    "RoomIndex": 996,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "COLOSSEUM - Room 996"
+  },
+  {
+    "AreaName": "PHENAC CITY",
+    "RoomIndex": 175,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "PHENAC CITY - Room 175"
+  },
+  {
+    "AreaName": "PHENAC CITY",
+    "RoomIndex": 176,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "PHENAC CITY - Room 176"
+  },
+  {
+    "AreaName": "PHENAC CITY",
+    "RoomIndex": 177,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "PHENAC CITY - Room 177"
+  },
+  {
+    "AreaName": "PHENAC CITY",
+    "RoomIndex": 178,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "PHENAC CITY - Room 178"
+  },
+  {
+    "AreaName": "PHENAC CITY",
+    "RoomIndex": 179,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "PHENAC CITY - Room 179"
+  },
+  {
+    "AreaName": "PHENAC CITY",
+    "RoomIndex": 180,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "PHENAC CITY - Room 180"
+  },
+  {
+    "AreaName": "PHENAC CITY",
+    "RoomIndex": 181,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "PHENAC CITY - Room 181"
+  },
+  {
+    "AreaName": "CITADARK ISLE",
+    "RoomIndex": 0,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "CITADARK ISLE - Room 0"
+  },
+  {
+    "AreaName": "REALGAM TOWER",
+    "RoomIndex": 4001,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "REALGAM TOWER - Room 4001"
+  },
+  {
+    "AreaName": "REALGAM TOWER",
+    "RoomIndex": 402,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "REALGAM TOWER - Room 402"
+  },
+  {
+    "AreaName": "REALGAM TOWER",
+    "RoomIndex": 403,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "REALGAM TOWER - Room 403"
+  },
+  {
+    "AreaName": "REALGAM TOWER",
+    "RoomIndex": 404,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "REALGAM TOWER - Room 404"
+  },
+  {
+    "AreaName": "REALGAM TOWER",
+    "RoomIndex": 405,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "REALGAM TOWER - Room 405"
+  },
+  {
+    "AreaName": "CITADARK ISLE",
+    "RoomIndex": 0,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "CITADARK ISLE - Room 0"
+  },
+  {
+    "AreaName": "S.S. LIBRA",
+    "RoomIndex": 35,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "S.S. LIBRA - Room 35"
+  },
+  {
+    "AreaName": "S.S. LIBRA",
+    "RoomIndex": 39,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "S.S. LIBRA - Room 39"
+  },
+  {
+    "AreaName": "S.S. LIBRA",
+    "RoomIndex": 36,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "S.S. LIBRA - Room 36"
+  },
+  {
+    "AreaName": "S.S. LIBRA",
+    "RoomIndex": 44,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "S.S. LIBRA - Room 44"
+  },
+  {
+    "AreaName": "S.S. LIBRA",
+    "RoomIndex": 43,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "S.S. LIBRA - Room 43"
+  },
+  {
+    "AreaName": "S.S. LIBRA",
+    "RoomIndex": 42,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "S.S. LIBRA - Room 42"
+  },
+  {
+    "AreaName": "S.S. LIBRA",
+    "RoomIndex": 37,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "S.S. LIBRA - Room 37"
+  },
+  {
+    "AreaName": "S.S. LIBRA",
+    "RoomIndex": 40,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "S.S. LIBRA - Room 40"
+  },
+  {
+    "AreaName": "S.S. LIBRA",
+    "RoomIndex": 41,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "S.S. LIBRA - Room 41"
+  },
+  {
+    "AreaName": "S.S. LIBRA",
+    "RoomIndex": 38,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "S.S. LIBRA - Room 38"
+  },
+  {
+    "AreaName": "CIPHER KEY LAIR",
+    "RoomIndex": 71,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "CIPHER KEY LAIR - Room 71"
+  },
+  {
+    "AreaName": "CIPHER KEY LAIR",
+    "RoomIndex": 64,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "CIPHER KEY LAIR - Room 64"
+  },
+  {
+    "AreaName": "CIPHER KEY LAIR",
+    "RoomIndex": 65,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "CIPHER KEY LAIR - Room 65"
+  },
+  {
+    "AreaName": "CIPHER KEY LAIR",
+    "RoomIndex": 66,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "CIPHER KEY LAIR - Room 66"
+  },
+  {
+    "AreaName": "CIPHER KEY LAIR",
+    "RoomIndex": 67,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "CIPHER KEY LAIR - Room 67"
+  },
+  {
+    "AreaName": "CIPHER KEY LAIR",
+    "RoomIndex": 70,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "CIPHER KEY LAIR - Room 70"
+  },
+  {
+    "AreaName": "CIPHER KEY LAIR",
+    "RoomIndex": 69,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "CIPHER KEY LAIR - Room 69"
+  },
+  {
+    "AreaName": "CIPHER KEY LAIR",
+    "RoomIndex": 68,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "CIPHER KEY LAIR - Room 68"
+  },
+  {
+    "AreaName": "POKEMON HQ LAB",
+    "RoomIndex": 143,
+    "Starting": true,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "POKEMON HQ LAB - Room 143"
+  },
+  {
+    "AreaName": "POKEMON HQ LAB",
+    "RoomIndex": 140,
+    "Starting": true,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "POKEMON HQ LAB - Room 140"
+  },
+  {
+    "AreaName": "POKEMON HQ LAB",
+    "RoomIndex": 141,
+    "Starting": true,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "POKEMON HQ LAB - Room 141"
+  },
+  {
+    "AreaName": "POKEMON HQ LAB",
+    "RoomIndex": 142,
+    "Starting": true,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "POKEMON HQ LAB - Room 142"
+  },
+  {
+    "AreaName": "POKEMON HQ LAB",
+    "RoomIndex": 138,
+    "Starting": true,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "POKEMON HQ LAB - Room 138"
+  },
+  {
+    "AreaName": "POKEMON HQ LAB",
+    "RoomIndex": 139,
+    "Starting": true,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "POKEMON HQ LAB - Room 139"
+  },
+  {
+    "AreaName": "GATEON PORT",
+    "RoomIndex": 153,
+    "Starting": true,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "GATEON PORT - Room 153"
+  },
+  {
+    "AreaName": "GATEON PORT",
+    "RoomIndex": 154,
+    "Starting": true,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "GATEON PORT - Room 154"
+  },
+  {
+    "AreaName": "GATEON PORT",
+    "RoomIndex": 155,
+    "Starting": true,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "GATEON PORT - Room 155"
+  },
+  {
+    "AreaName": "GATEON PORT",
+    "RoomIndex": 156,
+    "Starting": true,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "GATEON PORT - Room 156"
+  },
+  {
+    "AreaName": "GATEON PORT",
+    "RoomIndex": 157,
+    "Starting": true,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "GATEON PORT - Room 157"
+  },
+  {
+    "AreaName": "GATEON PORT",
+    "RoomIndex": 144,
+    "Starting": true,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "GATEON PORT - Room 144"
+  },
+  {
+    "AreaName": "GATEON PORT",
+    "RoomIndex": 145,
+    "Starting": true,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "GATEON PORT - Room 145"
+  },
+  {
+    "AreaName": "GATEON PORT",
+    "RoomIndex": 146,
+    "Starting": true,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "GATEON PORT - Room 146"
+  },
+  {
+    "AreaName": "GATEON PORT",
+    "RoomIndex": 151,
+    "Starting": true,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "GATEON PORT - Room 151"
+  },
+  {
+    "AreaName": "GATEON PORT",
+    "RoomIndex": 152,
+    "Starting": true,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "GATEON PORT - Room 152"
+  },
+  {
+    "AreaName": "GATEON PORT",
+    "RoomIndex": 147,
+    "Starting": true,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "GATEON PORT - Room 147"
+  },
+  {
+    "AreaName": "GATEON PORT",
+    "RoomIndex": 148,
+    "Starting": true,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "GATEON PORT - Room 148"
+  },
+  {
+    "AreaName": "GATEON PORT",
+    "RoomIndex": 149,
+    "Starting": true,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "GATEON PORT - Room 149"
+  },
+  {
+    "AreaName": "GATEON PORT",
+    "RoomIndex": 150,
+    "Starting": true,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "GATEON PORT - Room 150"
+  },
+  {
+    "AreaName": "GATEON PORT",
+    "RoomIndex": 158,
+    "Starting": true,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "GATEON PORT - Room 158"
+  },
+  {
+    "AreaName": "GATEON PORT",
+    "RoomIndex": 159,
+    "Starting": true,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "GATEON PORT - Room 159"
+  },
+  {
+    "AreaName": "GATEON PORT",
+    "RoomIndex": 160,
+    "Starting": true,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "GATEON PORT - Room 160"
+  },
+  {
+    "AreaName": "GATEON PORT",
+    "RoomIndex": 161,
+    "Starting": true,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "GATEON PORT - Room 161"
+  },
+  {
+    "AreaName": "GATEON PORT",
+    "RoomIndex": 162,
+    "Starting": true,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "GATEON PORT - Room 162"
+  },
+  {
+    "AreaName": "KAMINKOS HOUSE",
+    "RoomIndex": 173,
+    "Starting": true,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "KAMINKOS HOUSE - Room 173"
+  },
+  {
+    "AreaName": "KAMINKOS HOUSE",
+    "RoomIndex": 169,
+    "Starting": true,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "KAMINKOS HOUSE - Room 169"
+  },
+  {
+    "AreaName": "KAMINKOS HOUSE",
+    "RoomIndex": 170,
+    "Starting": true,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "KAMINKOS HOUSE - Room 170"
+  },
+  {
+    "AreaName": "KAMINKOS HOUSE",
+    "RoomIndex": 171,
+    "Starting": true,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "KAMINKOS HOUSE - Room 171"
+  },
+  {
+    "AreaName": "KAMINKOS HOUSE",
+    "RoomIndex": 172,
+    "Starting": true,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "KAMINKOS HOUSE - Room 172"
+  },
+  {
+    "AreaName": "CITADARK ISLE",
+    "RoomIndex": 86,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "CITADARK ISLE - Room 86"
+  },
+  {
+    "AreaName": "CITADARK ISLE",
+    "RoomIndex": 88,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "CITADARK ISLE - Room 88"
+  },
+  {
+    "AreaName": "CITADARK ISLE",
+    "RoomIndex": 72,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "CITADARK ISLE - Room 72"
+  },
+  {
+    "AreaName": "CITADARK ISLE",
+    "RoomIndex": 87,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "CITADARK ISLE - Room 87"
+  },
+  {
+    "AreaName": "CITADARK ISLE",
+    "RoomIndex": 76,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "CITADARK ISLE - Room 76"
+  },
+  {
+    "AreaName": "CITADARK ISLE",
+    "RoomIndex": 77,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "CITADARK ISLE - Room 77"
+  },
+  {
+    "AreaName": "CITADARK ISLE",
+    "RoomIndex": 78,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "CITADARK ISLE - Room 78"
+  },
+  {
+    "AreaName": "CITADARK ISLE",
+    "RoomIndex": 79,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "CITADARK ISLE - Room 79"
+  },
+  {
+    "AreaName": "CITADARK ISLE",
+    "RoomIndex": 80,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "CITADARK ISLE - Room 80"
+  },
+  {
+    "AreaName": "CITADARK ISLE",
+    "RoomIndex": 81,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "CITADARK ISLE - Room 81"
+  },
+  {
+    "AreaName": "CITADARK ISLE",
+    "RoomIndex": 82,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "CITADARK ISLE - Room 82"
+  },
+  {
+    "AreaName": "CITADARK ISLE",
+    "RoomIndex": 83,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "CITADARK ISLE - Room 83"
+  },
+  {
+    "AreaName": "CITADARK ISLE",
+    "RoomIndex": 84,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "CITADARK ISLE - Room 84"
+  },
+  {
+    "AreaName": "CITADARK ISLE",
+    "RoomIndex": 85,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "CITADARK ISLE - Room 85"
+  },
+  {
+    "AreaName": "CITADARK ISLE",
+    "RoomIndex": 73,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "CITADARK ISLE - Room 73"
+  },
+  {
+    "AreaName": "CITADARK ISLE",
+    "RoomIndex": 75,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "CITADARK ISLE - Room 75"
+  },
+  {
+    "AreaName": "CITADARK ISLE",
+    "RoomIndex": 74,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "CITADARK ISLE - Room 74"
+  },
+  {
+    "AreaName": "REALGAM TOWER",
+    "RoomIndex": 400,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "REALGAM TOWER - Room 400"
+  },
+  {
+    "AreaName": "REALGAM TOWER",
+    "RoomIndex": 401,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "REALGAM TOWER - Room 401"
+  },
+  {
+    "AreaName": "COLOSSEUM",
+    "RoomIndex": 995,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "COLOSSEUM - Room 995"
+  },
+  {
+    "AreaName": "COLOSSEUM",
+    "RoomIndex": 910,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "COLOSSEUM - Room 910"
+  },
+  {
+    "AreaName": "COLOSSEUM",
+    "RoomIndex": 406,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "COLOSSEUM - Room 406"
+  },
+  {
+    "AreaName": "COLOSSEUM",
+    "RoomIndex": 931,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "COLOSSEUM - Room 931"
+  },
+  {
+    "AreaName": "ROCK",
+    "RoomIndex": 90,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "ROCK - Room 90"
+  },
+  {
+    "AreaName": "OASIS",
+    "RoomIndex": 91,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "OASIS - Room 91"
+  },
+  {
+    "AreaName": "CAVE",
+    "RoomIndex": 92,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "CAVE - Room 92"
+  },
+  {
+    "AreaName": "CIPHER LAB",
+    "RoomIndex": 529,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "CIPHER LAB - Room 529"
+  },
+  {
+    "AreaName": "CIPHER KEY LAIR",
+    "RoomIndex": 530,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "CIPHER KEY LAIR - Room 530"
+  },
+  {
+    "AreaName": "CIPHER KEY LAIR",
+    "RoomIndex": 531,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "CIPHER KEY LAIR - Room 531"
+  },
+  {
+    "AreaName": "CIPHER KEY LAIR",
+    "RoomIndex": 532,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "CIPHER KEY LAIR - Room 532"
+  },
+  {
+    "AreaName": "CIPHER KEY LAIR",
+    "RoomIndex": 533,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "CIPHER KEY LAIR - Room 533"
+  },
+  {
+    "AreaName": "CITADARK ISLE",
+    "RoomIndex": 534,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "CITADARK ISLE - Room 534"
+  },
+  {
+    "AreaName": "CITADARK ISLE",
+    "RoomIndex": 535,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "CITADARK ISLE - Room 535"
+  },
+  {
+    "AreaName": "CITADARK ISLE",
+    "RoomIndex": 536,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "CITADARK ISLE - Room 536"
+  },
+  {
+    "AreaName": "CITADARK ISLE",
+    "RoomIndex": 537,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "CITADARK ISLE - Room 537"
+  },
+  {
+    "AreaName": "CITADARK ISLE",
+    "RoomIndex": 538,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "CITADARK ISLE - Room 538"
+  },
+  {
+    "AreaName": "POKEMON HQ LAB",
+    "RoomIndex": 540,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "POKEMON HQ LAB - Room 540"
+  },
+  {
+    "AreaName": "POKEMON HQ LAB",
+    "RoomIndex": 541,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "POKEMON HQ LAB - Room 541"
+  },
+  {
+    "AreaName": "GATEON PORT",
+    "RoomIndex": 542,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "GATEON PORT - Room 542"
+  },
+  {
+    "AreaName": "GATEON PORT",
+    "RoomIndex": 543,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "GATEON PORT - Room 543"
+  },
+  {
+    "AreaName": "KAMINKOS HOUSE",
+    "RoomIndex": 544,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "KAMINKOS HOUSE - Room 544"
+  },
+  {
+    "AreaName": "ROCK",
+    "RoomIndex": 545,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "ROCK - Room 545"
+  },
+  {
+    "AreaName": "OASIS",
+    "RoomIndex": 546,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "OASIS - Room 546"
+  },
+  {
+    "AreaName": "CAVE",
+    "RoomIndex": 547,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "CAVE - Room 547"
+  },
+  {
+    "AreaName": "REALGAM TOWER",
+    "RoomIndex": 548,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "REALGAM TOWER - Room 548"
+  },
+  {
+    "AreaName": "COLOSSEUM",
+    "RoomIndex": 915,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "COLOSSEUM - Room 915"
+  },
+  {
+    "AreaName": "COLOSSEUM",
+    "RoomIndex": 932,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "COLOSSEUM - Room 932"
+  },
+  {
+    "AreaName": "COLOSSEUM",
+    "RoomIndex": 933,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "COLOSSEUM - Room 933"
+  },
+  {
+    "AreaName": "COLOSSEUM",
+    "RoomIndex": 934,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "COLOSSEUM - Room 934"
+  },
+  {
+    "AreaName": "COLOSSEUM",
+    "RoomIndex": 904,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "COLOSSEUM - Room 904"
+  },
+  {
+    "AreaName": "PHENAC CITY",
+    "RoomIndex": 107,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "PHENAC CITY - Room 107"
+  },
+  {
+    "AreaName": "REALGAM TOWER",
+    "RoomIndex": 549,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "REALGAM TOWER - Room 549"
+  },
+  {
+    "AreaName": "CITADARK ISLE",
+    "RoomIndex": 89,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "CITADARK ISLE - Room 89"
+  },
+  {
+    "AreaName": "COLOSSEUM",
+    "RoomIndex": 935,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "COLOSSEUM - Room 935"
+  },
+  {
+    "AreaName": "COLOSSEUM",
+    "RoomIndex": 182,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "COLOSSEUM - Room 182"
+  },
+  {
+    "AreaName": "COLOSSEUM",
+    "RoomIndex": 905,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "COLOSSEUM - Room 905"
+  },
+  {
+    "AreaName": "COLOSSEUM",
+    "RoomIndex": 906,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "COLOSSEUM - Room 906"
+  },
+  {
+    "AreaName": "COLOSSEUM",
+    "RoomIndex": 907,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "COLOSSEUM - Room 907"
+  },
+  {
+    "AreaName": "COLOSSEUM",
+    "RoomIndex": 936,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "COLOSSEUM - Room 936"
+  },
+  {
+    "AreaName": "COLOSSEUM",
+    "RoomIndex": 908,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "COLOSSEUM - Room 908"
+  },
+  {
+    "AreaName": "CIPHER KEY LAIR",
+    "RoomIndex": 550,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "CIPHER KEY LAIR - Room 550"
+  },
+  {
+    "AreaName": "COLOSSEUM",
+    "RoomIndex": 183,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "COLOSSEUM - Room 183"
+  },
+  {
+    "AreaName": "COLOSSEUM",
+    "RoomIndex": 408,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "COLOSSEUM - Room 408"
+  },
+  {
+    "AreaName": "COLOSSEUM",
+    "RoomIndex": 409,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "COLOSSEUM - Room 409"
+  },
+  {
+    "AreaName": "COLOSSEUM",
+    "RoomIndex": 410,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "COLOSSEUM - Room 410"
+  },
+  {
+    "AreaName": "COLOSSEUM",
+    "RoomIndex": 411,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "COLOSSEUM - Room 411"
+  },
+  {
+    "AreaName": "COLOSSEUM",
+    "RoomIndex": 422,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "COLOSSEUM - Room 422"
+  },
+  {
+    "AreaName": "COLOSSEUM",
+    "RoomIndex": 423,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "COLOSSEUM - Room 423"
+  },
+  {
+    "AreaName": "COLOSSEUM",
+    "RoomIndex": 424,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "COLOSSEUM - Room 424"
+  },
+  {
+    "AreaName": "COLOSSEUM",
+    "RoomIndex": 425,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "COLOSSEUM - Room 425"
+  },
+  {
+    "AreaName": "COLOSSEUM",
+    "RoomIndex": 426,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "COLOSSEUM - Room 426"
+  },
+  {
+    "AreaName": "COLOSSEUM",
+    "RoomIndex": 427,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "COLOSSEUM - Room 427"
+  },
+  {
+    "AreaName": "COLOSSEUM",
+    "RoomIndex": 428,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "COLOSSEUM - Room 428"
+  },
+  {
+    "AreaName": "COLOSSEUM",
+    "RoomIndex": 429,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "COLOSSEUM - Room 429"
+  },
+  {
+    "AreaName": "COLOSSEUM",
+    "RoomIndex": 430,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "COLOSSEUM - Room 430"
+  },
+  {
+    "AreaName": "COLOSSEUM",
+    "RoomIndex": 431,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "COLOSSEUM - Room 431"
+  },
+  {
+    "AreaName": "COLOSSEUM",
+    "RoomIndex": 432,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "COLOSSEUM - Room 432"
+  },
+  {
+    "AreaName": "COLOSSEUM",
+    "RoomIndex": 433,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "COLOSSEUM - Room 433"
+  },
+  {
+    "AreaName": "COLOSSEUM",
+    "RoomIndex": 434,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "COLOSSEUM - Room 434"
+  },
+  {
+    "AreaName": "COLOSSEUM",
+    "RoomIndex": 407,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "COLOSSEUM - Room 407"
+  },
+  {
+    "AreaName": "COLOSSEUM",
+    "RoomIndex": 937,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "COLOSSEUM - Room 937"
+  },
+  {
+    "AreaName": "COLOSSEUM",
+    "RoomIndex": 909,
+    "Starting": false,
+    "Requires": null,
+    "ConnectsTo": [],
+    "Name": "COLOSSEUM - Room 909"
+  }
+]

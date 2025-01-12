@@ -16,7 +16,7 @@
   },
   {
     "Index": 4,
-    "Name": "POK\uFFFD BALL",
+    "Name": "POKE BALL",
     "BagSlot": "Pokeballs"
   },
   {
@@ -336,7 +336,7 @@
   },
   {
     "Index": 80,
-    "Name": "POK\uFFFD DOLL",
+    "Name": "POKE DOLL",
     "BagSlot": "Items"
   },
   {
@@ -686,7 +686,7 @@
   },
   {
     "Index": 187,
-    "Name": "KING\u0027S ROCK",
+    "Name": "KINGS ROCK",
     "BagSlot": "Items"
   },
   {
@@ -1176,7 +1176,7 @@
   },
   {
     "Index": 504,
-    "Name": "GONZAP\u0027S KEY",
+    "Name": "GONZAPS KEY",
     "BagSlot": "KeyItems"
   },
   {
@@ -1201,7 +1201,7 @@
   },
   {
     "Index": 509,
-    "Name": "MAYOR\u0027S NOTE",
+    "Name": "MAYORS NOTE",
     "BagSlot": "KeyItems"
   },
   {
@@ -1211,7 +1211,7 @@
   },
   {
     "Index": 511,
-    "Name": "POK\uFFFD SNACK",
+    "Name": "POKE SNACK",
     "BagSlot": "Items"
   },
   {

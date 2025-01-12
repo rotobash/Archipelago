@@ -1,7 +1,7 @@
 import settings
 import typing
-from .Data import generate_story_events, generate_shadow_pokemon_lists, generate_treasure_list, generate_pokespot_pokemon_lists, generate_purify_pokemon_lists, generate_trainer_battle_lists
-from .Options import xd_options, PokemonItemOptionType, TrainersanityOptionType
+from .Data import generate_shadow_pokemon_lists, generate_treasure_list, generate_pokespot_pokemon_lists, generate_purify_pokemon_lists, generate_trainer_battle_lists
+from .Options import PokemonXDOptions, PokemonItemOptionType, TrainersanityOptionType
 from .Regions import PokemonXDRegion, create_pokemonxd_regions
 from worlds.AutoWorld import World
 
@@ -15,7 +15,8 @@ class PokemonXDSettings(settings.Group):
 class PokemonXDWorld(World):
     """Insert description of the world/game here."""
     game = "Pokemon XD"
-    options_dataclass = xd_options
+    options_dataclass = PokemonXDOptions
+    options: PokemonXDOptions
     settings: typing.ClassVar[PokemonXDSettings]  # will be automatically assigned from type hint
     topology_present = True  # show path to required location checks in spoiler
     base_id = 0x47585800
@@ -30,22 +31,22 @@ class PokemonXDWorld(World):
 
         address = self.base_id
 
-        if self.multiworld.ItemChecks[self.player].value:
+        if self.options.item_checks:
             address += generate_treasure_list(self.player, address, region_to_location_list)
 
-        pokemon_as_items = self.multiworld.PokemonAsItems[self.player].value
-        if len(pokemon_as_items) > 0:
-            if PokemonItemOptionType.POKESPOTS in pokemon_as_items:
+        pokemon_as_items = self.options.pokemon_as_items
+        if self.options.pokemon_as_items_toggle:
+            if PokemonItemOptionType.Pokespots.name in pokemon_as_items:
                 address += generate_pokespot_pokemon_lists(self.player, address, region_to_location_list)
 
-            if PokemonItemOptionType.SNAGS in pokemon_as_items:
+            if PokemonItemOptionType.Snags.name in pokemon_as_items:
                 address += generate_shadow_pokemon_lists(self.player, address, region_to_location_list)
 
-        if self.multiworld.PurifyPokemon[self.player].value:
+        if self.options.purify_pokemon:
             address += generate_purify_pokemon_lists(self.player, address, region_to_location_list)
 
-        trainer_sanity = self.multiworld.Trainersanity[self.player].value
-        if trainer_sanity:
+        if self.options.trainersanity_toggle:
+            trainer_sanity = self.options.trainersanity
             address += generate_trainer_battle_lists(self.player, address, region_to_location_list)
 
         for region_id, locations in region_to_location_list:

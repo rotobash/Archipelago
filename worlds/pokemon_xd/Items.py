@@ -1,9 +1,8 @@
-import enum
-import json
+from enum import Enum
 from typing import Optional
 from BaseClasses import Item, ItemClassification
 
-class PokemonItemType(enum):
+class PokemonItemType(Enum):
     EVENT = 0,
     ITEM = 1,
     POKEMON = 2,

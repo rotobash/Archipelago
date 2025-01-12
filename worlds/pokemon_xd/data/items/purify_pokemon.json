@@ -1,657 +1,821 @@
 [
   {
     "ItemIndex": 0,
+    "Index": 330,
     "Quantity": 0,
     "Name": "ZANGOOSE",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 121,
     "Quantity": 0,
     "Name": "LEDYBA",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 125,
     "Quantity": 0,
     "Name": "POOCHYENA",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 130,
     "Quantity": 0,
     "Name": "TEDDIURSA",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 486,
     "Quantity": 0,
     "Name": "HOUNDOUR",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 489,
     "Quantity": 0,
     "Name": "SPHEAL",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 492,
     "Quantity": 0,
     "Name": "BALTOY",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 495,
     "Quantity": 0,
     "Name": "MAREEP",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 498,
     "Quantity": 0,
     "Name": "GULPIN",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 501,
     "Quantity": 0,
     "Name": "SEEDOT",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 176,
     "Quantity": 0,
     "Name": "SPINARAK",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 179,
     "Quantity": 0,
     "Name": "NUMEL",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 188,
     "Quantity": 0,
     "Name": "CARVANHA",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 192,
     "Quantity": 0,
     "Name": "SHROOMISH",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 196,
     "Quantity": 0,
     "Name": "DELCATTY",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 209,
     "Quantity": 0,
     "Name": "VOLTORB",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 214,
     "Quantity": 0,
     "Name": "VULPIX",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 219,
     "Quantity": 0,
     "Name": "MAKUHITA",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 227,
     "Quantity": 0,
     "Name": "DUSKULL",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 231,
     "Quantity": 0,
     "Name": "RALTS",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 234,
     "Quantity": 0,
     "Name": "MAWILE",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 237,
     "Quantity": 0,
     "Name": "SNORUNT",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 240,
     "Quantity": 0,
     "Name": "PINECO",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 250,
     "Quantity": 0,
     "Name": "SWINUB",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 253,
     "Quantity": 0,
     "Name": "NATU",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 256,
     "Quantity": 0,
     "Name": "ROSELIA",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 259,
     "Quantity": 0,
     "Name": "MEOWTH",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 262,
     "Quantity": 0,
     "Name": "SPEAROW",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 265,
     "Quantity": 0,
     "Name": "GRIMER",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 268,
     "Quantity": 0,
     "Name": "SEEL",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 271,
     "Quantity": 0,
     "Name": "LUNATONE",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 315,
     "Quantity": 0,
     "Name": "NOSEPASS",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 335,
     "Quantity": 0,
     "Name": "PARAS",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 337,
     "Quantity": 0,
     "Name": "GROWLITHE",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 342,
     "Quantity": 0,
     "Name": "SHELLDER",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 346,
     "Quantity": 0,
     "Name": "BEEDRILL",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 348,
     "Quantity": 0,
     "Name": "PIDGEOTTO",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 353,
     "Quantity": 0,
     "Name": "TANGELA",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 355,
     "Quantity": 0,
     "Name": "BUTTERFREE",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 359,
     "Quantity": 0,
     "Name": "MAGNETON",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 363,
     "Quantity": 0,
     "Name": "VENOMOTH",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 365,
     "Quantity": 0,
     "Name": "WEEPINBELL",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 369,
     "Quantity": 0,
     "Name": "ARBOK",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 372,
     "Quantity": 0,
     "Name": "PRIMEAPE",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 374,
     "Quantity": 0,
     "Name": "HYPNO",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 379,
     "Quantity": 0,
     "Name": "GOLDUCK",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 381,
     "Quantity": 0,
     "Name": "SABLEYE",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 385,
     "Quantity": 0,
     "Name": "DODRIO",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 387,
     "Quantity": 0,
     "Name": "RATICATE",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 392,
     "Quantity": 0,
     "Name": "FARFETCH\u0027D",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 394,
     "Quantity": 0,
     "Name": "ALTARIA",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 398,
     "Quantity": 0,
     "Name": "KANGASKHAN",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 400,
     "Quantity": 0,
     "Name": "BANETTE",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 404,
     "Quantity": 0,
     "Name": "MAGMAR",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 406,
     "Quantity": 0,
     "Name": "PINSIR",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 414,
     "Quantity": 0,
     "Name": "RAPIDASH",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 416,
     "Quantity": 0,
     "Name": "MAGCARGO",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 420,
     "Quantity": 0,
     "Name": "HITMONCHAN",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 423,
     "Quantity": 0,
     "Name": "HITMONLEE",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 428,
     "Quantity": 0,
     "Name": "LICKITUNG",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 431,
     "Quantity": 0,
     "Name": "SCYTHER",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 433,
     "Quantity": 0,
     "Name": "CHANSEY",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 436,
     "Quantity": 0,
     "Name": "SOLROCK",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 438,
     "Quantity": 0,
     "Name": "STARMIE",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 442,
     "Quantity": 0,
     "Name": "SWELLOW",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 444,
     "Quantity": 0,
     "Name": "ELECTABUZZ",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 446,
     "Quantity": 0,
     "Name": "SNORLAX",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 449,
     "Quantity": 0,
     "Name": "POLIWRATH",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 451,
     "Quantity": 0,
     "Name": "MR. MIME",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 454,
     "Quantity": 0,
     "Name": "DUGTRIO",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 457,
     "Quantity": 0,
     "Name": "MANECTRIC",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 459,
     "Quantity": 0,
     "Name": "SALAMENCE",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 461,
     "Quantity": 0,
     "Name": "MAROWAK",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 463,
     "Quantity": 0,
     "Name": "LAPRAS",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 468,
     "Quantity": 0,
     "Name": "LUGIA",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 471,
     "Quantity": 0,
     "Name": "RHYDON",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 473,
     "Quantity": 0,
     "Name": "MOLTRES",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 475,
     "Quantity": 0,
     "Name": "EXEGGUTOR",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 477,
     "Quantity": 0,
     "Name": "TAUROS",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 479,
     "Quantity": 0,
     "Name": "ARTICUNO",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 481,
     "Quantity": 0,
     "Name": "ZAPDOS",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "ItemIndex": 0,
+    "Index": 516,
     "Quantity": 0,
     "Name": "DRAGONITE",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   }

@@ -1,89 +1,91 @@
 [
   {
     "PokemonIndex": 27,
+    "Index": 1616,
     "Quantity": 1,
     "Name": "Rock PokeSpot - SANDSHREW",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "PokemonIndex": 207,
+    "Index": 1617,
     "Quantity": 1,
     "Name": "Rock PokeSpot - GLIGAR",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "PokemonIndex": 332,
+    "Index": 1618,
     "Quantity": 1,
     "Name": "Rock PokeSpot - TRAPINCH",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "PokemonIndex": 187,
+    "Index": 1619,
     "Quantity": 1,
     "Name": "Oasis PokeSpot - HOPPIP",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "PokemonIndex": 231,
+    "Index": 1620,
     "Quantity": 1,
     "Name": "Oasis PokeSpot - PHANPY",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "PokemonIndex": 311,
+    "Index": 1621,
     "Quantity": 1,
     "Name": "Oasis PokeSpot - SURSKIT",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "PokemonIndex": 41,
+    "Index": 1622,
     "Quantity": 1,
     "Name": "Cave PokeSpot - ZUBAT",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "PokemonIndex": 382,
+    "Index": 1623,
     "Quantity": 1,
     "Name": "Cave PokeSpot - ARON",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   },
   {
     "PokemonIndex": 194,
+    "Index": 1624,
     "Quantity": 1,
     "Name": "Cave PokeSpot - WOOPER",
-    "ItemClassifications": [
-      "Useful"
-    ]
-  },
-  {
-    "PokemonIndex": 413,
-    "Quantity": 1,
-    "Name": "All PokeSpot - BONSLY",
-    "ItemClassifications": [
-      "Useful"
-    ]
-  },
-  {
-    "PokemonIndex": 414,
-    "Quantity": 1,
-    "Name": "All PokeSpot - MUNCHLAX",
-    "ItemClassifications": [
+    "Progression": false,
+    "ItemClassification": [
       "Useful"
     ]
   }

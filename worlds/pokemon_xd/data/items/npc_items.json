@@ -1,0 +1,22 @@
+[
+    {
+      "ItemIndex": 505,
+      "Index": 0,
+      "Quantity": 1,
+      "Name": "DATA ROM x 1",
+      "Progression": true,
+      "ItemClassification": [
+        "Useful"
+      ]
+    },
+    {
+      "ItemIndex": 189,
+      "Index": 0,
+      "Quantity": 1,
+      "Name": "AMULET COIN x 1",
+      "Progression": false,
+      "ItemClassification": [
+        "Useful"
+      ]
+    }
+]
