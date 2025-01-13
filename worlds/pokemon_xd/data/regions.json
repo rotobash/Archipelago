@@ -1200,14 +1200,6 @@
     "Name": "PHENAC CITY - Room 181"
   },
   {
-    "AreaName": "CITADARK ISLE",
-    "RoomIndex": 0,
-    "Starting": false,
-    "Requires": null,
-    "ConnectsTo": [],
-    "Name": "CITADARK ISLE - Room 0"
-  },
-  {
     "AreaName": "REALGAM TOWER",
     "RoomIndex": 4001,
     "Starting": false,
