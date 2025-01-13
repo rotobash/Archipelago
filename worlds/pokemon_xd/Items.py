@@ -27,7 +27,7 @@ class PokemonXDItem(Item):
         flag = 0
         self.quantity = data["Quantity"]
         self.name = data["Name"]
-        item_classifications: list[str] = data["ItemClassifications"]
+        item_classifications: list[str] = data["ItemClassification"]
 
         for cls in item_classifications:
             cls = cls.lower()
@@ -38,7 +38,7 @@ class PokemonXDItem(Item):
             elif cls == ItemClassification.filler.name:
                 flag &= ItemClassification.filler
 
-        super.__init__(self, self.name, flag, code, player)
+        super().__init__(self.name, flag, code + data["Index"], player)
 
 
 class PokemonXDPokemonItem(PokemonXDItem):
@@ -50,12 +50,10 @@ class PokemonXDMoneyItem(PokemonXDItem):
     item_type = PokemonItemType.MONEY
 
 class PokemonXDPurifyPokemonItem(PokemonXDItem):
-    shadow_index = 0
     item_type = PokemonItemType.PURIFY
 
     def __init__(self, code: Optional[int], player: int, **data):
-        self.shadow_index = data["ShadowIndex"]
-        super.__init__(self, code, player, **data)
+        super().__init__(code, player, **data)
 
 class PokemonXDFoundItem(PokemonXDItem):
     item_index = 0
@@ -63,4 +61,4 @@ class PokemonXDFoundItem(PokemonXDItem):
     
     def __init__(self, code: Optional[int], player: int, **data):
         self.item_index = data["ItemIndex"]
-        super.__init__(self, code, player, **data)
+        super().__init__(code, player, **data)

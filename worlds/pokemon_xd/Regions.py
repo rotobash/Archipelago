@@ -1,6 +1,6 @@
 from BaseClasses import MultiWorld, Region, CollectionState
 from worlds.generic.Rules import add_rule
-import json
+from .json import load_region_json
 
 from  .Items import PokemonXDStoryEvent
 from .Locations import PokemonXDLocation
@@ -11,13 +11,18 @@ def exit(state: CollectionState) -> bool:
 
 class PokemonXDRegion(Region):
     game: str = "Pokemon XD"
-    area_id: int = 0
-    story_flag: str = ""
+    room_id: int = 0
+    area_name: str = ""
+    requires: str = ""
+    connects_to: list[int] = []
     starting: bool = False
 
     def __init__(self, player: int, multiworld: MultiWorld, hint = None, **data):
-        self.area_id = data["AreaId"]
-        self.room_id = data["StoryFlag"]
+        self.room_id = data["RoomIndex"]
+        self.area_name = data["AreaName"]
+        self.starting = data["Starting"]
+        self.requires = data["Requires"]
+        self.connects_to = data["ConnectsTo"]
         name = data["Name"]
         super().__init__(name, player, multiworld, hint)
 
@@ -34,52 +39,44 @@ class PokemonXDRoom(PokemonXDRegion):
         self.room_id = data["RoomId"]
         super().__init__(player, multiworld, hint, **data)
 
-def generate_story_events(player: int):
-    story_flags: list[dict] = json.loads("data/story_flags.json")
-    events: list[PokemonXDLocation] = []
-    prev_item: PokemonXDStoryEvent = None
+# def generate_story_events(player: int):
+#     story_flags: list[dict] = json.loads("data/story_flags.json")
+#     events: list[PokemonXDLocation] = []
+#     prev_item: PokemonXDStoryEvent = None
 
-    for story_flag in story_flags:
-        story_flag_item = PokemonXDStoryEvent(player, **story_flag)
-        story_flag_location = PokemonXDLocation(player, None, None, **story_flag)
+#     for story_flag in story_flags:
+#         story_flag_item = PokemonXDStoryEvent(player, **story_flag)
+#         story_flag_location = PokemonXDLocation(player, None, None, **story_flag)
 
-        story_flag_location.place_locked_item(story_flag_item)
+#         story_flag_location.place_locked_item(story_flag_item)
 
-        if prev_item is not None:
-            add_rule(story_flag_location, lambda state: state.has(prev_item.name))
+#         if prev_item is not None:
+#             add_rule(story_flag_location, lambda state: state.has(prev_item.name))
 
-        prev_item = story_flag_item
-        events.append(story_flag_location)  
+#         prev_item = story_flag_item
+#         events.append(story_flag_location)  
     
-    return events
+#     return events
 
 def create_pokemonxd_regions(player: int, multiworld: MultiWorld) -> list[PokemonXDArea]:
-    areas_obj: list[dict] = json.loads("data/areas.json")
-    rooms_obj: list[dict] = json.loads("data/rooms.json")
+    # areas_obj: list[dict] = json.loads("data/areas.json")
+    rooms_obj: list[dict] = load_region_json("regions.json")
 
-    hub_area: PokemonXDArea = PokemonXDArea(player, multiworld, None, **{"Name": "Menu", "Starting": True, "AreaId": 0})
-    hub_area.locations += generate_story_events()
+    hub_area: PokemonXDRegion = PokemonXDRegion(player, multiworld, None, **{"Name": "Menu", "Starting": True, "AreaName": "HUB", "RoomIndex": 0, "Requires": None, "ConnectsTo": []})
+    # hub_area.locations += generate_story_events()
 
-    areas = [hub_area]
-    rooms: list[PokemonXDRegion] = []
+    rooms: dict[str, list[PokemonXDRegion]] = {}
     
     for room_obj in rooms_obj:
-        rooms.append(PokemonXDRegion(player, multiworld, None, **room_obj))
+        room = PokemonXDRegion(player, multiworld, None, **room_obj)
+        if not room.area_name in rooms:
+            rooms[room.area_name] = []
 
-    for area_obj in areas_obj:
-        area = PokemonXDArea(player, multiworld, None, **area_obj)
+        rooms[room.area_name].append(room)
 
-        if not area.starting:
-            hub_area.connect(area, area.name, lambda state: state.has(area.story_flag, player))
-        else:
-            hub_area.connect(area, area.name)
-
-        for room in rooms:
-            if room.area_id == area.area_id:
-                area.connect(room, f"{area.name} - Subarea {room.room_id}", lambda state: state.has(room.story_flag))
-
-        
-        areas.append(area)
+    for area in rooms.values():
+        for room in area:
+            multiworld.regions.append(room)
 
     
     multiworld.regions.append(hub_area)

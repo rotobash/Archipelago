@@ -55,6 +55,6 @@ class PokemonXDOptions(PerGameCommonOptions):
     pokemon_as_items_toggle: PokemonAsItemsToggle
     pokemon_as_items: PokemonAsItemsOptions
     purify_pokemon: PurifyPokemon
-    trainersanity_toggle: TrainersanityOptions
+    trainersanity_toggle: TrainersanityToggle
     trainersanity: TrainersanityOptions
     death_link: DeathLink

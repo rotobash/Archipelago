@@ -3,30 +3,24 @@ from BaseClasses import Location, Region
 
 class PokemonXDLocation(Location):
     game: str = "Pokemon XD"
-    area_id: int = 0
+    area_name: str = ""
     room_id: int = 0
 
     def __init__(self, player: int, address: Optional[int], parent: Optional[Region], **data):
         name = data["Name"]
-        self.area_id = data["AreaId"]
+        self.area_name = data["AreaName"]
         self.room_id = data["RoomId"]
-        super().__init__(player, name, address, parent)
+        super().__init__(player, name, address + data["Index"], parent)
 
 
-class PokemonXDShadowPokemonLocation(PokemonXDLocation):
+class PokemonXDPokemonLocation(PokemonXDLocation):
+    pokemon_index = 0
     shadow_index = 0
 
     def __init__(self, player: int, address: Optional[int], parent: Optional[Region], **data):
+        if "PokemonIndex" in data:
+            self.pokemon_index = data["PokemonIndex"]
         self.shadow_index = data["ShadowIndex"]
-        super().__init__(player, address, parent, **data)
-
-class PokemonXDPokespotPokemonLocation(PokemonXDLocation):
-    pokespot = ""
-    pokemon_index = 0
-
-    def __init__(self, player: int, address: Optional[int], parent: Optional[Region], **data):
-        self.pokespot = data["Pokespot"]
-        self.pokemon_index = data["PokemonIndex"]
         super().__init__(player, address, parent, **data)
 
 class PokemonXDTrainerBattleLocation(PokemonXDLocation):
@@ -37,10 +31,7 @@ class PokemonXDTrainerBattleLocation(PokemonXDLocation):
         super().__init__(player, address, parent, **data)
 
 class PokemonXDItemLocation(PokemonXDLocation):
-    item_index = 0
-
     def __init__(self, player: int, address: Optional[int], parent: Optional[Region], **data):
-        self.item_index  = data["ItemIndex"]
         super().__init__(player, address, parent, **data)
 
 
