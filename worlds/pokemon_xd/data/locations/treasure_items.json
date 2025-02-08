@@ -93,7 +93,7 @@
     "Index": 11,
     "AreaName": "AGATE VILLAGE",
     "RoomId": 126,
-    "Name": "AGATE VILLAGE - Treasure Chest Item (POKE BALL x 1)"
+    "Name": "AGATE VILLAGE - Tutor Lady Treasure Chest Item 1"
   },
   {
     "TreasureIndex": 13,
@@ -101,7 +101,7 @@
     "Index": 12,
     "AreaName": "AGATE VILLAGE",
     "RoomId": 126,
-    "Name": "AGATE VILLAGE - Treasure Chest Item (SUPER POTION x 1)"
+    "Name": "AGATE VILLAGE - Tutor Lady Treasure Chest Item 2"
   },
   {
     "TreasureIndex": 14,
@@ -133,7 +133,7 @@
     "Index": 16,
     "AreaName": "CIPHER LAB",
     "RoomId": 8,
-    "Name": "CIPHER LAB - Sparkling Item (DATA ROM x 1)"
+    "Name": "CIPHER LAB - Dropped Data ROM"
   },
   {
     "TreasureIndex": 18,
@@ -141,7 +141,7 @@
     "Index": 17,
     "AreaName": "CIPHER LAB",
     "RoomId": 8,
-    "Name": "CIPHER LAB - Sparkling Item (ID CARD x 1)"
+    "Name": "CIPHER LAB - Dropped ID Card"
   },
   {
     "TreasureIndex": 19,
@@ -149,7 +149,7 @@
     "Index": 18,
     "AreaName": "CIPHER LAB",
     "RoomId": 8,
-    "Name": "CIPHER LAB - Treasure Chest Item (ETHER x 1)"
+    "Name": "CIPHER LAB - Lab Entrance Treasure Chest Item 2"
   },
   {
     "TreasureIndex": 20,
@@ -173,7 +173,7 @@
     "Index": 21,
     "AreaName": "CIPHER LAB",
     "RoomId": 8,
-    "Name": "CIPHER LAB - Treasure Chest Item (GREAT BALL x 1)"
+    "Name": "CIPHER LAB - Lab Entrance Treasure Chest Item"
   },
   {
     "TreasureIndex": 23,
@@ -197,7 +197,7 @@
     "Index": 24,
     "AreaName": "CIPHER LAB",
     "RoomId": 10,
-    "Name": "CIPHER LAB - Treasure Chest Item (GREAT BALL x 1)"
+    "Name": "CIPHER LAB - Lab Basement Treasure Chest Item"
   },
   {
     "TreasureIndex": 26,
@@ -205,7 +205,7 @@
     "Index": 25,
     "AreaName": "CIPHER LAB",
     "RoomId": 10,
-    "Name": "CIPHER LAB - Treasure Chest Item (REVIVE x 1)"
+    "Name": "CIPHER LAB - Lab Basement Treasure Chest Item 2"
   },
   {
     "TreasureIndex": 27,
@@ -213,7 +213,7 @@
     "Index": 26,
     "AreaName": "CIPHER LAB",
     "RoomId": 10,
-    "Name": "CIPHER LAB - Treasure Chest Item (ETHER x 1)"
+    "Name": "CIPHER LAB - Lab Basement Treasure Chest Item 3"
   },
   {
     "TreasureIndex": 28,
@@ -445,7 +445,7 @@
     "Index": 55,
     "AreaName": "CIPHER KEY LAIR",
     "RoomId": 64,
-    "Name": "CIPHER KEY LAIR - Treasure Chest Item (REVIVE x 2)"
+    "Name": "CIPHER KEY LAIR - Treasure Chest Item 1"
   },
   {
     "TreasureIndex": 57,
@@ -477,7 +477,7 @@
     "Index": 59,
     "AreaName": "CITADARK ISLE",
     "RoomId": 77,
-    "Name": "CITADARK ISLE - Treasure Chest Item (REVIVE x 2)"
+    "Name": "CITADARK ISLE - Treasure Chest Item 2"
   },
   {
     "TreasureIndex": 61,
@@ -581,7 +581,7 @@
     "Index": 72,
     "AreaName": "CITADARK ISLE",
     "RoomId": 85,
-    "Name": "CITADARK ISLE - Treasure Chest Item (FULL RESTORE x 2)"
+    "Name": "CITADARK ISLE - Treasure Chest Item 3"
   },
   {
     "TreasureIndex": 74,
@@ -597,7 +597,7 @@
     "Index": 74,
     "AreaName": "CITADARK ISLE",
     "RoomId": 73,
-    "Name": "CITADARK ISLE - Treasure Chest Item (MAX REVIVE x 1)"
+    "Name": "CITADARK ISLE - Treasure Chest Item 4"
   },
   {
     "TreasureIndex": 76,
@@ -861,7 +861,7 @@
     "Index": 107,
     "AreaName": "KAMINKOS HOUSE",
     "RoomId": 171,
-    "Name": "KAMINKOS HOUSE - Treasure Chest Item (RARE CANDY x 1)"
+    "Name": "KAMINKOS HOUSE - Basement Treasure Chest Item"
   },
   {
     "TreasureIndex": 109,

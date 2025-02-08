@@ -10,6 +10,66 @@
       ]
     },
     {
+      "ItemIndex": 523,
+      "Index": 0,
+      "Quantity": 1,
+      "Name": "KRANE MEMO 1 x 1",
+      "Progression": false,
+      "ItemClassification": [
+        "Filler"
+      ]
+    },
+    {
+      "ItemIndex": 524,
+      "Index": 0,
+      "Quantity": 1,
+      "Name": "KRANE MEMO 2 x 1",
+      "Progression": false,
+      "ItemClassification": [
+        "Filler"
+      ]
+    },
+    {
+      "ItemIndex": 525,
+      "Index": 0,
+      "Quantity": 1,
+      "Name": "KRANE MEMO 3 x 1",
+      "Progression": false,
+      "ItemClassification": [
+        "Filler"
+      ]
+    },
+    {
+      "ItemIndex": 526,
+      "Index": 0,
+      "Quantity": 1,
+      "Name": "KRANE MEMO 4 x 1",
+      "Progression": false,
+      "ItemClassification": [
+        "Filler"
+      ]
+    },
+    {
+      "ItemIndex": 527,
+      "Index": 0,
+      "Quantity": 1,
+      "Name": "KRANE MEMO 5 x 1",
+      "Progression": false,
+      "ItemClassification": [
+        "Filler"
+      ]
+    },
+    {
+      "ItemIndex": 505,
+      "Index": 0,
+      "Quantity": 1,
+      "Name": "MACHINE PART x 1",
+      "Progression": true,
+      "ItemClassification": [
+        "Useful"
+      ]
+    },
+    {
       "ItemIndex": 189,
       "Index": 0,
       "Quantity": 1,

@@ -15,7 +15,7 @@
     "Index": 114,
     "AreaName": "POKEMON HQ LAB",
     "RoomId": 541,
-    "Name": "Defeat AFERD at POKEMON HQ LAB"
+    "Name": "Defeat AFERD at POKEMON HQ LAB 1"
   },
   {
     "TrainerIndex": 9,
@@ -69,7 +69,7 @@
     "Index": 126,
     "AreaName": "KAMINKOS HOUSE",
     "RoomId": 544,
-    "Name": "Defeat CHOBIN at KAMINKOS HOUSE"
+    "Name": "Defeat CHOBIN at KAMINKOS HOUSE 1"
   },
   {
     "TrainerIndex": 16,
@@ -78,7 +78,7 @@
     "Index": 127,
     "AreaName": "GATEON PORT",
     "RoomId": 542,
-    "Name": "Defeat LAKEN at GATEON PORT"
+    "Name": "Defeat LAKEN at GATEON PORT 1"
   },
   {
     "TrainerIndex": 17,
@@ -96,7 +96,7 @@
     "Index": 131,
     "AreaName": "KAMINKOS HOUSE",
     "RoomId": 544,
-    "Name": "Defeat CHOBIN at KAMINKOS HOUSE"
+    "Name": "Defeat CHOBIN at KAMINKOS HOUSE 2"
   },
   {
     "TrainerIndex": 19,
@@ -114,7 +114,7 @@
     "Index": 133,
     "AreaName": "AGATE VILLAGE",
     "RoomId": 508,
-    "Name": "Defeat BELISH at AGATE VILLAGE"
+    "Name": "Defeat BELISH at AGATE VILLAGE 1"
   },
   {
     "TrainerIndex": 21,
@@ -123,7 +123,7 @@
     "Index": 134,
     "AreaName": "AGATE VILLAGE",
     "RoomId": 508,
-    "Name": "Defeat CIDA at AGATE VILLAGE"
+    "Name": "Defeat CIDA at AGATE VILLAGE 1"
   },
   {
     "TrainerIndex": 22,
@@ -132,7 +132,7 @@
     "Index": 135,
     "AreaName": "AGATE VILLAGE",
     "RoomId": 508,
-    "Name": "Defeat DOSK at AGATE VILLAGE"
+    "Name": "Defeat DOSK at AGATE VILLAGE 1"
   },
   {
     "TrainerIndex": 23,
@@ -141,7 +141,7 @@
     "Index": 136,
     "AreaName": "AGATE VILLAGE",
     "RoomId": 508,
-    "Name": "Defeat HEBON at AGATE VILLAGE"
+    "Name": "Defeat HEBON at AGATE VILLAGE 1"
   },
   {
     "TrainerIndex": 24,
@@ -186,7 +186,7 @@
     "Index": 141,
     "AreaName": "AGATE VILLAGE",
     "RoomId": 509,
-    "Name": "Defeat EAGUN at AGATE VILLAGE"
+    "Name": "Defeat EAGUN at AGATE VILLAGE 1"
   },
   {
     "TrainerIndex": 29,
@@ -195,7 +195,7 @@
     "Index": 142,
     "AreaName": "AGATE VILLAGE",
     "RoomId": 508,
-    "Name": "Defeat CIDA at AGATE VILLAGE"
+    "Name": "Defeat CIDA at AGATE VILLAGE 2"
   },
   {
     "TrainerIndex": 30,
@@ -231,7 +231,7 @@
     "Index": 146,
     "AreaName": "CIPHER LAB",
     "RoomId": 514,
-    "Name": "Defeat RESIX at CIPHER LAB"
+    "Name": "Defeat RESIX at CIPHER LAB 1"
   },
   {
     "TrainerIndex": 34,
@@ -240,7 +240,7 @@
     "Index": 149,
     "AreaName": "CIPHER LAB",
     "RoomId": 514,
-    "Name": "Defeat BLUSIX at CIPHER LAB"
+    "Name": "Defeat BLUSIX at CIPHER LAB 1"
   },
   {
     "TrainerIndex": 35,
@@ -249,7 +249,7 @@
     "Index": 152,
     "AreaName": "CIPHER LAB",
     "RoomId": 514,
-    "Name": "Defeat BROWSIX at CIPHER LAB"
+    "Name": "Defeat BROWSIX at CIPHER LAB 1"
   },
   {
     "TrainerIndex": 36,
@@ -258,7 +258,7 @@
     "Index": 155,
     "AreaName": "CIPHER LAB",
     "RoomId": 514,
-    "Name": "Defeat YELLOSIX at CIPHER LAB"
+    "Name": "Defeat YELLOSIX at CIPHER LAB 1"
   },
   {
     "TrainerIndex": 37,
@@ -267,7 +267,7 @@
     "Index": 158,
     "AreaName": "CIPHER LAB",
     "RoomId": 514,
-    "Name": "Defeat PURPSIX at CIPHER LAB"
+    "Name": "Defeat PURPSIX at CIPHER LAB 1"
   },
   {
     "TrainerIndex": 38,
@@ -276,7 +276,7 @@
     "Index": 161,
     "AreaName": "CIPHER LAB",
     "RoomId": 514,
-    "Name": "Defeat GREESIX at CIPHER LAB"
+    "Name": "Defeat GREESIX at CIPHER LAB 1"
   },
   {
     "TrainerIndex": 39,
@@ -285,7 +285,7 @@
     "Index": 164,
     "AreaName": "CIPHER LAB",
     "RoomId": 514,
-    "Name": "Defeat RESIX at CIPHER LAB"
+    "Name": "Defeat RESIX at CIPHER LAB 2"
   },
   {
     "TrainerIndex": 40,
@@ -294,7 +294,7 @@
     "Index": 165,
     "AreaName": "CIPHER LAB",
     "RoomId": 514,
-    "Name": "Defeat BLUSIX at CIPHER LAB"
+    "Name": "Defeat BLUSIX at CIPHER LAB 2"
   },
   {
     "TrainerIndex": 41,
@@ -303,7 +303,7 @@
     "Index": 166,
     "AreaName": "CIPHER LAB",
     "RoomId": 514,
-    "Name": "Defeat BROWSIX at CIPHER LAB"
+    "Name": "Defeat BROWSIX at CIPHER LAB 2"
   },
   {
     "TrainerIndex": 42,
@@ -312,7 +312,7 @@
     "Index": 167,
     "AreaName": "CIPHER LAB",
     "RoomId": 514,
-    "Name": "Defeat YELLOSIX at CIPHER LAB"
+    "Name": "Defeat YELLOSIX at CIPHER LAB 2"
   },
   {
     "TrainerIndex": 43,
@@ -321,7 +321,7 @@
     "Index": 168,
     "AreaName": "CIPHER LAB",
     "RoomId": 514,
-    "Name": "Defeat PURPSIX at CIPHER LAB"
+    "Name": "Defeat PURPSIX at CIPHER LAB 2"
   },
   {
     "TrainerIndex": 44,
@@ -330,7 +330,7 @@
     "Index": 169,
     "AreaName": "CIPHER LAB",
     "RoomId": 514,
-    "Name": "Defeat GREESIX at CIPHER LAB"
+    "Name": "Defeat GREESIX at CIPHER LAB 2"
   },
   {
     "TrainerIndex": 45,
@@ -492,7 +492,7 @@
     "Index": 197,
     "AreaName": "PYRITE TOWN",
     "RoomId": 505,
-    "Name": "Defeat CAIL at PYRITE TOWN"
+    "Name": "Defeat CAIL at PYRITE TOWN 1"
   },
   {
     "TrainerIndex": 63,
@@ -501,7 +501,7 @@
     "Index": 198,
     "AreaName": "PYRITE TOWN",
     "RoomId": 505,
-    "Name": "Defeat DOBIT at PYRITE TOWN"
+    "Name": "Defeat DOBIT at PYRITE TOWN 1"
   },
   {
     "TrainerIndex": 64,
@@ -510,7 +510,7 @@
     "Index": 199,
     "AreaName": "PYRITE TOWN",
     "RoomId": 505,
-    "Name": "Defeat FINOL at PYRITE TOWN"
+    "Name": "Defeat FINOL at PYRITE TOWN 1"
   },
   {
     "TrainerIndex": 65,
@@ -519,7 +519,7 @@
     "Index": 200,
     "AreaName": "PYRITE TOWN",
     "RoomId": 505,
-    "Name": "Defeat DERT at PYRITE TOWN"
+    "Name": "Defeat DERT at PYRITE TOWN 1"
   },
   {
     "TrainerIndex": 66,
@@ -528,7 +528,7 @@
     "Index": 201,
     "AreaName": "PYRITE TOWN",
     "RoomId": 505,
-    "Name": "Defeat RALING at PYRITE TOWN"
+    "Name": "Defeat RALING at PYRITE TOWN 1"
   },
   {
     "TrainerIndex": 67,
@@ -537,7 +537,7 @@
     "Index": 202,
     "AreaName": "PYRITE TOWN",
     "RoomId": 505,
-    "Name": "Defeat LABET at PYRITE TOWN"
+    "Name": "Defeat LABET at PYRITE TOWN 1"
   },
   {
     "TrainerIndex": 68,
@@ -546,7 +546,7 @@
     "Index": 203,
     "AreaName": "PYRITE TOWN",
     "RoomId": 505,
-    "Name": "Defeat DOBY at PYRITE TOWN"
+    "Name": "Defeat DOBY at PYRITE TOWN 1"
   },
   {
     "TrainerIndex": 69,
@@ -555,7 +555,7 @@
     "Index": 204,
     "AreaName": "POKEMON HQ LAB",
     "RoomId": 541,
-    "Name": "Defeat AFERD at POKEMON HQ LAB"
+    "Name": "Defeat AFERD at POKEMON HQ LAB 2"
   },
   {
     "TrainerIndex": 70,
@@ -564,7 +564,7 @@
     "Index": 205,
     "AreaName": "POKEMON HQ LAB",
     "RoomId": 541,
-    "Name": "Defeat AFERD at POKEMON HQ LAB"
+    "Name": "Defeat AFERD at POKEMON HQ LAB 3"
   },
   {
     "TrainerIndex": 71,
@@ -573,7 +573,7 @@
     "Index": 206,
     "AreaName": "GATEON PORT",
     "RoomId": 542,
-    "Name": "Defeat LAKEN at GATEON PORT"
+    "Name": "Defeat LAKEN at GATEON PORT 2"
   },
   {
     "TrainerIndex": 72,
@@ -654,7 +654,7 @@
     "Index": 221,
     "AreaName": "AGATE VILLAGE",
     "RoomId": 508,
-    "Name": "Defeat CLERR at AGATE VILLAGE"
+    "Name": "Defeat CLERR at AGATE VILLAGE 2"
   },
   {
     "TrainerIndex": 81,
@@ -663,7 +663,7 @@
     "Index": 222,
     "AreaName": "AGATE VILLAGE",
     "RoomId": 508,
-    "Name": "Defeat BELISH at AGATE VILLAGE"
+    "Name": "Defeat BELISH at AGATE VILLAGE 2"
   },
   {
     "TrainerIndex": 82,
@@ -672,7 +672,7 @@
     "Index": 223,
     "AreaName": "AGATE VILLAGE",
     "RoomId": 508,
-    "Name": "Defeat DOSK at AGATE VILLAGE"
+    "Name": "Defeat DOSK at AGATE VILLAGE 2"
   },
   {
     "TrainerIndex": 83,
@@ -681,7 +681,7 @@
     "Index": 224,
     "AreaName": "AGATE VILLAGE",
     "RoomId": 508,
-    "Name": "Defeat HEBON at AGATE VILLAGE"
+    "Name": "Defeat HEBON at AGATE VILLAGE 2"
   },
   {
     "TrainerIndex": 84,
@@ -744,7 +744,7 @@
     "Index": 241,
     "AreaName": "PYRITE TOWN",
     "RoomId": 505,
-    "Name": "Defeat CAIL at PYRITE TOWN"
+    "Name": "Defeat CAIL at PYRITE TOWN 2"
   },
   {
     "TrainerIndex": 91,
@@ -879,7 +879,7 @@
     "Index": 272,
     "AreaName": "PHENAC CITY",
     "RoomId": 502,
-    "Name": "Defeat EROLL at PHENAC CITY"
+    "Name": "Defeat EROLL at PHENAC CITY 1"
   },
   {
     "TrainerIndex": 106,
@@ -888,7 +888,7 @@
     "Index": 273,
     "AreaName": "PHENAC CITY",
     "RoomId": 106,
-    "Name": "Defeat EQUIN at PHENAC CITY"
+    "Name": "Defeat EQUIN at PHENAC CITY 1"
   },
   {
     "TrainerIndex": 107,
@@ -897,7 +897,7 @@
     "Index": 274,
     "AreaName": "PYRITE TOWN",
     "RoomId": 505,
-    "Name": "Defeat FINOL at PYRITE TOWN"
+    "Name": "Defeat FINOL at PYRITE TOWN 2"
   },
   {
     "TrainerIndex": 108,
@@ -906,7 +906,7 @@
     "Index": 275,
     "AreaName": "PYRITE TOWN",
     "RoomId": 505,
-    "Name": "Defeat DERT at PYRITE TOWN"
+    "Name": "Defeat DERT at PYRITE TOWN 2"
   },
   {
     "TrainerIndex": 109,
@@ -915,7 +915,7 @@
     "Index": 276,
     "AreaName": "PYRITE TOWN",
     "RoomId": 505,
-    "Name": "Defeat RALING at PYRITE TOWN"
+    "Name": "Defeat RALING at PYRITE TOWN 2"
   },
   {
     "TrainerIndex": 110,
@@ -924,7 +924,7 @@
     "Index": 277,
     "AreaName": "PYRITE TOWN",
     "RoomId": 505,
-    "Name": "Defeat LABET at PYRITE TOWN"
+    "Name": "Defeat LABET at PYRITE TOWN 2"
   },
   {
     "TrainerIndex": 111,
@@ -933,7 +933,7 @@
     "Index": 278,
     "AreaName": "PYRITE TOWN",
     "RoomId": 505,
-    "Name": "Defeat DOBY at PYRITE TOWN"
+    "Name": "Defeat DOBY at PYRITE TOWN 2"
   },
   {
     "TrainerIndex": 112,
@@ -942,7 +942,7 @@
     "Index": 279,
     "AreaName": "PHENAC CITY",
     "RoomId": 502,
-    "Name": "Defeat RESIX at PHENAC CITY"
+    "Name": "Defeat RESIX at PHENAC CITY 1"
   },
   {
     "TrainerIndex": 113,
@@ -951,7 +951,7 @@
     "Index": 282,
     "AreaName": "PHENAC CITY",
     "RoomId": 502,
-    "Name": "Defeat BLUSIX at PHENAC CITY"
+    "Name": "Defeat BLUSIX at PHENAC CITY 1"
   },
   {
     "TrainerIndex": 114,
@@ -960,7 +960,7 @@
     "Index": 285,
     "AreaName": "PHENAC CITY",
     "RoomId": 504,
-    "Name": "Defeat BROWSIX at PHENAC CITY"
+    "Name": "Defeat BROWSIX at PHENAC CITY 1"
   },
   {
     "TrainerIndex": 115,
@@ -969,7 +969,7 @@
     "Index": 288,
     "AreaName": "PHENAC CITY",
     "RoomId": 504,
-    "Name": "Defeat YELLOSIX at PHENAC CITY"
+    "Name": "Defeat YELLOSIX at PHENAC CITY 1"
   },
   {
     "TrainerIndex": 116,
@@ -978,7 +978,7 @@
     "Index": 291,
     "AreaName": "PHENAC CITY",
     "RoomId": 502,
-    "Name": "Defeat PURPSIX at PHENAC CITY"
+    "Name": "Defeat PURPSIX at PHENAC CITY 1"
   },
   {
     "TrainerIndex": 117,
@@ -987,7 +987,7 @@
     "Index": 294,
     "AreaName": "PHENAC CITY",
     "RoomId": 502,
-    "Name": "Defeat GREESIX at PHENAC CITY"
+    "Name": "Defeat GREESIX at PHENAC CITY 1"
   },
   {
     "TrainerIndex": 118,
@@ -996,7 +996,7 @@
     "Index": 297,
     "AreaName": "PHENAC CITY",
     "RoomId": 502,
-    "Name": "Defeat RESIX at PHENAC CITY"
+    "Name": "Defeat RESIX at PHENAC CITY 2"
   },
   {
     "TrainerIndex": 119,
@@ -1005,7 +1005,7 @@
     "Index": 298,
     "AreaName": "PHENAC CITY",
     "RoomId": 502,
-    "Name": "Defeat BLUSIX at PHENAC CITY"
+    "Name": "Defeat BLUSIX at PHENAC CITY 2"
   },
   {
     "TrainerIndex": 120,
@@ -1014,7 +1014,7 @@
     "Index": 299,
     "AreaName": "PHENAC CITY",
     "RoomId": 504,
-    "Name": "Defeat BROWSIX at PHENAC CITY"
+    "Name": "Defeat BROWSIX at PHENAC CITY 2"
   },
   {
     "TrainerIndex": 121,
@@ -1023,7 +1023,7 @@
     "Index": 300,
     "AreaName": "PHENAC CITY",
     "RoomId": 504,
-    "Name": "Defeat YELLOSIX at PHENAC CITY"
+    "Name": "Defeat YELLOSIX at PHENAC CITY 2"
   },
   {
     "TrainerIndex": 122,
@@ -1032,7 +1032,7 @@
     "Index": 301,
     "AreaName": "PHENAC CITY",
     "RoomId": 502,
-    "Name": "Defeat PURPSIX at PHENAC CITY"
+    "Name": "Defeat PURPSIX at PHENAC CITY 2"
   },
   {
     "TrainerIndex": 123,
@@ -1041,7 +1041,7 @@
     "Index": 302,
     "AreaName": "PHENAC CITY",
     "RoomId": 502,
-    "Name": "Defeat GREESIX at PHENAC CITY"
+    "Name": "Defeat GREESIX at PHENAC CITY 2"
   },
   {
     "TrainerIndex": 124,
@@ -1050,7 +1050,7 @@
     "Index": 303,
     "AreaName": "KAMINKOS HOUSE",
     "RoomId": 544,
-    "Name": "Defeat CHOBIN at KAMINKOS HOUSE"
+    "Name": "Defeat CHOBIN at KAMINKOS HOUSE 3"
   },
   {
     "TrainerIndex": 125,
@@ -1059,7 +1059,7 @@
     "Index": 304,
     "AreaName": "KAMINKOS HOUSE",
     "RoomId": 544,
-    "Name": "Defeat CHOBIN at KAMINKOS HOUSE"
+    "Name": "Defeat CHOBIN at KAMINKOS HOUSE 4"
   },
   {
     "TrainerIndex": 126,
@@ -1068,7 +1068,7 @@
     "Index": 305,
     "AreaName": "PYRITE TOWN",
     "RoomId": 505,
-    "Name": "Defeat CAIL at PYRITE TOWN"
+    "Name": "Defeat CAIL at PYRITE TOWN 3"
   },
   {
     "TrainerIndex": 127,
@@ -1077,7 +1077,7 @@
     "Index": 306,
     "AreaName": "KAMINKOS HOUSE",
     "RoomId": 544,
-    "Name": "Defeat CHOBIN at KAMINKOS HOUSE"
+    "Name": "Defeat CHOBIN at KAMINKOS HOUSE 5"
   },
   {
     "TrainerIndex": 128,
@@ -1086,7 +1086,7 @@
     "Index": 307,
     "AreaName": "CIPHER KEY LAIR",
     "RoomId": 530,
-    "Name": "Defeat SMARTON at CIPHER KEY LAIR"
+    "Name": "Defeat SMARTON at CIPHER KEY LAIR 1"
   },
   {
     "TrainerIndex": 129,
@@ -1149,7 +1149,7 @@
     "Index": 316,
     "AreaName": "OUTSKIRT STAND",
     "RoomId": 500,
-    "Name": "Defeat WILLIE at OUTSKIRT STAND"
+    "Name": "Defeat WILLIE at OUTSKIRT STAND 1"
   },
   {
     "TrainerIndex": 136,
@@ -1248,7 +1248,7 @@
     "Index": 327,
     "AreaName": "POKEMON HQ LAB",
     "RoomId": 541,
-    "Name": "Defeat AFERD at POKEMON HQ LAB"
+    "Name": "Defeat AFERD at POKEMON HQ LAB 4"
   },
   {
     "TrainerIndex": 147,
@@ -1410,7 +1410,7 @@
     "Index": 367,
     "AreaName": "CIPHER KEY LAIR",
     "RoomId": 532,
-    "Name": "Defeat SMARTON at CIPHER KEY LAIR"
+    "Name": "Defeat SMARTON at CIPHER KEY LAIR 2"
   },
   {
     "TrainerIndex": 165,
@@ -1428,7 +1428,7 @@
     "Index": 375,
     "AreaName": "KAMINKOS HOUSE",
     "RoomId": 544,
-    "Name": "Defeat CHOBIN at KAMINKOS HOUSE"
+    "Name": "Defeat CHOBIN at KAMINKOS HOUSE 6"
   },
   {
     "TrainerIndex": 167,
@@ -1437,7 +1437,7 @@
     "Index": 376,
     "AreaName": "KAMINKOS HOUSE",
     "RoomId": 544,
-    "Name": "Defeat CHOBIN at KAMINKOS HOUSE"
+    "Name": "Defeat CHOBIN at KAMINKOS HOUSE 7"
   },
   {
     "TrainerIndex": 168,
@@ -1725,7 +1725,7 @@
     "Index": 466,
     "AreaName": "CITADARK ISLE",
     "RoomId": 534,
-    "Name": "Defeat GREEVIL at CITADARK ISLE"
+    "Name": "Defeat GREEVIL at CITADARK ISLE 1"
   },
   {
     "TrainerIndex": 200,
@@ -1734,7 +1734,7 @@
     "Index": 469,
     "AreaName": "CITADARK ISLE",
     "RoomId": 534,
-    "Name": "Defeat GREEVIL at CITADARK ISLE"
+    "Name": "Defeat GREEVIL at CITADARK ISLE 2"
   },
   {
     "TrainerIndex": 201,
@@ -1743,7 +1743,7 @@
     "Index": 482,
     "AreaName": "CITADARK ISLE",
     "RoomId": 534,
-    "Name": "Defeat GREEVIL at CITADARK ISLE"
+    "Name": "Defeat GREEVIL at CITADARK ISLE 3"
   },
   {
     "TrainerIndex": 202,
@@ -1752,7 +1752,7 @@
     "Index": 483,
     "AreaName": "GATEON PORT",
     "RoomId": 542,
-    "Name": "Defeat LAKEN at GATEON PORT"
+    "Name": "Defeat LAKEN at GATEON PORT 4"
   },
   {
     "TrainerIndex": 203,
@@ -1761,7 +1761,7 @@
     "Index": 484,
     "AreaName": "CIPHER LAB",
     "RoomId": 514,
-    "Name": "Defeat RESIX at CIPHER LAB"
+    "Name": "Defeat RESIX at CIPHER LAB 3"
   },
   {
     "TrainerIndex": 204,
@@ -1770,7 +1770,7 @@
     "Index": 487,
     "AreaName": "CIPHER LAB",
     "RoomId": 514,
-    "Name": "Defeat BLUSIX at CIPHER LAB"
+    "Name": "Defeat BLUSIX at CIPHER LAB 3"
   },
   {
     "TrainerIndex": 205,
@@ -1779,7 +1779,7 @@
     "Index": 490,
     "AreaName": "CIPHER LAB",
     "RoomId": 514,
-    "Name": "Defeat BROWSIX at CIPHER LAB"
+    "Name": "Defeat BROWSIX at CIPHER LAB 3"
   },
   {
     "TrainerIndex": 206,
@@ -1788,7 +1788,7 @@
     "Index": 493,
     "AreaName": "CIPHER LAB",
     "RoomId": 514,
-    "Name": "Defeat YELLOSIX at CIPHER LAB"
+    "Name": "Defeat YELLOSIX at CIPHER LAB 3"
   },
   {
     "TrainerIndex": 207,
@@ -1797,7 +1797,7 @@
     "Index": 496,
     "AreaName": "CIPHER LAB",
     "RoomId": 514,
-    "Name": "Defeat PURPSIX at CIPHER LAB"
+    "Name": "Defeat PURPSIX at CIPHER LAB 3"
   },
   {
     "TrainerIndex": 208,
@@ -1806,7 +1806,7 @@
     "Index": 499,
     "AreaName": "CIPHER LAB",
     "RoomId": 514,
-    "Name": "Defeat GREESIX at CIPHER LAB"
+    "Name": "Defeat GREESIX at CIPHER LAB 3"
   },
   {
     "TrainerIndex": 209,
@@ -1815,7 +1815,7 @@
     "Index": 502,
     "AreaName": "CIPHER LAB",
     "RoomId": 514,
-    "Name": "Defeat RESIX at CIPHER LAB"
+    "Name": "Defeat RESIX at CIPHER LAB 4"
   },
   {
     "TrainerIndex": 210,
@@ -1824,7 +1824,7 @@
     "Index": 503,
     "AreaName": "CIPHER LAB",
     "RoomId": 514,
-    "Name": "Defeat BLUSIX at CIPHER LAB"
+    "Name": "Defeat BLUSIX at CIPHER LAB 4"
   },
   {
     "TrainerIndex": 211,
@@ -1833,7 +1833,7 @@
     "Index": 504,
     "AreaName": "CIPHER LAB",
     "RoomId": 514,
-    "Name": "Defeat BROWSIX at CIPHER LAB"
+    "Name": "Defeat BROWSIX at CIPHER LAB 4"
   },
   {
     "TrainerIndex": 212,
@@ -1842,7 +1842,7 @@
     "Index": 505,
     "AreaName": "CIPHER LAB",
     "RoomId": 514,
-    "Name": "Defeat YELLOSIX at CIPHER LAB"
+    "Name": "Defeat YELLOSIX at CIPHER LAB 4"
   },
   {
     "TrainerIndex": 213,
@@ -1851,7 +1851,7 @@
     "Index": 506,
     "AreaName": "CIPHER LAB",
     "RoomId": 514,
-    "Name": "Defeat PURPSIX at CIPHER LAB"
+    "Name": "Defeat PURPSIX at CIPHER LAB 4"
   },
   {
     "TrainerIndex": 214,
@@ -1860,7 +1860,7 @@
     "Index": 507,
     "AreaName": "CIPHER LAB",
     "RoomId": 514,
-    "Name": "Defeat GREESIX at CIPHER LAB"
+    "Name": "Defeat GREESIX at CIPHER LAB 4"
   },
   {
     "TrainerIndex": 215,
@@ -1869,7 +1869,7 @@
     "Index": 508,
     "AreaName": "PYRITE TOWN",
     "RoomId": 505,
-    "Name": "Defeat CAIL at PYRITE TOWN"
+    "Name": "Defeat CAIL at PYRITE TOWN 4"
   },
   {
     "TrainerIndex": 216,
@@ -1878,7 +1878,7 @@
     "Index": 509,
     "AreaName": "PYRITE TOWN",
     "RoomId": 505,
-    "Name": "Defeat FINOL at PYRITE TOWN"
+    "Name": "Defeat FINOL at PYRITE TOWN 3"
   },
   {
     "TrainerIndex": 217,
@@ -1887,7 +1887,7 @@
     "Index": 510,
     "AreaName": "PYRITE TOWN",
     "RoomId": 505,
-    "Name": "Defeat DERT at PYRITE TOWN"
+    "Name": "Defeat DERT at PYRITE TOWN 3"
   },
   {
     "TrainerIndex": 218,
@@ -1896,7 +1896,7 @@
     "Index": 511,
     "AreaName": "PYRITE TOWN",
     "RoomId": 505,
-    "Name": "Defeat RALING at PYRITE TOWN"
+    "Name": "Defeat RALING at PYRITE TOWN 3"
   },
   {
     "TrainerIndex": 219,
@@ -1905,7 +1905,7 @@
     "Index": 512,
     "AreaName": "PYRITE TOWN",
     "RoomId": 505,
-    "Name": "Defeat LABET at PYRITE TOWN"
+    "Name": "Defeat LABET at PYRITE TOWN 3"
   },
   {
     "TrainerIndex": 220,
@@ -1914,7 +1914,7 @@
     "Index": 513,
     "AreaName": "PYRITE TOWN",
     "RoomId": 505,
-    "Name": "Defeat DOBY at PYRITE TOWN"
+    "Name": "Defeat DOBY at PYRITE TOWN 3"
   },
   {
     "TrainerIndex": 221,
@@ -1941,7 +1941,7 @@
     "Index": 518,
     "AreaName": "POKEMON HQ LAB",
     "RoomId": 541,
-    "Name": "Defeat AFERD at POKEMON HQ LAB"
+    "Name": "Defeat AFERD at POKEMON HQ LAB 5"
   },
   {
     "TrainerIndex": 224,
@@ -1950,7 +1950,7 @@
     "Index": 519,
     "AreaName": "PHENAC CITY",
     "RoomId": 502,
-    "Name": "Defeat EROLL at PHENAC CITY"
+    "Name": "Defeat EROLL at PHENAC CITY 2"
   },
   {
     "TrainerIndex": 225,
@@ -1959,7 +1959,7 @@
     "Index": 520,
     "AreaName": "PHENAC CITY",
     "RoomId": 106,
-    "Name": "Defeat EQUIN at PHENAC CITY"
+    "Name": "Defeat EQUIN at PHENAC CITY 2"
   },
   {
     "TrainerIndex": 226,
@@ -1968,7 +1968,7 @@
     "Index": 521,
     "AreaName": "OUTSKIRT STAND",
     "RoomId": 500,
-    "Name": "Defeat WILLIE at OUTSKIRT STAND"
+    "Name": "Defeat WILLIE at OUTSKIRT STAND 2"
   },
   {
     "TrainerIndex": 227,
@@ -1977,7 +1977,7 @@
     "Index": 522,
     "AreaName": "AGATE VILLAGE",
     "RoomId": 508,
-    "Name": "Defeat CIDA at AGATE VILLAGE"
+    "Name": "Defeat CIDA at AGATE VILLAGE 3"
   },
   {
     "TrainerIndex": 228,
@@ -1986,7 +1986,7 @@
     "Index": 523,
     "AreaName": "AGATE VILLAGE",
     "RoomId": 508,
-    "Name": "Defeat CLERR at AGATE VILLAGE"
+    "Name": "Defeat CLERR at AGATE VILLAGE 3"
   },
   {
     "TrainerIndex": 229,
@@ -1995,7 +1995,7 @@
     "Index": 524,
     "AreaName": "AGATE VILLAGE",
     "RoomId": 508,
-    "Name": "Defeat BELISH at AGATE VILLAGE"
+    "Name": "Defeat BELISH at AGATE VILLAGE 3"
   },
   {
     "TrainerIndex": 230,
@@ -2004,7 +2004,7 @@
     "Index": 525,
     "AreaName": "AGATE VILLAGE",
     "RoomId": 508,
-    "Name": "Defeat DOSK at AGATE VILLAGE"
+    "Name": "Defeat DOSK at AGATE VILLAGE 3"
   },
   {
     "TrainerIndex": 231,
@@ -2013,7 +2013,7 @@
     "Index": 526,
     "AreaName": "AGATE VILLAGE",
     "RoomId": 508,
-    "Name": "Defeat HEBON at AGATE VILLAGE"
+    "Name": "Defeat HEBON at AGATE VILLAGE 3"
   },
   {
     "TrainerIndex": 232,

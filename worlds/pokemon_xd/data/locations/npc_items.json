@@ -7,8 +7,44 @@
     },
     {
         "Index": 0,
+        "AreaName": "POKEMON HQ LAB",
+        "RoomId": 143,
+        "Name": "KRANE MEMO 1 from AIDAN"
+    },
+    {
+        "Index": 0,
+        "AreaName": "POKEMON HQ LAB",
+        "RoomId": 143,
+        "Name": "KRANE MEMO 2 from AIDAN"
+    },
+    {
+        "Index": 0,
+        "AreaName": "POKEMON HQ LAB",
+        "RoomId": 143,
+        "Name": "KRANE MEMO 3 from AIDAN"
+    },
+    {
+        "Index": 0,
+        "AreaName": "POKEMON HQ LAB",
+        "RoomId": 143,
+        "Name": "KRANE MEMO 4 from AIDAN"
+    },
+    {
+        "Index": 0,
+        "AreaName": "POKEMON HQ LAB",
+        "RoomId": 143,
+        "Name": "KRANE MEMO 5 from AIDAN"
+    },
+    {
+        "Index": 0,
+        "AreaName": "GATEON PORT",
+        "RoomId": 151,
+        "Name": "MACHINE PART from PERR"
+    },
+    {
+        "Index": 0,
         "AreaName": "GATEON PORT",
         "RoomId": 153,
-        "Name": "Gift from Acri"
+        "Name": "Gift from ACRI"
     }
 ]
