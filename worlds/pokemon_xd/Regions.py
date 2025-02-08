@@ -1,12 +1,7 @@
-from BaseClasses import MultiWorld, Region, CollectionState
-from worlds.generic.Rules import add_rule
-from .json import load_region_json
 
-from  .Items import PokemonXDStoryEvent
-from .Locations import PokemonXDLocation
 
-def exit(state: CollectionState) -> bool:
-    return True
+from BaseClasses import MultiWorld, Region
+from .load_json import load_region_json
 
 
 class PokemonXDRegion(Region):
@@ -16,28 +11,28 @@ class PokemonXDRegion(Region):
     requires: str = ""
     connects_to: list[int] = []
     starting: bool = False
+    map_entrance: bool = False
 
     def __init__(self, player: int, multiworld: MultiWorld, hint = None, **data):
         self.room_id = data["RoomIndex"]
         self.area_name = data["AreaName"]
         self.starting = data["Starting"]
+        self.map_entrance = data["Starting"]
         self.requires = data["Requires"]
         self.connects_to = data["ConnectsTo"]
         name = data["Name"]
         super().__init__(name, player, multiworld, hint)
 
-class PokemonXDArea(PokemonXDRegion):
-    starting: bool = False
-
-    def __init__(self, player: int, multiworld: MultiWorld, hint = None, **data):
-        self.starting = data["Starting"]
-        super().__init__(player, multiworld, hint, **data)
-
-class PokemonXDRoom(PokemonXDRegion):
-    room_id: int = 0
-    def __init__(self, player, multiworld, hint=None, **data):
-        self.room_id = data["RoomId"]
-        super().__init__(player, multiworld, hint, **data)
+    def as_json(self):
+        return {
+            "RoomIndex": self.room_id,
+            "AreaName": self.area_name,
+            "Starting": self.starting,
+            "MapEntrance": self.map_entrance,
+            "Requires": self.requires,
+            "ConnectsTo": self.connects_to,
+            "Name": self.name
+        }
 
 # def generate_story_events(player: int):
 #     story_flags: list[dict] = json.loads("data/story_flags.json")
@@ -58,14 +53,14 @@ class PokemonXDRoom(PokemonXDRegion):
     
 #     return events
 
-def create_pokemonxd_regions(player: int, multiworld: MultiWorld) -> list[PokemonXDArea]:
+def create_pokemonxd_regions(player: int, multiworld: MultiWorld):
     # areas_obj: list[dict] = json.loads("data/areas.json")
     rooms_obj: list[dict] = load_region_json("regions.json")
-
-    hub_area: PokemonXDRegion = PokemonXDRegion(player, multiworld, None, **{"Name": "Menu", "Starting": True, "AreaName": "HUB", "RoomIndex": 0, "Requires": None, "ConnectsTo": []})
     # hub_area.locations += generate_story_events()
 
     rooms: dict[str, list[PokemonXDRegion]] = {}
+    room_dict: dict[int, PokemonXDRegion] = {}
+    hub_area: PokemonXDRegion = None
     
     for room_obj in rooms_obj:
         room = PokemonXDRegion(player, multiworld, None, **room_obj)
@@ -73,10 +68,30 @@ def create_pokemonxd_regions(player: int, multiworld: MultiWorld) -> list[Pokemo
             rooms[room.area_name] = []
 
         rooms[room.area_name].append(room)
+        room_dict[room.room_id] = room
+
+        if room.area_name == "HUB":
+            hub_area = room
+
+    for location in multiworld.get_locations(player):
+        region = room_dict[location.room_id]
+        location.parent_region = region
+        region.locations.append(location)
 
     for area in rooms.values():
         for room in area:
+            if room.map_entrance:
+                entrance = room
+                hub_area.connect(entrance)
+                break
+
+        for room in area:
+            if not room.map_entrance:
+                entrance.connect(room)
             multiworld.regions.append(room)
 
     
-    multiworld.regions.append(hub_area)
+
+    # multiworld.regions.append(hub_area)
+
+    return room_dict[141].name

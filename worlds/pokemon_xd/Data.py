@@ -1,4 +1,4 @@
-from .json import load_check_json
+from .load_json import load_check_json
 from .Locations import PokemonXDItemLocation, PokemonXDLocation, PokemonXDPokemonLocation, PokemonXDTrainerBattleLocation
 from .Items import PokemonXDItem, PokemonXDFoundItem, PokemonXDMoneyItem, PokemonXDPokemonItem, PokemonXDPurifyPokemonItem
 
@@ -34,8 +34,8 @@ def generate_treasure_list(player: int, base_id: int):
     give_item_objs = load_check_json(False, "treasure_items.json")
     give_objs = zip(give_locations_objs, give_item_objs)
 
-    location_list = []
-    item_list = []
+    location_list: list[PokemonXDLocation] = []
+    item_list: list[PokemonXDItem] = []
 
     for give_obj in give_objs:
         (location_obj, item_obj) = give_obj

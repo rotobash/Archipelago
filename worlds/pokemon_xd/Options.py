@@ -25,9 +25,9 @@ class PokemonAsItemsOptions(OptionSet):
     """  Pokemon will not be added to your party unless it has been sent by the server."""
     display_name = "Pokemon Are Items"
     valid_keys = [
-        PokemonItemOptionType.Snags,
-        PokemonItemOptionType.Pokespots,
-        PokemonItemOptionType.Gifts
+        PokemonItemOptionType.Snags.name,
+        PokemonItemOptionType.Pokespots.name,
+        PokemonItemOptionType.Gifts.name
     ]
     default = valid_keys
 
@@ -42,7 +42,7 @@ class TrainersanityOptions(OptionSet):
         TrainersanityOptionType.MtBattle.name,
         TrainersanityOptionType.Colosseum.name
     ]
-    default = [TrainersanityOptionType.Story]
+    default = [TrainersanityOptionType.Story.name]
 
 class PurifyPokemon(Toggle):
     """ Purifying pokemon will unlock items. """
