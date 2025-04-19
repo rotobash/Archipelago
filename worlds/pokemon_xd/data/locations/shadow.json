@@ -1,0 +1,822 @@
+[
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 30,
+    "PokemonIndex": 380,
+    "Index": 116,
+    "AreaName": "GATEON PORT",
+    "RoomId": 542,
+    "Name": "Capture ZOOKs Shadow ZANGOOSE",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 83,
+    "PokemonIndex": 165,
+    "Index": 120,
+    "AreaName": "GATEON PORT",
+    "RoomId": 542,
+    "Name": "Capture CYLEs Shadow LEDYBA",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 82,
+    "PokemonIndex": 286,
+    "Index": 124,
+    "AreaName": "GATEON PORT",
+    "RoomId": 543,
+    "Name": "Capture KILENs Shadow POOCHYENA",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 1,
+    "PokemonIndex": 216,
+    "Index": 129,
+    "AreaName": "POKEMON HQ LAB",
+    "RoomId": 541,
+    "Name": "Capture NAPSs Shadow TEDDIURSA",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 14,
+    "PokemonIndex": 228,
+    "Index": 147,
+    "AreaName": "CIPHER LAB",
+    "RoomId": 514,
+    "Name": "Capture RESIXs Shadow HOUNDOUR",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 3,
+    "PokemonIndex": 341,
+    "Index": 150,
+    "AreaName": "CIPHER LAB",
+    "RoomId": 514,
+    "Name": "Capture BLUSIXs Shadow SPHEAL",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 4,
+    "PokemonIndex": 318,
+    "Index": 153,
+    "AreaName": "CIPHER LAB",
+    "RoomId": 514,
+    "Name": "Capture BROWSIXs Shadow BALTOY",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 5,
+    "PokemonIndex": 179,
+    "Index": 156,
+    "AreaName": "CIPHER LAB",
+    "RoomId": 514,
+    "Name": "Capture YELLOSIXs Shadow MAREEP",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 6,
+    "PokemonIndex": 367,
+    "Index": 159,
+    "AreaName": "CIPHER LAB",
+    "RoomId": 514,
+    "Name": "Capture PURPSIXs Shadow GULPIN",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 7,
+    "PokemonIndex": 298,
+    "Index": 162,
+    "AreaName": "CIPHER LAB",
+    "RoomId": 514,
+    "Name": "Capture GREESIXs Shadow SEEDOT",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 8,
+    "PokemonIndex": 167,
+    "Index": 175,
+    "AreaName": "CIPHER LAB",
+    "RoomId": 515,
+    "Name": "Capture NEXIRs Shadow SPINARAK",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 9,
+    "PokemonIndex": 339,
+    "Index": 178,
+    "AreaName": "CIPHER LAB",
+    "RoomId": 515,
+    "Name": "Capture SOLOXs Shadow NUMEL",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 10,
+    "PokemonIndex": 330,
+    "Index": 187,
+    "AreaName": "CIPHER LAB",
+    "RoomId": 515,
+    "Name": "Capture CABOLs Shadow CARVANHA",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 23,
+    "PokemonIndex": 306,
+    "Index": 191,
+    "AreaName": "CIPHER LAB",
+    "RoomId": 515,
+    "Name": "Capture KLOTSs Shadow SHROOMISH",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 12,
+    "PokemonIndex": 316,
+    "Index": 195,
+    "AreaName": "CIPHER LAB",
+    "RoomId": 515,
+    "Name": "Capture LOVRINAs Shadow DELCATTY",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 29,
+    "PokemonIndex": 100,
+    "Index": 208,
+    "AreaName": "CAVE",
+    "RoomId": 547,
+    "Name": "Capture MIROR B.s Shadow VOLTORB",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 2,
+    "PokemonIndex": 37,
+    "Index": 213,
+    "AreaName": "PYRITE TOWN",
+    "RoomId": 507,
+    "Name": "Capture MESINs Shadow VULPIX",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 15,
+    "PokemonIndex": 335,
+    "Index": 218,
+    "AreaName": "PYRITE TOWN",
+    "RoomId": 507,
+    "Name": "Capture TORKINs Shadow MAKUHITA",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 16,
+    "PokemonIndex": 361,
+    "Index": 226,
+    "AreaName": "PYRITE TOWN",
+    "RoomId": 507,
+    "Name": "Capture LOBARs Shadow DUSKULL",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 17,
+    "PokemonIndex": 392,
+    "Index": 230,
+    "AreaName": "PYRITE TOWN",
+    "RoomId": 505,
+    "Name": "Capture FELDASs Shadow RALTS",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 18,
+    "PokemonIndex": 355,
+    "Index": 233,
+    "AreaName": "PYRITE TOWN",
+    "RoomId": 507,
+    "Name": "Capture EXOLs Shadow MAWILE",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 19,
+    "PokemonIndex": 346,
+    "Index": 236,
+    "AreaName": "PHENAC CITY",
+    "RoomId": 504,
+    "Name": "Capture EXINNs Shadow SNORUNT",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 20,
+    "PokemonIndex": 204,
+    "Index": 239,
+    "AreaName": "PHENAC CITY",
+    "RoomId": 504,
+    "Name": "Capture GONRAGs Shadow PINECO",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 21,
+    "PokemonIndex": 220,
+    "Index": 249,
+    "AreaName": "PHENAC CITY",
+    "RoomId": 502,
+    "Name": "Capture GRECKs Shadow SWINUB",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 22,
+    "PokemonIndex": 177,
+    "Index": 252,
+    "AreaName": "PHENAC CITY",
+    "RoomId": 503,
+    "Name": "Capture ELOINs Shadow NATU",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 11,
+    "PokemonIndex": 363,
+    "Index": 255,
+    "AreaName": "PHENAC CITY",
+    "RoomId": 503,
+    "Name": "Capture FASINs Shadow ROSELIA",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 24,
+    "PokemonIndex": 52,
+    "Index": 258,
+    "AreaName": "PHENAC CITY",
+    "RoomId": 503,
+    "Name": "Capture FOSTINs Shadow MEOWTH",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 25,
+    "PokemonIndex": 21,
+    "Index": 261,
+    "AreaName": "PHENAC CITY",
+    "RoomId": 106,
+    "Name": "Capture EZINs Shadow SPEAROW",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 26,
+    "PokemonIndex": 88,
+    "Index": 264,
+    "AreaName": "PHENAC CITY",
+    "RoomId": 106,
+    "Name": "Capture FALTLYs Shadow GRIMER",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 27,
+    "PokemonIndex": 86,
+    "Index": 267,
+    "AreaName": "PHENAC CITY",
+    "RoomId": 106,
+    "Name": "Capture EGROGs Shadow SEEL",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 28,
+    "PokemonIndex": 348,
+    "Index": 270,
+    "AreaName": "PHENAC CITY",
+    "RoomId": 106,
+    "Name": "Capture SNATTLEs Shadow LUNATONE",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 13,
+    "PokemonIndex": 320,
+    "Index": 314,
+    "AreaName": "OUTSKIRT STAND",
+    "RoomId": 500,
+    "Name": "Capture MIROR B.s Shadow NOSEPASS",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 32,
+    "PokemonIndex": 46,
+    "Index": 334,
+    "AreaName": "CIPHER KEY LAIR",
+    "RoomId": 531,
+    "Name": "Capture HUMAHs Shadow PARAS",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 31,
+    "PokemonIndex": 58,
+    "Index": 336,
+    "AreaName": "CIPHER KEY LAIR",
+    "RoomId": 531,
+    "Name": "Capture HUMAHs Shadow GROWLITHE",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 33,
+    "PokemonIndex": 90,
+    "Index": 341,
+    "AreaName": "CIPHER KEY LAIR",
+    "RoomId": 531,
+    "Name": "Capture GOROGs Shadow SHELLDER",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 34,
+    "PokemonIndex": 15,
+    "Index": 345,
+    "AreaName": "CIPHER KEY LAIR",
+    "RoomId": 531,
+    "Name": "Capture LOKs Shadow BEEDRILL",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 35,
+    "PokemonIndex": 17,
+    "Index": 347,
+    "AreaName": "CIPHER KEY LAIR",
+    "RoomId": 531,
+    "Name": "Capture LOKs Shadow PIDGEOTTO",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 37,
+    "PokemonIndex": 114,
+    "Index": 352,
+    "AreaName": "CIPHER KEY LAIR",
+    "RoomId": 531,
+    "Name": "Capture TARGs Shadow TANGELA",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 36,
+    "PokemonIndex": 12,
+    "Index": 354,
+    "AreaName": "CIPHER KEY LAIR",
+    "RoomId": 531,
+    "Name": "Capture TARGs Shadow BUTTERFREE",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 46,
+    "PokemonIndex": 82,
+    "Index": 358,
+    "AreaName": "CIPHER KEY LAIR",
+    "RoomId": 531,
+    "Name": "Capture SNIDLEs Shadow MAGNETON",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 39,
+    "PokemonIndex": 49,
+    "Index": 362,
+    "AreaName": "CIPHER KEY LAIR",
+    "RoomId": 532,
+    "Name": "Capture ANGICs Shadow VENOMOTH",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 40,
+    "PokemonIndex": 70,
+    "Index": 364,
+    "AreaName": "CIPHER KEY LAIR",
+    "RoomId": 532,
+    "Name": "Capture ANGICs Shadow WEEPINBELL",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 41,
+    "PokemonIndex": 24,
+    "Index": 368,
+    "AreaName": "CIPHER KEY LAIR",
+    "RoomId": 532,
+    "Name": "Capture SMARTONs Shadow ARBOK",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 42,
+    "PokemonIndex": 57,
+    "Index": 371,
+    "AreaName": "CIPHER KEY LAIR",
+    "RoomId": 550,
+    "Name": "Capture GORIGANs Shadow PRIMEAPE",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 43,
+    "PokemonIndex": 97,
+    "Index": 373,
+    "AreaName": "CIPHER KEY LAIR",
+    "RoomId": 550,
+    "Name": "Capture GORIGANs Shadow HYPNO",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 44,
+    "PokemonIndex": 55,
+    "Index": 378,
+    "AreaName": "CITADARK ISLE",
+    "RoomId": 538,
+    "Name": "Capture ABSONs Shadow GOLDUCK",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 45,
+    "PokemonIndex": 322,
+    "Index": 380,
+    "AreaName": "CITADARK ISLE",
+    "RoomId": 538,
+    "Name": "Capture ABSONs Shadow SABLEYE",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 47,
+    "PokemonIndex": 85,
+    "Index": 384,
+    "AreaName": "CITADARK ISLE",
+    "RoomId": 536,
+    "Name": "Capture FURGYs Shadow DODRIO",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 38,
+    "PokemonIndex": 20,
+    "Index": 386,
+    "AreaName": "CITADARK ISLE",
+    "RoomId": 536,
+    "Name": "Capture FURGYs Shadow RATICATE",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 48,
+    "PokemonIndex": 83,
+    "Index": 391,
+    "AreaName": "CITADARK ISLE",
+    "RoomId": 536,
+    "Name": "Capture LOVRINAs Shadow FARFETCH\u0027D",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 49,
+    "PokemonIndex": 359,
+    "Index": 393,
+    "AreaName": "CITADARK ISLE",
+    "RoomId": 536,
+    "Name": "Capture LOVRINAs Shadow ALTARIA",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 50,
+    "PokemonIndex": 115,
+    "Index": 397,
+    "AreaName": "CITADARK ISLE",
+    "RoomId": 536,
+    "Name": "Capture LITNARs Shadow KANGASKHAN",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 51,
+    "PokemonIndex": 378,
+    "Index": 399,
+    "AreaName": "CITADARK ISLE",
+    "RoomId": 536,
+    "Name": "Capture LITNARs Shadow BANETTE",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 52,
+    "PokemonIndex": 126,
+    "Index": 403,
+    "AreaName": "CITADARK ISLE",
+    "RoomId": 535,
+    "Name": "Capture GRUPELs Shadow MAGMAR",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 53,
+    "PokemonIndex": 127,
+    "Index": 405,
+    "AreaName": "CITADARK ISLE",
+    "RoomId": 535,
+    "Name": "Capture GRUPELs Shadow PINSIR",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 55,
+    "PokemonIndex": 78,
+    "Index": 413,
+    "AreaName": "CITADARK ISLE",
+    "RoomId": 535,
+    "Name": "Capture KOLESTs Shadow RAPIDASH",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 54,
+    "PokemonIndex": 219,
+    "Index": 415,
+    "AreaName": "CITADARK ISLE",
+    "RoomId": 535,
+    "Name": "Capture KOLESTs Shadow MAGCARGO",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 56,
+    "PokemonIndex": 107,
+    "Index": 419,
+    "AreaName": "CITADARK ISLE",
+    "RoomId": 535,
+    "Name": "Capture KARBONs Shadow HITMONCHAN",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 57,
+    "PokemonIndex": 106,
+    "Index": 422,
+    "AreaName": "CITADARK ISLE",
+    "RoomId": 535,
+    "Name": "Capture PETROs Shadow HITMONLEE",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 58,
+    "PokemonIndex": 108,
+    "Index": 427,
+    "AreaName": "CITADARK ISLE",
+    "RoomId": 536,
+    "Name": "Capture GEFTALs Shadow LICKITUNG",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 59,
+    "PokemonIndex": 123,
+    "Index": 430,
+    "AreaName": "CITADARK ISLE",
+    "RoomId": 536,
+    "Name": "Capture LEDENs Shadow SCYTHER",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 60,
+    "PokemonIndex": 113,
+    "Index": 432,
+    "AreaName": "CITADARK ISLE",
+    "RoomId": 536,
+    "Name": "Capture LEDENs Shadow CHANSEY",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 61,
+    "PokemonIndex": 349,
+    "Index": 435,
+    "AreaName": "CITADARK ISLE",
+    "RoomId": 537,
+    "Name": "Capture SNATTLEs Shadow SOLROCK",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 62,
+    "PokemonIndex": 121,
+    "Index": 437,
+    "AreaName": "CITADARK ISLE",
+    "RoomId": 537,
+    "Name": "Capture SNATTLEs Shadow STARMIE",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 64,
+    "PokemonIndex": 305,
+    "Index": 441,
+    "AreaName": "CITADARK ISLE",
+    "RoomId": 537,
+    "Name": "Capture ARDOSs Shadow SWELLOW",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 63,
+    "PokemonIndex": 125,
+    "Index": 443,
+    "AreaName": "CITADARK ISLE",
+    "RoomId": 537,
+    "Name": "Capture ARDOSs Shadow ELECTABUZZ",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 65,
+    "PokemonIndex": 143,
+    "Index": 445,
+    "AreaName": "CITADARK ISLE",
+    "RoomId": 537,
+    "Name": "Capture ARDOSs Shadow SNORLAX",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 66,
+    "PokemonIndex": 62,
+    "Index": 448,
+    "AreaName": "CITADARK ISLE",
+    "RoomId": 537,
+    "Name": "Capture GORIGANs Shadow POLIWRATH",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 67,
+    "PokemonIndex": 122,
+    "Index": 450,
+    "AreaName": "CITADARK ISLE",
+    "RoomId": 537,
+    "Name": "Capture GORIGANs Shadow MR. MIME",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 68,
+    "PokemonIndex": 51,
+    "Index": 453,
+    "AreaName": "CITADARK ISLE",
+    "RoomId": 536,
+    "Name": "Capture KOLAXs Shadow DUGTRIO",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 69,
+    "PokemonIndex": 338,
+    "Index": 456,
+    "AreaName": "CITADARK ISLE",
+    "RoomId": 536,
+    "Name": "Capture ELDESs Shadow MANECTRIC",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 70,
+    "PokemonIndex": 397,
+    "Index": 458,
+    "AreaName": "CITADARK ISLE",
+    "RoomId": 536,
+    "Name": "Capture ELDESs Shadow SALAMENCE",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 71,
+    "PokemonIndex": 105,
+    "Index": 460,
+    "AreaName": "CITADARK ISLE",
+    "RoomId": 536,
+    "Name": "Capture ELDESs Shadow MAROWAK",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 72,
+    "PokemonIndex": 131,
+    "Index": 462,
+    "AreaName": "CITADARK ISLE",
+    "RoomId": 536,
+    "Name": "Capture ELDESs Shadow LAPRAS",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 73,
+    "PokemonIndex": 249,
+    "Index": 467,
+    "AreaName": "CITADARK ISLE",
+    "RoomId": 534,
+    "Name": "Capture GREEVILs Shadow LUGIA",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 78,
+    "PokemonIndex": 112,
+    "Index": 470,
+    "AreaName": "CITADARK ISLE",
+    "RoomId": 534,
+    "Name": "Capture GREEVILs Shadow RHYDON",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 75,
+    "PokemonIndex": 146,
+    "Index": 472,
+    "AreaName": "CITADARK ISLE",
+    "RoomId": 534,
+    "Name": "Capture GREEVILs Shadow MOLTRES",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 79,
+    "PokemonIndex": 103,
+    "Index": 474,
+    "AreaName": "CITADARK ISLE",
+    "RoomId": 534,
+    "Name": "Capture GREEVILs Shadow EXEGGUTOR",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 77,
+    "PokemonIndex": 128,
+    "Index": 476,
+    "AreaName": "CITADARK ISLE",
+    "RoomId": 534,
+    "Name": "Capture GREEVILs Shadow TAUROS",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 76,
+    "PokemonIndex": 144,
+    "Index": 478,
+    "AreaName": "CITADARK ISLE",
+    "RoomId": 534,
+    "Name": "Capture GREEVILs Shadow ARTICUNO",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 74,
+    "PokemonIndex": 145,
+    "Index": 480,
+    "AreaName": "CITADARK ISLE",
+    "RoomId": 534,
+    "Name": "Capture GREEVILs Shadow ZAPDOS",
+    "Category": "Shadow Snag"
+  },
+  {
+    "TrainerIndex": 0,
+    "ShadowIndex": 80,
+    "PokemonIndex": 149,
+    "Index": 515,
+    "AreaName": "GATEON PORT",
+    "RoomId": 543,
+    "Name": "Capture MIROR B.s Shadow DRAGONITE",
+    "Category": "Shadow Snag"
+  }
+]

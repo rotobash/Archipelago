@@ -1,819 +1,901 @@
 [
   {
-    "ItemIndex": 0,
-    "Index": 330,
-    "Quantity": 0,
+    "ShadowIndex": 30,
+    "Index": 116,
+    "Quantity": 1,
     "Name": "ZANGOOSE",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 121,
-    "Quantity": 0,
+    "ShadowIndex": 83,
+    "Index": 120,
+    "Quantity": 1,
     "Name": "LEDYBA",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
-      "Useful"
+      "Filler"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 125,
-    "Quantity": 0,
+    "ShadowIndex": 82,
+    "Index": 124,
+    "Quantity": 1,
     "Name": "POOCHYENA",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
-      "Useful"
+      "Filler"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 130,
-    "Quantity": 0,
+    "ShadowIndex": 1,
+    "Index": 129,
+    "Quantity": 1,
     "Name": "TEDDIURSA",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 486,
-    "Quantity": 0,
+    "ShadowIndex": 14,
+    "Index": 147,
+    "Quantity": 1,
     "Name": "HOUNDOUR",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 489,
-    "Quantity": 0,
+    "ShadowIndex": 3,
+    "Index": 150,
+    "Quantity": 1,
     "Name": "SPHEAL",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 492,
-    "Quantity": 0,
+    "ShadowIndex": 4,
+    "Index": 153,
+    "Quantity": 1,
     "Name": "BALTOY",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 495,
-    "Quantity": 0,
+    "ShadowIndex": 5,
+    "Index": 156,
+    "Quantity": 1,
     "Name": "MAREEP",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 498,
-    "Quantity": 0,
+    "ShadowIndex": 6,
+    "Index": 159,
+    "Quantity": 1,
     "Name": "GULPIN",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 501,
-    "Quantity": 0,
+    "ShadowIndex": 7,
+    "Index": 162,
+    "Quantity": 1,
     "Name": "SEEDOT",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 176,
-    "Quantity": 0,
+    "ShadowIndex": 8,
+    "Index": 175,
+    "Quantity": 1,
     "Name": "SPINARAK",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
-      "Useful"
+      "Filler"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 179,
-    "Quantity": 0,
+    "ShadowIndex": 9,
+    "Index": 178,
+    "Quantity": 1,
     "Name": "NUMEL",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 188,
-    "Quantity": 0,
+    "ShadowIndex": 10,
+    "Index": 187,
+    "Quantity": 1,
     "Name": "CARVANHA",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 192,
-    "Quantity": 0,
+    "ShadowIndex": 23,
+    "Index": 191,
+    "Quantity": 1,
     "Name": "SHROOMISH",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 196,
-    "Quantity": 0,
+    "ShadowIndex": 12,
+    "Index": 195,
+    "Quantity": 1,
     "Name": "DELCATTY",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
-      "Useful"
+      "Filler"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 209,
-    "Quantity": 0,
+    "ShadowIndex": 29,
+    "Index": 208,
+    "Quantity": 1,
     "Name": "VOLTORB",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 214,
-    "Quantity": 0,
+    "ShadowIndex": 2,
+    "Index": 213,
+    "Quantity": 1,
     "Name": "VULPIX",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 219,
-    "Quantity": 0,
+    "ShadowIndex": 15,
+    "Index": 218,
+    "Quantity": 1,
     "Name": "MAKUHITA",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 227,
-    "Quantity": 0,
+    "ShadowIndex": 16,
+    "Index": 226,
+    "Quantity": 1,
     "Name": "DUSKULL",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 231,
-    "Quantity": 0,
+    "ShadowIndex": 17,
+    "Index": 230,
+    "Quantity": 1,
     "Name": "RALTS",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 234,
-    "Quantity": 0,
+    "ShadowIndex": 18,
+    "Index": 233,
+    "Quantity": 1,
     "Name": "MAWILE",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
-      "Useful"
+      "Filler"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 237,
-    "Quantity": 0,
+    "ShadowIndex": 19,
+    "Index": 236,
+    "Quantity": 1,
     "Name": "SNORUNT",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 240,
-    "Quantity": 0,
+    "ShadowIndex": 20,
+    "Index": 239,
+    "Quantity": 1,
     "Name": "PINECO",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 250,
-    "Quantity": 0,
+    "ShadowIndex": 21,
+    "Index": 249,
+    "Quantity": 1,
     "Name": "SWINUB",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
-      "Useful"
+      "Filler"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 253,
-    "Quantity": 0,
+    "ShadowIndex": 22,
+    "Index": 252,
+    "Quantity": 1,
     "Name": "NATU",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 256,
-    "Quantity": 0,
+    "ShadowIndex": 11,
+    "Index": 255,
+    "Quantity": 1,
     "Name": "ROSELIA",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
-      "Useful"
+      "Filler"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 259,
-    "Quantity": 0,
+    "ShadowIndex": 24,
+    "Index": 258,
+    "Quantity": 1,
     "Name": "MEOWTH",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
-      "Useful"
+      "Filler"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 262,
-    "Quantity": 0,
+    "ShadowIndex": 25,
+    "Index": 261,
+    "Quantity": 1,
     "Name": "SPEAROW",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
-      "Useful"
+      "Filler"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 265,
-    "Quantity": 0,
+    "ShadowIndex": 26,
+    "Index": 264,
+    "Quantity": 1,
     "Name": "GRIMER",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 268,
-    "Quantity": 0,
+    "ShadowIndex": 27,
+    "Index": 267,
+    "Quantity": 1,
     "Name": "SEEL",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 271,
-    "Quantity": 0,
+    "ShadowIndex": 28,
+    "Index": 270,
+    "Quantity": 1,
     "Name": "LUNATONE",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
-      "Useful"
+      "Filler"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 315,
-    "Quantity": 0,
+    "ShadowIndex": 13,
+    "Index": 314,
+    "Quantity": 1,
     "Name": "NOSEPASS",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
-      "Useful"
+      "Filler"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 335,
-    "Quantity": 0,
+    "ShadowIndex": 32,
+    "Index": 334,
+    "Quantity": 1,
     "Name": "PARAS",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
-      "Useful"
+      "Filler"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 337,
-    "Quantity": 0,
+    "ShadowIndex": 31,
+    "Index": 336,
+    "Quantity": 1,
     "Name": "GROWLITHE",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 342,
-    "Quantity": 0,
+    "ShadowIndex": 33,
+    "Index": 341,
+    "Quantity": 1,
     "Name": "SHELLDER",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 346,
-    "Quantity": 0,
+    "ShadowIndex": 34,
+    "Index": 345,
+    "Quantity": 1,
     "Name": "BEEDRILL",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
-      "Useful"
+      "Filler"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 348,
-    "Quantity": 0,
+    "ShadowIndex": 35,
+    "Index": 347,
+    "Quantity": 1,
     "Name": "PIDGEOTTO",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 353,
-    "Quantity": 0,
+    "ShadowIndex": 37,
+    "Index": 352,
+    "Quantity": 1,
     "Name": "TANGELA",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
-      "Useful"
+      "Filler"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 355,
-    "Quantity": 0,
+    "ShadowIndex": 36,
+    "Index": 354,
+    "Quantity": 1,
     "Name": "BUTTERFREE",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
-      "Useful"
+      "Filler"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 359,
-    "Quantity": 0,
+    "ShadowIndex": 46,
+    "Index": 358,
+    "Quantity": 1,
     "Name": "MAGNETON",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 363,
-    "Quantity": 0,
+    "ShadowIndex": 39,
+    "Index": 362,
+    "Quantity": 1,
     "Name": "VENOMOTH",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
-      "Useful"
+      "Filler"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 365,
-    "Quantity": 0,
+    "ShadowIndex": 40,
+    "Index": 364,
+    "Quantity": 1,
     "Name": "WEEPINBELL",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 369,
-    "Quantity": 0,
+    "ShadowIndex": 41,
+    "Index": 368,
+    "Quantity": 1,
     "Name": "ARBOK",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
-      "Useful"
+      "Filler"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 372,
-    "Quantity": 0,
+    "ShadowIndex": 42,
+    "Index": 371,
+    "Quantity": 1,
     "Name": "PRIMEAPE",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 374,
-    "Quantity": 0,
+    "ShadowIndex": 43,
+    "Index": 373,
+    "Quantity": 1,
     "Name": "HYPNO",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 379,
-    "Quantity": 0,
+    "ShadowIndex": 44,
+    "Index": 378,
+    "Quantity": 1,
     "Name": "GOLDUCK",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 381,
-    "Quantity": 0,
+    "ShadowIndex": 45,
+    "Index": 380,
+    "Quantity": 1,
     "Name": "SABLEYE",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
-      "Useful"
+      "Filler"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 385,
-    "Quantity": 0,
+    "ShadowIndex": 47,
+    "Index": 384,
+    "Quantity": 1,
     "Name": "DODRIO",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 387,
-    "Quantity": 0,
+    "ShadowIndex": 38,
+    "Index": 386,
+    "Quantity": 1,
     "Name": "RATICATE",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
-      "Useful"
+      "Filler"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 392,
-    "Quantity": 0,
+    "ShadowIndex": 48,
+    "Index": 391,
+    "Quantity": 1,
     "Name": "FARFETCH\u0027D",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
-      "Useful"
+      "Filler"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 394,
-    "Quantity": 0,
+    "ShadowIndex": 49,
+    "Index": 393,
+    "Quantity": 1,
     "Name": "ALTARIA",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 398,
-    "Quantity": 0,
+    "ShadowIndex": 50,
+    "Index": 397,
+    "Quantity": 1,
     "Name": "KANGASKHAN",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 400,
-    "Quantity": 0,
+    "ShadowIndex": 51,
+    "Index": 399,
+    "Quantity": 1,
     "Name": "BANETTE",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 404,
-    "Quantity": 0,
+    "ShadowIndex": 52,
+    "Index": 403,
+    "Quantity": 1,
     "Name": "MAGMAR",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 406,
-    "Quantity": 0,
+    "ShadowIndex": 53,
+    "Index": 405,
+    "Quantity": 1,
     "Name": "PINSIR",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 414,
-    "Quantity": 0,
+    "ShadowIndex": 55,
+    "Index": 413,
+    "Quantity": 1,
     "Name": "RAPIDASH",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 416,
-    "Quantity": 0,
+    "ShadowIndex": 54,
+    "Index": 415,
+    "Quantity": 1,
     "Name": "MAGCARGO",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
-      "Useful"
+      "Filler"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 420,
-    "Quantity": 0,
+    "ShadowIndex": 56,
+    "Index": 419,
+    "Quantity": 1,
     "Name": "HITMONCHAN",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 423,
-    "Quantity": 0,
+    "ShadowIndex": 57,
+    "Index": 422,
+    "Quantity": 1,
     "Name": "HITMONLEE",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 428,
-    "Quantity": 0,
+    "ShadowIndex": 58,
+    "Index": 427,
+    "Quantity": 1,
     "Name": "LICKITUNG",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
-      "Useful"
+      "Filler"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 431,
-    "Quantity": 0,
+    "ShadowIndex": 59,
+    "Index": 430,
+    "Quantity": 1,
     "Name": "SCYTHER",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 433,
-    "Quantity": 0,
+    "ShadowIndex": 60,
+    "Index": 432,
+    "Quantity": 1,
     "Name": "CHANSEY",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 436,
-    "Quantity": 0,
+    "ShadowIndex": 61,
+    "Index": 435,
+    "Quantity": 1,
     "Name": "SOLROCK",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
-      "Useful"
+      "Filler"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 438,
-    "Quantity": 0,
+    "ShadowIndex": 62,
+    "Index": 437,
+    "Quantity": 1,
     "Name": "STARMIE",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 442,
-    "Quantity": 0,
+    "ShadowIndex": 64,
+    "Index": 441,
+    "Quantity": 1,
     "Name": "SWELLOW",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
-      "Useful"
+      "Filler"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 444,
-    "Quantity": 0,
+    "ShadowIndex": 63,
+    "Index": 443,
+    "Quantity": 1,
     "Name": "ELECTABUZZ",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 446,
-    "Quantity": 0,
+    "ShadowIndex": 65,
+    "Index": 445,
+    "Quantity": 1,
     "Name": "SNORLAX",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 449,
-    "Quantity": 0,
+    "ShadowIndex": 66,
+    "Index": 448,
+    "Quantity": 1,
     "Name": "POLIWRATH",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 451,
-    "Quantity": 0,
+    "ShadowIndex": 67,
+    "Index": 450,
+    "Quantity": 1,
     "Name": "MR. MIME",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 454,
-    "Quantity": 0,
+    "ShadowIndex": 68,
+    "Index": 453,
+    "Quantity": 1,
     "Name": "DUGTRIO",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
-      "Useful"
+      "Filler"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 457,
-    "Quantity": 0,
+    "ShadowIndex": 69,
+    "Index": 456,
+    "Quantity": 1,
     "Name": "MANECTRIC",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 459,
-    "Quantity": 0,
+    "ShadowIndex": 70,
+    "Index": 458,
+    "Quantity": 1,
     "Name": "SALAMENCE",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 461,
-    "Quantity": 0,
+    "ShadowIndex": 71,
+    "Index": 460,
+    "Quantity": 1,
     "Name": "MAROWAK",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
-      "Useful"
+      "Filler"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 463,
-    "Quantity": 0,
+    "ShadowIndex": 72,
+    "Index": 462,
+    "Quantity": 1,
     "Name": "LAPRAS",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 468,
-    "Quantity": 0,
+    "ShadowIndex": 73,
+    "Index": 467,
+    "Quantity": 1,
     "Name": "LUGIA",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 471,
-    "Quantity": 0,
+    "ShadowIndex": 78,
+    "Index": 470,
+    "Quantity": 1,
     "Name": "RHYDON",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 473,
-    "Quantity": 0,
+    "ShadowIndex": 75,
+    "Index": 472,
+    "Quantity": 1,
     "Name": "MOLTRES",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 475,
-    "Quantity": 0,
+    "ShadowIndex": 79,
+    "Index": 474,
+    "Quantity": 1,
     "Name": "EXEGGUTOR",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 477,
-    "Quantity": 0,
+    "ShadowIndex": 77,
+    "Index": 476,
+    "Quantity": 1,
     "Name": "TAUROS",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 479,
-    "Quantity": 0,
+    "ShadowIndex": 76,
+    "Index": 478,
+    "Quantity": 1,
     "Name": "ARTICUNO",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 481,
-    "Quantity": 0,
+    "ShadowIndex": 74,
+    "Index": 480,
+    "Quantity": 1,
     "Name": "ZAPDOS",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "ItemIndex": 0,
-    "Index": 516,
-    "Quantity": 0,
+    "ShadowIndex": 80,
+    "Index": 515,
+    "Quantity": 1,
     "Name": "DRAGONITE",
+    "Category": "Shadow Snag",
     "Progression": false,
     "ItemClassification": [
       "Useful"

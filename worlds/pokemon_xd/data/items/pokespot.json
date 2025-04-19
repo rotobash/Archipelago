@@ -1,9 +1,10 @@
 [
   {
     "PokemonIndex": 27,
-    "Index": 1616,
+    "Index": 701,
     "Quantity": 1,
     "Name": "Rock PokeSpot - SANDSHREW",
+    "Category": "Poke Spot",
     "Progression": false,
     "ItemClassification": [
       "Useful"
@@ -11,9 +12,10 @@
   },
   {
     "PokemonIndex": 207,
-    "Index": 1617,
+    "Index": 702,
     "Quantity": 1,
     "Name": "Rock PokeSpot - GLIGAR",
+    "Category": "Poke Spot",
     "Progression": false,
     "ItemClassification": [
       "Useful"
@@ -21,9 +23,10 @@
   },
   {
     "PokemonIndex": 332,
-    "Index": 1618,
+    "Index": 703,
     "Quantity": 1,
     "Name": "Rock PokeSpot - TRAPINCH",
+    "Category": "Poke Spot",
     "Progression": false,
     "ItemClassification": [
       "Useful"
@@ -31,9 +34,10 @@
   },
   {
     "PokemonIndex": 187,
-    "Index": 1619,
+    "Index": 704,
     "Quantity": 1,
     "Name": "Oasis PokeSpot - HOPPIP",
+    "Category": "Poke Spot",
     "Progression": false,
     "ItemClassification": [
       "Useful"
@@ -41,9 +45,10 @@
   },
   {
     "PokemonIndex": 231,
-    "Index": 1620,
+    "Index": 705,
     "Quantity": 1,
     "Name": "Oasis PokeSpot - PHANPY",
+    "Category": "Poke Spot",
     "Progression": false,
     "ItemClassification": [
       "Useful"
@@ -51,9 +56,10 @@
   },
   {
     "PokemonIndex": 311,
-    "Index": 1621,
+    "Index": 706,
     "Quantity": 1,
     "Name": "Oasis PokeSpot - SURSKIT",
+    "Category": "Poke Spot",
     "Progression": false,
     "ItemClassification": [
       "Useful"
@@ -61,9 +67,10 @@
   },
   {
     "PokemonIndex": 41,
-    "Index": 1622,
+    "Index": 707,
     "Quantity": 1,
     "Name": "Cave PokeSpot - ZUBAT",
+    "Category": "Poke Spot",
     "Progression": false,
     "ItemClassification": [
       "Useful"
@@ -71,9 +78,10 @@
   },
   {
     "PokemonIndex": 382,
-    "Index": 1623,
+    "Index": 708,
     "Quantity": 1,
     "Name": "Cave PokeSpot - ARON",
+    "Category": "Poke Spot",
     "Progression": false,
     "ItemClassification": [
       "Useful"
@@ -81,9 +89,10 @@
   },
   {
     "PokemonIndex": 194,
-    "Index": 1624,
+    "Index": 709,
     "Quantity": 1,
     "Name": "Cave PokeSpot - WOOPER",
+    "Category": "Poke Spot",
     "Progression": false,
     "ItemClassification": [
       "Useful"

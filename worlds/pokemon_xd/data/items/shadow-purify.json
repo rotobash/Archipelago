@@ -1,819 +1,901 @@
 [
   {
-    "PokemonIndex": 380,
-    "Index": 329,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 117,
+    "Quantity": 0,
     "Name": "ZANGOOSE",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "PokemonIndex": 165,
-    "Index": 120,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 121,
+    "Quantity": 0,
     "Name": "LEDYBA",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
-      "Filler"
+      "Useful"
     ]
   },
   {
-    "PokemonIndex": 286,
-    "Index": 124,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 125,
+    "Quantity": 0,
     "Name": "POOCHYENA",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
-      "Filler"
+      "Useful"
     ]
   },
   {
-    "PokemonIndex": 216,
-    "Index": 129,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 130,
+    "Quantity": 0,
     "Name": "TEDDIURSA",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "PokemonIndex": 228,
-    "Index": 485,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 148,
+    "Quantity": 0,
     "Name": "HOUNDOUR",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "PokemonIndex": 341,
-    "Index": 488,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 151,
+    "Quantity": 0,
     "Name": "SPHEAL",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "PokemonIndex": 318,
-    "Index": 491,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 154,
+    "Quantity": 0,
     "Name": "BALTOY",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "PokemonIndex": 179,
-    "Index": 494,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 157,
+    "Quantity": 0,
     "Name": "MAREEP",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "PokemonIndex": 367,
-    "Index": 497,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 160,
+    "Quantity": 0,
     "Name": "GULPIN",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "PokemonIndex": 298,
-    "Index": 500,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 163,
+    "Quantity": 0,
     "Name": "SEEDOT",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "PokemonIndex": 167,
-    "Index": 175,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 176,
+    "Quantity": 0,
     "Name": "SPINARAK",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
-      "Filler"
+      "Useful"
     ]
   },
   {
-    "PokemonIndex": 339,
-    "Index": 178,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 179,
+    "Quantity": 0,
     "Name": "NUMEL",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "PokemonIndex": 330,
-    "Index": 187,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 188,
+    "Quantity": 0,
     "Name": "CARVANHA",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "PokemonIndex": 306,
-    "Index": 191,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 192,
+    "Quantity": 0,
     "Name": "SHROOMISH",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "PokemonIndex": 316,
-    "Index": 195,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 196,
+    "Quantity": 0,
     "Name": "DELCATTY",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
-      "Filler"
+      "Useful"
     ]
   },
   {
-    "PokemonIndex": 100,
-    "Index": 208,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 209,
+    "Quantity": 0,
     "Name": "VOLTORB",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "PokemonIndex": 37,
-    "Index": 213,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 214,
+    "Quantity": 0,
     "Name": "VULPIX",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "PokemonIndex": 335,
-    "Index": 218,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 219,
+    "Quantity": 0,
     "Name": "MAKUHITA",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "PokemonIndex": 361,
-    "Index": 226,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 227,
+    "Quantity": 0,
     "Name": "DUSKULL",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "PokemonIndex": 392,
-    "Index": 230,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 231,
+    "Quantity": 0,
     "Name": "RALTS",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "PokemonIndex": 355,
-    "Index": 233,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 234,
+    "Quantity": 0,
     "Name": "MAWILE",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
-      "Filler"
+      "Useful"
     ]
   },
   {
-    "PokemonIndex": 346,
-    "Index": 236,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 237,
+    "Quantity": 0,
     "Name": "SNORUNT",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "PokemonIndex": 204,
-    "Index": 239,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 240,
+    "Quantity": 0,
     "Name": "PINECO",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "PokemonIndex": 220,
-    "Index": 249,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 250,
+    "Quantity": 0,
     "Name": "SWINUB",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
-      "Filler"
+      "Useful"
     ]
   },
   {
-    "PokemonIndex": 177,
-    "Index": 252,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 253,
+    "Quantity": 0,
     "Name": "NATU",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "PokemonIndex": 363,
-    "Index": 255,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 256,
+    "Quantity": 0,
     "Name": "ROSELIA",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
-      "Filler"
+      "Useful"
     ]
   },
   {
-    "PokemonIndex": 52,
-    "Index": 258,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 259,
+    "Quantity": 0,
     "Name": "MEOWTH",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
-      "Filler"
+      "Useful"
     ]
   },
   {
-    "PokemonIndex": 21,
-    "Index": 261,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 262,
+    "Quantity": 0,
     "Name": "SPEAROW",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
-      "Filler"
+      "Useful"
     ]
   },
   {
-    "PokemonIndex": 88,
-    "Index": 264,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 265,
+    "Quantity": 0,
     "Name": "GRIMER",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "PokemonIndex": 86,
-    "Index": 267,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 268,
+    "Quantity": 0,
     "Name": "SEEL",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "PokemonIndex": 348,
-    "Index": 270,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 271,
+    "Quantity": 0,
     "Name": "LUNATONE",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
-      "Filler"
+      "Useful"
     ]
   },
   {
-    "PokemonIndex": 320,
-    "Index": 314,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 315,
+    "Quantity": 0,
     "Name": "NOSEPASS",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
-      "Filler"
+      "Useful"
     ]
   },
   {
-    "PokemonIndex": 46,
-    "Index": 334,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 335,
+    "Quantity": 0,
     "Name": "PARAS",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
-      "Filler"
+      "Useful"
     ]
   },
   {
-    "PokemonIndex": 58,
-    "Index": 336,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 337,
+    "Quantity": 0,
     "Name": "GROWLITHE",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "PokemonIndex": 90,
-    "Index": 341,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 342,
+    "Quantity": 0,
     "Name": "SHELLDER",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "PokemonIndex": 15,
-    "Index": 345,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 346,
+    "Quantity": 0,
     "Name": "BEEDRILL",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
-      "Filler"
+      "Useful"
     ]
   },
   {
-    "PokemonIndex": 17,
-    "Index": 347,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 348,
+    "Quantity": 0,
     "Name": "PIDGEOTTO",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "PokemonIndex": 114,
-    "Index": 352,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 353,
+    "Quantity": 0,
     "Name": "TANGELA",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
-      "Filler"
+      "Useful"
     ]
   },
   {
-    "PokemonIndex": 12,
-    "Index": 354,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 355,
+    "Quantity": 0,
     "Name": "BUTTERFREE",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
-      "Filler"
+      "Useful"
     ]
   },
   {
-    "PokemonIndex": 82,
-    "Index": 358,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 359,
+    "Quantity": 0,
     "Name": "MAGNETON",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "PokemonIndex": 49,
-    "Index": 362,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 363,
+    "Quantity": 0,
     "Name": "VENOMOTH",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
-      "Filler"
+      "Useful"
     ]
   },
   {
-    "PokemonIndex": 70,
-    "Index": 364,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 365,
+    "Quantity": 0,
     "Name": "WEEPINBELL",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "PokemonIndex": 24,
-    "Index": 368,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 369,
+    "Quantity": 0,
     "Name": "ARBOK",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
-      "Filler"
+      "Useful"
     ]
   },
   {
-    "PokemonIndex": 57,
-    "Index": 371,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 372,
+    "Quantity": 0,
     "Name": "PRIMEAPE",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "PokemonIndex": 97,
-    "Index": 373,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 374,
+    "Quantity": 0,
     "Name": "HYPNO",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "PokemonIndex": 55,
-    "Index": 378,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 379,
+    "Quantity": 0,
     "Name": "GOLDUCK",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "PokemonIndex": 322,
-    "Index": 380,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 381,
+    "Quantity": 0,
     "Name": "SABLEYE",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
-      "Filler"
+      "Useful"
     ]
   },
   {
-    "PokemonIndex": 85,
-    "Index": 384,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 385,
+    "Quantity": 0,
     "Name": "DODRIO",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "PokemonIndex": 20,
-    "Index": 386,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 387,
+    "Quantity": 0,
     "Name": "RATICATE",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
-      "Filler"
+      "Useful"
     ]
   },
   {
-    "PokemonIndex": 83,
-    "Index": 391,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 392,
+    "Quantity": 0,
     "Name": "FARFETCH\u0027D",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
-      "Filler"
+      "Useful"
     ]
   },
   {
-    "PokemonIndex": 359,
-    "Index": 393,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 394,
+    "Quantity": 0,
     "Name": "ALTARIA",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "PokemonIndex": 115,
-    "Index": 397,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 398,
+    "Quantity": 0,
     "Name": "KANGASKHAN",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "PokemonIndex": 378,
-    "Index": 399,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 400,
+    "Quantity": 0,
     "Name": "BANETTE",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "PokemonIndex": 126,
-    "Index": 403,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 404,
+    "Quantity": 0,
     "Name": "MAGMAR",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "PokemonIndex": 127,
-    "Index": 405,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 406,
+    "Quantity": 0,
     "Name": "PINSIR",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "PokemonIndex": 78,
-    "Index": 413,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 414,
+    "Quantity": 0,
     "Name": "RAPIDASH",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "PokemonIndex": 219,
-    "Index": 415,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 416,
+    "Quantity": 0,
     "Name": "MAGCARGO",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
-      "Filler"
+      "Useful"
     ]
   },
   {
-    "PokemonIndex": 107,
-    "Index": 419,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 420,
+    "Quantity": 0,
     "Name": "HITMONCHAN",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "PokemonIndex": 106,
-    "Index": 422,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 423,
+    "Quantity": 0,
     "Name": "HITMONLEE",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "PokemonIndex": 108,
-    "Index": 427,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 428,
+    "Quantity": 0,
     "Name": "LICKITUNG",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
-      "Filler"
+      "Useful"
     ]
   },
   {
-    "PokemonIndex": 123,
-    "Index": 430,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 431,
+    "Quantity": 0,
     "Name": "SCYTHER",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "PokemonIndex": 113,
-    "Index": 432,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 433,
+    "Quantity": 0,
     "Name": "CHANSEY",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "PokemonIndex": 349,
-    "Index": 435,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 436,
+    "Quantity": 0,
     "Name": "SOLROCK",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
-      "Filler"
+      "Useful"
     ]
   },
   {
-    "PokemonIndex": 121,
-    "Index": 437,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 438,
+    "Quantity": 0,
     "Name": "STARMIE",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "PokemonIndex": 305,
-    "Index": 441,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 442,
+    "Quantity": 0,
     "Name": "SWELLOW",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
-      "Filler"
+      "Useful"
     ]
   },
   {
-    "PokemonIndex": 125,
-    "Index": 443,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 444,
+    "Quantity": 0,
     "Name": "ELECTABUZZ",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "PokemonIndex": 143,
-    "Index": 445,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 446,
+    "Quantity": 0,
     "Name": "SNORLAX",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "PokemonIndex": 62,
-    "Index": 448,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 449,
+    "Quantity": 0,
     "Name": "POLIWRATH",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "PokemonIndex": 122,
-    "Index": 450,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 451,
+    "Quantity": 0,
     "Name": "MR. MIME",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "PokemonIndex": 51,
-    "Index": 453,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 454,
+    "Quantity": 0,
     "Name": "DUGTRIO",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
-      "Filler"
+      "Useful"
     ]
   },
   {
-    "PokemonIndex": 338,
-    "Index": 456,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 457,
+    "Quantity": 0,
     "Name": "MANECTRIC",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "PokemonIndex": 397,
-    "Index": 458,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 459,
+    "Quantity": 0,
     "Name": "SALAMENCE",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "PokemonIndex": 105,
-    "Index": 460,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 461,
+    "Quantity": 0,
     "Name": "MAROWAK",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
-      "Filler"
+      "Useful"
     ]
   },
   {
-    "PokemonIndex": 131,
-    "Index": 462,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 463,
+    "Quantity": 0,
     "Name": "LAPRAS",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "PokemonIndex": 249,
-    "Index": 467,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 468,
+    "Quantity": 0,
     "Name": "LUGIA",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "PokemonIndex": 112,
-    "Index": 470,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 471,
+    "Quantity": 0,
     "Name": "RHYDON",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "PokemonIndex": 146,
-    "Index": 472,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 473,
+    "Quantity": 0,
     "Name": "MOLTRES",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "PokemonIndex": 103,
-    "Index": 474,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 475,
+    "Quantity": 0,
     "Name": "EXEGGUTOR",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "PokemonIndex": 128,
-    "Index": 476,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 477,
+    "Quantity": 0,
     "Name": "TAUROS",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "PokemonIndex": 144,
-    "Index": 478,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 479,
+    "Quantity": 0,
     "Name": "ARTICUNO",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "PokemonIndex": 145,
-    "Index": 480,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 481,
+    "Quantity": 0,
     "Name": "ZAPDOS",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
       "Useful"
     ]
   },
   {
-    "PokemonIndex": 149,
-    "Index": 515,
-    "Quantity": 1,
+    "ItemIndex": 0,
+    "Index": 516,
+    "Quantity": 0,
     "Name": "DRAGONITE",
+    "Category": "Shadow Purify",
     "Progression": false,
     "ItemClassification": [
       "Useful"
