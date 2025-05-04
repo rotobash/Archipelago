@@ -35,13 +35,15 @@ class PokemonXDItem(Item):
 
     def __init__(self, code: Optional[int], player: int, **data):
         flag = 0
-        self.quantity = data["Metadata"]["Quantity"]
-        self.name = data["Name"]
+        self.name = f'{data["Name"]} ({data["Index"]})'
         self.index = data["Index"]
         item_classifications: list[str] = data["ItemClassification"]
 
+        if "Metadata" in data and "Quantity" in data["Metadata"]:
+            self.quantity = data["Metadata"]["Quantity"]
+
         flags = 0
-        for cls in item_classifications:
+        for cls in item_classifications: 
             cls = cls.lower()
             if cls == ItemClassification.progression.name:
                 flags |= ItemClassification.progression

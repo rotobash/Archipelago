@@ -1,15 +1,27 @@
 import json
 import os
-from BaseClasses import ItemClassification
+from BaseClasses import ItemClassification, Tutorial
 import settings
 import typing
 
 from .Items import PokemonItemType, PokemonXDItem
-from .Data import generate_lists
+from .Data import BASE_ID, generate_item_name_to_id, generate_lists, generate_location_name_to_id
 from .Options import PokemonXDOptions, PokemonItemOptionType, TrainersanityOptionType
 from .Regions import create_pokemonxd_regions
 from .Rules import build_access_rules
-from worlds.AutoWorld import World
+from worlds.AutoWorld import WebWorld, World
+
+
+class PokemonXDWeb(WebWorld):
+    tutorials = [Tutorial(
+        "Multiworld Setup Guide",
+        "A guide to setting up Pokemon XD for MultiWorld.",
+        "English",
+        "setup_en.md",
+        "setup/en",
+        ["rotobash"]
+    )]
+
 
 class PokemonXDSettings(settings.Group):
     class RomFile(settings.FilePath):
@@ -29,32 +41,35 @@ class PokemonXDWorld(World):
     # will be automatically assigned from type hint
     settings: typing.ClassVar[PokemonXDSettings]
     topology_present = True  # show path to required location checks in spoiler
-    base_id = 0x5858
 
-    item_name_to_id = {}
-    location_name_to_id = {}
+    item_name_to_id = generate_item_name_to_id()
+    location_name_to_id = generate_location_name_to_id()
+    
+    web = PokemonXDWeb()
 
     def __init__(self, multiworld, player):
-        super().__init__(multiworld, player)
-
-        (locations, items) = generate_lists(player, self.base_id)
+        (locations, items) = generate_lists(player)
         self.locations = {i.address: i for i in locations}
         self.locations_by_name = {i.name: i for i in locations}
         self.items = {i.code: i for i in items}
 
-        self.item_name_to_id = {i.name: i.code for i in items}
-        self.location_name_to_id = {i.name: i.address for i in locations}
+        super().__init__(multiworld, player)
 
     def create_regions(self):
         self.origin_region_name = create_pokemonxd_regions(
             self.player, self.multiworld, self.locations_by_name)
 
-    def create_item(self, name):
-        for item in self.items.values():
-            if item.name == name:
-                return item
+    def create_item(self, name) -> PokemonXDItem:
+        if name in self.item_name_to_id and self.item_name_to_id[name] in self.items:
+            # if the item already exists, we can just return it
+            return self.items[self.item_name_to_id[name]]
 
-        return PokemonXDItem(self.base_id, self.player, {"Index": len(self.locations) + self.base_id, "Name": name, "Quantity": 1, "ItemClassification": [ItemClassification.filler]})
+        return PokemonXDItem(BASE_ID, self.player, **{"Index": max(self.items.keys())+ 1, "Name": name, "Quantity": 1, "ItemClassification": [ItemClassification.filler.name]})
+    
+    
+    def create_event(self, event: str) -> PokemonXDItem:
+        # while we are at it, we can also add a helper to create events
+        return PokemonXDItem(BASE_ID, self.player, **{ "Index": max(self.items.keys())+ 1, "Name": event, "ItemClassification": [ItemClassification.progression.name] })
 
     def create_items(self):
         items: list[PokemonXDItem] = []
@@ -108,8 +123,20 @@ class PokemonXDWorld(World):
             lambda it: it.item_type == PokemonItemType.TUTORMOVE, ap_items)]
         locked_items.extend(tutor_moves)
 
+        win_location = self.locations_by_name["Defeat GREEVIL at CITADARK ISLE"]
+        win_event = self.create_event("Defeat GREEVIL at CITADARK ISLE")
+        win_location.place_locked_item(win_event)
+        self.multiworld.completion_condition[self.player] = lambda state: state.has(win_event.name, self.player)
+        for item in items:
+            if item.code == win_location.address:
+                items.remove(item)
+                break
+
         self.multiworld.itempool += items
         for locked_item in locked_items:
+            if win_location.address == locked_item.code:
+                continue
+
             location = self.locations[locked_item.code]
             location.place_locked_item(locked_item)
 
@@ -134,9 +161,9 @@ class PokemonXDWorld(World):
             "Slot": self.multiworld.player_name[self.player],
             "DolphinPath": self.settings.dolphin_path,
             "RomFile": self.settings.rom_file,
-            "BaseId": self.base_id,
             "OptionsFlag": 0xFFFF,
-            "Locations": filled_location_info
+            "Locations": filled_location_info,
+            "Items": item_info
         }
 
         # generate output path

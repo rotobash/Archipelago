@@ -43,6 +43,23 @@ class PokemonXDPokemonLocation(PokemonXDLocation):
             "ShadowIndex": self.shadow_index
         }
 
+class PokemonXDPurifyPokemonLocation(PokemonXDLocation):
+    pokemon_index = 0
+    shadow_index = 0
+
+    def __init__(self, player: int, address: Optional[int], parent: Optional[Region], **data):
+        if "PokemonIndex" in data["Metadata"]:
+            self.pokemon_index = data["Metadata"]["PokemonIndex"]
+        self.shadow_index = data["Metadata"]["ShadowIndex"]
+        super().__init__(player, address, parent, **data)
+
+    def to_json(self):
+        return {
+            **super().to_json(),
+            "PokemonIndex": self.pokemon_index,
+            "ShadowIndex": self.shadow_index
+        }
+
 class PokemonXDTrainerBattleLocation(PokemonXDLocation):
     battle_index = 0
 

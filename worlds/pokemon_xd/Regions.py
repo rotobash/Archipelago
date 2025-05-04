@@ -56,6 +56,9 @@ def create_pokemonxd_regions(player: int, multiworld: MultiWorld, locations: dic
     hub_area: PokemonXDRegion = PokemonXDRegion(player, multiworld, None, **{"RoomIndex": 0, "Name": "Menu", "Starting": False, "ConnectsTo": {}, "Locations": {}})
     
     for room_obj in world_def["Regions"]:
+        if room_obj["Unused"]:
+            continue
+
         room = PokemonXDRegion(player, multiworld, None, **room_obj)
         room_dict[room.room_id] = room
 
@@ -64,7 +67,7 @@ def create_pokemonxd_regions(player: int, multiworld: MultiWorld, locations: dic
             location = locations.get(location_name)
             room.locations.append(location)
 
-    multiworld.regions.extend(room_dict.values())
+        multiworld.regions.append(room)
 
     for room in room_dict.values():
         if room.map_entrance:
