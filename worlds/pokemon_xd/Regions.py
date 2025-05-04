@@ -2,8 +2,7 @@
 
 from BaseClasses import MultiWorld, Region
 from .Locations import PokemonXDLocation
-from .load_json import load_data_def
-
+from .Data import load_data_def
 
 class PokemonXDRegion(Region):
     game: str = "Pokemon XD"
