@@ -6,7 +6,7 @@ import typing
 
 from .Items import PokemonItemType, PokemonXDItem
 from .Data import BASE_ID, generate_item_name_to_id, generate_lists, generate_location_name_to_id
-from .Options import PokemonXDOptions, PokemonItemOptionType, TrainersanityOptionType
+from .Options import PokemonXDOptions, PokemonItemOptionType
 from .Regions import create_pokemonxd_regions
 from .Rules import build_access_rules
 from worlds.AutoWorld import WebWorld, World
@@ -163,7 +163,8 @@ class PokemonXDWorld(World):
             "RomFile": self.settings.rom_file,
             "OptionsFlag": 0xFFFF,
             "Locations": filled_location_info,
-            "Items": item_info
+            "Items": item_info,
+            "RandomizerOptions": self.options.randomizer_options.to_randomizer_json()
         }
 
         # generate output path

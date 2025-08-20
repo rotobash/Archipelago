@@ -1,7 +1,7 @@
 from dataclasses import dataclass
 from enum import Enum
-import typing
 from Options import Option, DefaultOnToggle, PerGameCommonOptions, Range, Toggle, DeathLink, Choice, OptionSet
+from .RandomizerOptions import RandomizerOptions
 
 class PokemonItemOptionType(Enum):
     Snags = 1,
@@ -48,7 +48,6 @@ class PurifyPokemon(Toggle):
     """ Purifying pokemon will unlock items. """
     display_name = "Add Purify Pokemon Checks"
 
-
 @dataclass
 class PokemonXDOptions(PerGameCommonOptions):
     item_checks: ItemChecks
@@ -58,3 +57,4 @@ class PokemonXDOptions(PerGameCommonOptions):
     trainersanity_toggle: TrainersanityToggle
     trainersanity: TrainersanityOptions
     death_link: DeathLink
+    randomizer_options: RandomizerOptions
