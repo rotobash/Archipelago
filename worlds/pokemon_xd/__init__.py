@@ -64,12 +64,12 @@ class PokemonXDWorld(World):
             # if the item already exists, we can just return it
             return self.items[self.item_name_to_id[name]]
 
-        return PokemonXDItem(BASE_ID, self.player, **{"Index": max(self.items.keys())+ 1, "Name": name, "Quantity": 1, "ItemClassification": [ItemClassification.filler.name]})
+        return PokemonXDItem(BASE_ID, self.player, **{"Index": max(self.items.keys())+ 1, "Name": name, "Quantity": 1, "Classifications": [ItemClassification.filler.name]})
     
     
     def create_event(self, event: str) -> PokemonXDItem:
         # while we are at it, we can also add a helper to create events
-        return PokemonXDItem(BASE_ID, self.player, **{ "Index": max(self.items.keys())+ 1, "Name": event, "ItemClassification": [ItemClassification.progression.name] })
+        return PokemonXDItem(BASE_ID, self.player, **{ "Index": max(self.items.keys())+ 1, "Name": event, "Classifications": [ItemClassification.progression.name] })
 
     def create_items(self):
         items: list[PokemonXDItem] = []
@@ -164,7 +164,7 @@ class PokemonXDWorld(World):
             "OptionsFlag": 0xFFFF,
             "Locations": filled_location_info,
             "Items": item_info,
-            "RandomizerOptions": self.options.randomizer_options.to_randomizer_json()
+            # "RandomizerOptions": self.options.randomizer_options.to_randomizer_json()
         }
 
         # generate output path

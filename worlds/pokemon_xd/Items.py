@@ -37,7 +37,7 @@ class PokemonXDItem(Item):
         flag = 0
         self.name = f'{data["Name"]} ({data["Index"]})'
         self.index = data["Index"]
-        item_classifications: list[str] = data["ItemClassification"]
+        item_classifications: list[str] = data["Classifications"]
 
         if "Metadata" in data and "Quantity" in data["Metadata"]:
             self.quantity = data["Metadata"]["Quantity"]
@@ -57,7 +57,7 @@ class PokemonXDItem(Item):
     def to_json(self):
         return {
             "Name": self.name,
-            "Index": self.index,
+            "Index": self.code,
             "Quantity": self.quantity,
             "ItemClassification": [cls.name for cls in self.classification],
             "ItemType": self.item_type.name
@@ -67,17 +67,22 @@ class PokemonXDItem(Item):
 class PokemonXDPokemonItem(PokemonXDItem):
     pokemon_index = 0
     shadow_index = 0
+    level = 0
     item_type = PokemonItemType.POKEMON
 
     def __init__(self, code: Optional[int], player: int, **data):
         self.pokemon_index = data["Metadata"]["PokemonIndex"]
         if "ShadowIndex" in data["Metadata"]:
             self.shadow_index = data["Metadata"]["ShadowIndex"]
+        if "Level" in data["Metadata"]:
+            self.level = data["Metadata"]["Level"]
+            
         super().__init__(code, player, **data)
 
     def to_json(self):
         return {
             **super().to_json(),
+            "Level": self.level,
             "PokemonIndex": self.pokemon_index,
             "ShadowIndex": self.shadow_index
         }

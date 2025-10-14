@@ -4,7 +4,7 @@ import pkgutil
 from .Locations import PokemonXDGiftLocation, PokemonXDPurifyPokemonLocation, PokemonXDTreasureLocation, PokemonXDLocation, PokemonXDPokemonLocation, PokemonXDTrainerBattleLocation, PokemonXDTutorMoveLocation
 from .Items import PokemonXDItem, PokemonXDFoundItem, PokemonXDMoneyItem, PokemonXDPokemonItem, PokemonXDPurifyPokemonItem, PokemonXDTutorMoveItem
 
-WORLD_DEFINITION_FILE = "xd.worlddef.json"
+WORLD_DEFINITION_FILE = "xd2.worlddef.json"
 BASE_ID = 0x5858
 
 def load_data_def(filename):
@@ -28,6 +28,8 @@ def generate_lists(player: int) -> tuple[list[PokemonXDLocation], list[PokemonXD
     items = []
 
     world_def = load_data_def(WORLD_DEFINITION_FILE)
+    world_def["Items"] = sorted(world_def["Items"], key=lambda x: x["Index"])
+    world_def["Locations"] = sorted(world_def["Locations"], key=lambda x: x["Index"])
 
     for item, location in zip(world_def["Items"], world_def["Locations"]):
         metadata = item["Metadata"]
@@ -49,5 +51,5 @@ def generate_lists(player: int) -> tuple[list[PokemonXDLocation], list[PokemonXD
         elif metadata["Category"] == "Tutor Move":
             items.append(PokemonXDTutorMoveItem(BASE_ID, player, **item))
             locations.append(PokemonXDTutorMoveLocation(player, BASE_ID, None, **location))
-
+            
     return (locations, items)

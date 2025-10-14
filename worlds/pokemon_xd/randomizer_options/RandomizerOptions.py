@@ -2,7 +2,9 @@
 from dataclasses import dataclass
 import json
 from Options import Option, Toggle
-from .randomizer_options import TraitRandomizerOptions, MoveRandomizerOptions, TeamRandomizerOptions
+from .TraitRandomizerOptions import TraitRandomizerOptions
+from .MoveRandomizerOptions import MoveRandomizerOptions
+from .TeamRandomizerOptions import TeamRandomizerOptions
 
 class TurnOffMoveAnimations(Toggle):
     """ Turns off move animations to speed up battles. """
@@ -13,9 +15,9 @@ class RandomizerOptions(Option):
     """ Options for the Pokemon XD randomizer. """
     display_name = "Pokemon XD Randomizer Options"
     turn_off_move_animations: TurnOffMoveAnimations
-    trait_randomizer_options: TraitRandomizerOptions
-    move_randomizer_options: MoveRandomizerOptions
-    team_randomizer_options: TeamRandomizerOptions
+    trait_randomizer_options: TraitRandomizerOptions = TraitRandomizerOptions()
+    move_randomizer_options: MoveRandomizerOptions = MoveRandomizerOptions()
+    team_randomizer_options: TeamRandomizerOptions = TeamRandomizerOptions()
     
 
     def to_randomizer_json(self):

@@ -1,3 +1,4 @@
+from dataclasses import dataclass
 from Options import Option, Toggle
 
 class RandomizeMoves(Toggle):
@@ -28,6 +29,7 @@ class ForceFourMoves(Toggle):
     """ Force Pokemon to have four moves. May use random moves if there are none to pick from. """
     display_name = "Randomize Moves"
 
+@dataclass
 class MoveRandomizerOptions(Option):
     randomize_moves: RandomizeMoves
     legal_moves_only: LegalMovesOnly

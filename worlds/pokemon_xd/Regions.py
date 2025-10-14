@@ -2,18 +2,18 @@
 
 from BaseClasses import MultiWorld, Region
 from .Locations import PokemonXDLocation
-from .Data import load_data_def
+from .Data import WORLD_DEFINITION_FILE, load_data_def
 
 class PokemonXDRegion(Region):
     game: str = "Pokemon XD"
     room_id: int = 0
     requires: str = ""
-    connects_to: dict[str, list] = []
+    connects_to: list[dict] = []
     starting: bool = False
     map_entrance: bool = False
 
     def __init__(self, player: int, multiworld: MultiWorld, hint = None, **data):
-        self.room_id = data["RoomIndex"]
+        self.room_id = data["Index"]
         self.starting = data["Starting"]
         self.connects_to = data["ConnectsTo"]
         name = data["Name"]
@@ -22,7 +22,7 @@ class PokemonXDRegion(Region):
 
     def as_json(self):
         return {
-            "RoomIndex": self.room_id,
+            "Index": self.room_id,
             "Starting": self.starting,
             "MapEntrance": self.map_entrance,
             "Requires": self.requires,
@@ -50,34 +50,37 @@ class PokemonXDRegion(Region):
 #     return events
 
 def create_pokemonxd_regions(player: int, multiworld: MultiWorld, locations: dict[str, PokemonXDLocation]):
-    world_def = load_data_def("xd.worlddef.json")
+    world_def = load_data_def(WORLD_DEFINITION_FILE)
 
-    room_dict: dict[int, PokemonXDRegion] = {}
-    hub_area: PokemonXDRegion = PokemonXDRegion(player, multiworld, None, **{"RoomIndex": 0, "Name": "Menu", "Starting": False, "ConnectsTo": {}, "Locations": {}})
+    room_dict: dict[str, PokemonXDRegion] = {}
+    hub_area: PokemonXDRegion = PokemonXDRegion(player, multiworld, None, **{"Index": 0, "Name": "Menu", "Starting": False, "ConnectsTo": [], "Locations": []})
     
     for room_obj in world_def["Regions"]:
         if room_obj["Unused"]:
             continue
 
         room = PokemonXDRegion(player, multiworld, None, **room_obj)
-        room_dict[room.room_id] = room
+        room_dict[room.name] = room
 
-        location_dict: dict[str, list] = room_obj["Locations"]
-        for location_name in location_dict.keys():
-            location = locations.get(location_name)
+        region_locations: list[dict] = room_obj["Locations"]
+        for location in region_locations:
+            location = locations.get(location["LocationName"])
+            if location is None:
+                raise Exception(f"Location {location['LocationName']} not found in world definition.")
             room.locations.append(location)
 
         multiworld.regions.append(room)
 
-    for room in room_dict.values():
+    for room_name, room in room_dict.items():
         if room.map_entrance:
             entrance = room
             hub_area.connect(entrance)
             entrance.connect(hub_area)
             
-        for room_id_str, access_rules in room.connects_to.items():
-            room_connection = int(room_id_str)
-            region = room_dict[room_connection]
+        for room_connection in room.connects_to:
+            region = room_dict[room_connection["RegionName"]]
+            if region is None:
+                raise Exception(f"Region {room_connection['RegionName']} not found in world definition.")
             room.connect(region)
 
         for location in room.locations:
@@ -85,4 +88,4 @@ def create_pokemonxd_regions(player: int, multiworld: MultiWorld, locations: dic
 
 
 
-    return room_dict[141].name
+    return "POKEMON HQ LAB - Entrance"
